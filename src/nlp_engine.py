@@ -8,7 +8,12 @@ from sklearn.linear_model import LogisticRegression
 # 1. LOAD DATA
 # ============================================================
 
-DATA_PATH = "data\safety_reports.xlsx"
+from pathlib import Path
+import pandas as pd
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+DATA_PATH = BASE_DIR / "data" / "safety_reports.xlsx"
 
 
 def load_data():
