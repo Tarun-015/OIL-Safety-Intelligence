@@ -1,0 +1,13 @@
+site_id,site_name,region,site_type
+SITE01,Assam E&P Cluster A,Assam,Upstream E&P
+SITE02,Assam E&P Cluster B,Assam,Upstream E&P
+SITE03,Assam Production Centre,Assam,Production
+SITE04,Rajasthan E&P Cluster,Rajasthan,Upstream E&P
+SITE05,West India Processing,Gujarat,Gas Processing
+SITE06,East India Storage,West Bengal,Storage
+SITE07,Pipeline Terminal East,Assam,Pipeline/Terminal
+SITE08,Central Workshop,Assam,Maintenance/Workshop
+SITE09,Drilling Base East,Assam,Drilling
+SITE10,Logistics & Materials,Assam,Logistics
+SITE11,Production Installation North,Rajasthan,Production
+SITE12,Gas Processing South,Odisha,Gas Processing

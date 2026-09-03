@@ -1,0 +1,2812 @@
+equipment_id,criticality,risk_score,dominant_hazard,critical_barrier
+EQ00000001,Critical,79.4,Pressure,Fire Protection
+EQ00000002,Critical,87.0,Vehicle,PTW
+EQ00000003,High,62.9,Fall,Gas Testing
+EQ00000004,Medium,53.0,Vehicle,SOP Compliance
+EQ00000005,High,55.2,Pressure,Isolation/LOTO
+EQ00000006,Critical,93.8,Fire,Gas Testing
+EQ00000007,High,68.1,Pressure,Gas Testing
+EQ00000008,High,58.9,Multiple,Gas Testing
+EQ00000009,Medium,54.1,Toxic Gas,Inspection
+EQ00000010,High,61.6,Toxic Gas,PTW
+EQ00000011,High,63.7,Fall,Gas Testing
+EQ00000012,Critical,84.1,Vehicle,Emergency Shutdown
+EQ00000013,High,51.1,Electrical,PPE
+EQ00000014,Critical,80.5,Fire,Inspection
+EQ00000015,High,69.5,Pressure,PTW
+EQ00000016,Medium,30.7,Multiple,Guarding
+EQ00000017,Critical,77.5,Multiple,Emergency Shutdown
+EQ00000018,Medium,47.2,Fall,Guarding
+EQ00000019,High,78.0,Toxic Gas,Isolation/LOTO
+EQ00000020,High,52.2,Multiple,PPE
+EQ00000021,High,71.3,Fire,PPE
+EQ00000022,High,68.3,Fire,Isolation/LOTO
+EQ00000023,Medium,36.8,Vehicle,SOP Compliance
+EQ00000024,High,66.5,Vehicle,Inspection
+EQ00000025,Critical,75.8,Pressure,Emergency Shutdown
+EQ00000026,Critical,79.9,Fire,Emergency Shutdown
+EQ00000027,Critical,86.1,Stored Energy,Emergency Shutdown
+EQ00000028,High,52.1,Fire,PPE
+EQ00000029,High,52.0,Fall,Gas Testing
+EQ00000030,High,70.1,Line of Fire,Inspection
+EQ00000031,Critical,72.2,Multiple,Isolation/LOTO
+EQ00000032,High,50.5,Vehicle,PPE
+EQ00000033,High,70.0,Vehicle,Isolation/LOTO
+EQ00000034,Medium,40.8,Pressure,Guarding
+EQ00000035,High,52.5,Line of Fire,Gas Testing
+EQ00000036,Critical,93.7,Pressure,Fire Protection
+EQ00000037,Critical,82.9,Multiple,Fire Protection
+EQ00000038,Critical,91.6,Fall,Fire Protection
+EQ00000039,High,67.3,Vehicle,PPE
+EQ00000040,High,60.8,Multiple,Gas Testing
+EQ00000041,Critical,74.3,Electrical,Emergency Shutdown
+EQ00000042,Critical,88.4,Toxic Gas,Gas Testing
+EQ00000043,Critical,73.5,Line of Fire,Inspection
+EQ00000044,Critical,91.3,Fall,Gas Testing
+EQ00000045,High,60.5,Fall,PTW
+EQ00000046,High,71.3,Vehicle,Inspection
+EQ00000047,High,59.7,Multiple,Gas Testing
+EQ00000048,High,71.0,Pressure,PTW
+EQ00000049,High,54.9,Toxic Gas,Isolation/LOTO
+EQ00000050,High,79.3,Line of Fire,Isolation/LOTO
+EQ00000051,High,71.9,Fire,Isolation/LOTO
+EQ00000052,Medium,41.4,Stored Energy,Inspection
+EQ00000053,High,53.6,Fire,Isolation/LOTO
+EQ00000054,High,70.8,Line of Fire,PTW
+EQ00000055,Critical,79.5,Electrical,Isolation/LOTO
+EQ00000056,High,75.7,Toxic Gas,PPE
+EQ00000057,Critical,84.9,Vehicle,Inspection
+EQ00000058,High,61.7,Line of Fire,Gas Testing
+EQ00000059,High,60.6,Stored Energy,Gas Testing
+EQ00000060,Critical,81.9,Pressure,Emergency Shutdown
+EQ00000061,Critical,76.6,Pressure,Gas Testing
+EQ00000062,High,70.6,Pressure,PTW
+EQ00000063,Critical,80.8,Vehicle,PTW
+EQ00000064,Medium,54.3,Vehicle,SOP Compliance
+EQ00000065,Critical,70.4,Multiple,Gas Testing
+EQ00000066,High,75.3,Pressure,Isolation/LOTO
+EQ00000067,Critical,76.0,Line of Fire,Gas Testing
+EQ00000068,Medium,46.2,Electrical,Inspection
+EQ00000069,Critical,94.2,Vehicle,Inspection
+EQ00000070,High,76.1,Line of Fire,PPE
+EQ00000071,Medium,37.8,Toxic Gas,Guarding
+EQ00000072,Medium,47.3,Vehicle,Inspection
+EQ00000073,Medium,46.5,Pressure,SOP Compliance
+EQ00000074,High,60.7,Stored Energy,PTW
+EQ00000075,Critical,80.7,Fall,Fire Protection
+EQ00000076,High,71.8,Fall,Inspection
+EQ00000077,High,68.4,Stored Energy,Gas Testing
+EQ00000078,Medium,43.7,Electrical,Guarding
+EQ00000079,High,53.2,Pressure,Inspection
+EQ00000080,Critical,92.1,Multiple,Inspection
+EQ00000081,Critical,94.4,Pressure,Fire Protection
+EQ00000082,Critical,84.0,Stored Energy,PTW
+EQ00000083,High,79.9,Fire,PTW
+EQ00000084,Critical,96.4,Vehicle,Inspection
+EQ00000085,High,60.7,Electrical,PPE
+EQ00000086,Critical,92.4,Line of Fire,Isolation/LOTO
+EQ00000087,Medium,42.1,Stored Energy,Inspection
+EQ00000088,Critical,77.8,Multiple,Gas Testing
+EQ00000089,High,57.9,Toxic Gas,Gas Testing
+EQ00000090,Critical,88.1,Multiple,Isolation/LOTO
+EQ00000091,Critical,75.4,Vehicle,Fire Protection
+EQ00000092,High,65.7,Vehicle,Isolation/LOTO
+EQ00000093,High,61.4,Pressure,Inspection
+EQ00000094,Critical,86.6,Electrical,Emergency Shutdown
+EQ00000095,Medium,45.2,Vehicle,Inspection
+EQ00000096,High,62.2,Fire,PTW
+EQ00000097,High,63.3,Fall,Isolation/LOTO
+EQ00000098,Critical,85.0,Toxic Gas,Isolation/LOTO
+EQ00000099,Critical,87.3,Fire,Fire Protection
+EQ00000100,Medium,41.3,Toxic Gas,PPE
+EQ00000101,High,72.3,Line of Fire,Gas Testing
+EQ00000102,High,68.2,Fall,PPE
+EQ00000103,High,63.3,Multiple,Isolation/LOTO
+EQ00000104,Medium,30.2,Fall,Inspection
+EQ00000105,High,68.5,Fall,Isolation/LOTO
+EQ00000106,High,71.4,Fall,Isolation/LOTO
+EQ00000107,Medium,54.3,Fire,Guarding
+EQ00000108,Critical,89.3,Line of Fire,Gas Testing
+EQ00000109,High,68.6,Toxic Gas,PPE
+EQ00000110,Critical,71.0,Vehicle,Inspection
+EQ00000111,Critical,86.8,Multiple,Gas Testing
+EQ00000112,Critical,71.0,Electrical,Fire Protection
+EQ00000113,Critical,97.5,Pressure,Inspection
+EQ00000114,Critical,71.5,Vehicle,Gas Testing
+EQ00000115,Critical,81.0,Toxic Gas,Emergency Shutdown
+EQ00000116,Critical,92.5,Multiple,Gas Testing
+EQ00000117,High,55.6,Fall,Gas Testing
+EQ00000118,High,52.6,Toxic Gas,Inspection
+EQ00000119,Critical,74.4,Fire,Emergency Shutdown
+EQ00000120,High,78.5,Toxic Gas,Isolation/LOTO
+EQ00000121,Medium,52.1,Stored Energy,SOP Compliance
+EQ00000122,High,69.0,Vehicle,Gas Testing
+EQ00000123,Critical,87.7,Fall,Gas Testing
+EQ00000124,Medium,48.7,Electrical,Inspection
+EQ00000125,Medium,38.8,Multiple,SOP Compliance
+EQ00000126,High,60.2,Fire,Isolation/LOTO
+EQ00000127,High,61.7,Electrical,PPE
+EQ00000128,Critical,96.2,Multiple,Inspection
+EQ00000129,High,66.8,Multiple,PPE
+EQ00000130,High,68.5,Toxic Gas,Gas Testing
+EQ00000131,Medium,44.4,Pressure,Inspection
+EQ00000132,Critical,94.4,Vehicle,Emergency Shutdown
+EQ00000133,Critical,95.8,Fire,Isolation/LOTO
+EQ00000134,Medium,51.5,Vehicle,Guarding
+EQ00000135,High,71.9,Electrical,Inspection
+EQ00000136,High,73.9,Fire,Gas Testing
+EQ00000137,High,57.1,Multiple,PTW
+EQ00000138,High,70.5,Electrical,Isolation/LOTO
+EQ00000139,Medium,30.9,Toxic Gas,PPE
+EQ00000140,High,56.0,Fall,PTW
+EQ00000141,Critical,84.3,Vehicle,Inspection
+EQ00000142,High,68.9,Pressure,Inspection
+EQ00000143,High,70.0,Multiple,Isolation/LOTO
+EQ00000144,High,59.7,Multiple,Isolation/LOTO
+EQ00000145,Critical,89.6,Electrical,Gas Testing
+EQ00000146,Critical,90.6,Fall,Gas Testing
+EQ00000147,Critical,93.4,Line of Fire,Isolation/LOTO
+EQ00000148,Critical,74.7,Stored Energy,Fire Protection
+EQ00000149,Critical,90.9,Pressure,Gas Testing
+EQ00000150,Medium,53.7,Pressure,Inspection
+EQ00000151,High,72.6,Toxic Gas,Isolation/LOTO
+EQ00000152,High,64.9,Multiple,PTW
+EQ00000153,Critical,97.7,Multiple,Emergency Shutdown
+EQ00000154,High,72.2,Line of Fire,PPE
+EQ00000155,Critical,98.3,Line of Fire,Gas Testing
+EQ00000156,Critical,75.2,Fall,Inspection
+EQ00000157,High,62.5,Toxic Gas,PTW
+EQ00000158,High,54.9,Vehicle,PPE
+EQ00000159,Critical,96.9,Multiple,Fire Protection
+EQ00000160,Critical,92.7,Fire,Isolation/LOTO
+EQ00000161,Critical,85.1,Pressure,PTW
+EQ00000162,Critical,74.1,Line of Fire,Inspection
+EQ00000163,High,67.8,Pressure,Isolation/LOTO
+EQ00000164,High,68.7,Pressure,Gas Testing
+EQ00000165,Critical,84.6,Pressure,Fire Protection
+EQ00000166,High,52.0,Line of Fire,Isolation/LOTO
+EQ00000167,Critical,99.2,Pressure,Fire Protection
+EQ00000168,High,75.9,Toxic Gas,Inspection
+EQ00000169,High,58.2,Electrical,Gas Testing
+EQ00000170,High,53.7,Line of Fire,Gas Testing
+EQ00000171,Critical,97.5,Toxic Gas,Emergency Shutdown
+EQ00000172,Medium,38.2,Stored Energy,SOP Compliance
+EQ00000173,Critical,88.8,Pressure,Gas Testing
+EQ00000174,Critical,70.9,Electrical,Isolation/LOTO
+EQ00000175,Critical,96.8,Fire,Fire Protection
+EQ00000176,Critical,92.9,Stored Energy,Fire Protection
+EQ00000177,High,52.3,Pressure,PPE
+EQ00000178,Critical,88.1,Pressure,Gas Testing
+EQ00000179,Medium,45.3,Fire,Inspection
+EQ00000180,High,67.6,Fire,PTW
+EQ00000181,Medium,37.6,Vehicle,Inspection
+EQ00000182,Medium,44.2,Fire,PPE
+EQ00000183,High,53.9,Vehicle,Inspection
+EQ00000184,Critical,73.6,Toxic Gas,Gas Testing
+EQ00000185,Critical,89.4,Line of Fire,Isolation/LOTO
+EQ00000186,Critical,99.5,Stored Energy,Gas Testing
+EQ00000187,Critical,89.5,Toxic Gas,Emergency Shutdown
+EQ00000188,Critical,81.2,Multiple,Emergency Shutdown
+EQ00000189,High,73.4,Stored Energy,Inspection
+EQ00000190,High,62.3,Electrical,PTW
+EQ00000191,High,54.5,Pressure,Gas Testing
+EQ00000192,Critical,98.9,Electrical,Isolation/LOTO
+EQ00000193,Critical,79.6,Vehicle,Emergency Shutdown
+EQ00000194,High,73.5,Multiple,Isolation/LOTO
+EQ00000195,Critical,96.3,Toxic Gas,Fire Protection
+EQ00000196,Critical,94.8,Line of Fire,Gas Testing
+EQ00000197,Critical,87.1,Fall,Isolation/LOTO
+EQ00000198,Critical,92.8,Toxic Gas,PTW
+EQ00000199,High,57.4,Line of Fire,PTW
+EQ00000200,High,60.2,Fire,Inspection
+EQ00000201,High,54.4,Line of Fire,PPE
+EQ00000202,High,73.1,Vehicle,Isolation/LOTO
+EQ00000203,Critical,96.6,Line of Fire,Isolation/LOTO
+EQ00000204,High,56.3,Fall,Gas Testing
+EQ00000205,High,58.9,Toxic Gas,Gas Testing
+EQ00000206,High,60.8,Line of Fire,Isolation/LOTO
+EQ00000207,Critical,95.6,Fire,Emergency Shutdown
+EQ00000208,Critical,81.7,Multiple,Gas Testing
+EQ00000209,High,77.3,Pressure,Isolation/LOTO
+EQ00000210,High,52.7,Fall,PPE
+EQ00000211,High,51.3,Fall,Inspection
+EQ00000212,High,76.8,Fall,PTW
+EQ00000213,Critical,77.0,Pressure,Emergency Shutdown
+EQ00000214,Critical,81.5,Toxic Gas,Fire Protection
+EQ00000215,High,69.3,Multiple,Inspection
+EQ00000216,Critical,78.6,Fall,Inspection
+EQ00000217,Critical,91.8,Fall,Gas Testing
+EQ00000218,Critical,90.4,Electrical,Isolation/LOTO
+EQ00000219,High,55.1,Pressure,PTW
+EQ00000220,Critical,70.9,Toxic Gas,Gas Testing
+EQ00000221,High,53.7,Toxic Gas,PPE
+EQ00000222,Critical,90.2,Multiple,Gas Testing
+EQ00000223,Critical,88.0,Line of Fire,Gas Testing
+EQ00000224,Medium,49.9,Toxic Gas,PPE
+EQ00000225,High,66.4,Fall,PPE
+EQ00000226,High,79.2,Fire,PTW
+EQ00000227,Critical,84.5,Vehicle,Emergency Shutdown
+EQ00000228,High,75.5,Pressure,Gas Testing
+EQ00000229,High,68.1,Line of Fire,PPE
+EQ00000230,Critical,85.9,Multiple,Gas Testing
+EQ00000231,High,58.5,Pressure,PTW
+EQ00000232,High,74.4,Pressure,PPE
+EQ00000233,High,78.9,Multiple,Isolation/LOTO
+EQ00000234,High,77.7,Multiple,PTW
+EQ00000235,Critical,78.1,Fall,Inspection
+EQ00000236,High,73.0,Line of Fire,Inspection
+EQ00000237,Critical,75.4,Stored Energy,Isolation/LOTO
+EQ00000238,High,55.5,Line of Fire,Isolation/LOTO
+EQ00000239,Critical,72.2,Multiple,Fire Protection
+EQ00000240,Critical,92.5,Vehicle,Fire Protection
+EQ00000241,Critical,93.7,Toxic Gas,Isolation/LOTO
+EQ00000242,Critical,98.2,Pressure,Inspection
+EQ00000243,High,52.2,Vehicle,PTW
+EQ00000244,Medium,42.0,Stored Energy,Inspection
+EQ00000245,High,53.4,Pressure,Isolation/LOTO
+EQ00000246,High,58.0,Pressure,PTW
+EQ00000247,High,67.4,Toxic Gas,PTW
+EQ00000248,Critical,81.0,Pressure,Isolation/LOTO
+EQ00000249,High,50.3,Fall,Gas Testing
+EQ00000250,High,55.8,Pressure,PPE
+EQ00000251,Medium,48.8,Line of Fire,SOP Compliance
+EQ00000252,High,78.9,Multiple,PPE
+EQ00000253,Critical,77.7,Fall,Inspection
+EQ00000254,High,67.1,Toxic Gas,Inspection
+EQ00000255,Critical,98.6,Vehicle,Emergency Shutdown
+EQ00000256,Critical,87.4,Stored Energy,Emergency Shutdown
+EQ00000257,Critical,85.1,Pressure,Inspection
+EQ00000258,Critical,86.5,Pressure,Isolation/LOTO
+EQ00000259,Critical,87.3,Stored Energy,Inspection
+EQ00000260,Critical,78.2,Stored Energy,Inspection
+EQ00000261,High,50.3,Fire,PTW
+EQ00000262,Critical,91.2,Electrical,Gas Testing
+EQ00000263,Critical,98.5,Multiple,Emergency Shutdown
+EQ00000264,High,76.5,Pressure,Gas Testing
+EQ00000265,High,58.2,Vehicle,PTW
+EQ00000266,High,59.9,Vehicle,PPE
+EQ00000267,Critical,76.5,Vehicle,Isolation/LOTO
+EQ00000268,High,63.6,Multiple,PTW
+EQ00000269,Critical,73.5,Fire,Fire Protection
+EQ00000270,Critical,98.9,Fall,Gas Testing
+EQ00000271,Critical,79.0,Line of Fire,Fire Protection
+EQ00000272,Critical,80.4,Pressure,PTW
+EQ00000273,Critical,98.8,Multiple,Isolation/LOTO
+EQ00000274,Critical,83.8,Stored Energy,Gas Testing
+EQ00000275,High,74.9,Line of Fire,Gas Testing
+EQ00000276,High,75.0,Fire,PTW
+EQ00000277,High,74.0,Vehicle,Isolation/LOTO
+EQ00000278,Critical,79.1,Vehicle,PTW
+EQ00000279,High,61.5,Pressure,PTW
+EQ00000280,Critical,95.9,Line of Fire,Isolation/LOTO
+EQ00000281,Critical,96.8,Fall,Emergency Shutdown
+EQ00000282,High,58.1,Fire,Inspection
+EQ00000283,Critical,96.7,Multiple,Fire Protection
+EQ00000284,High,60.7,Toxic Gas,Inspection
+EQ00000285,Critical,79.0,Pressure,PTW
+EQ00000286,High,78.6,Electrical,Gas Testing
+EQ00000287,High,63.3,Fire,Inspection
+EQ00000288,High,55.2,Fire,Isolation/LOTO
+EQ00000289,High,57.1,Line of Fire,Inspection
+EQ00000290,High,51.0,Vehicle,PTW
+EQ00000291,Critical,85.2,Line of Fire,Inspection
+EQ00000292,High,71.3,Pressure,Isolation/LOTO
+EQ00000293,Critical,88.9,Vehicle,Emergency Shutdown
+EQ00000294,High,78.6,Toxic Gas,Inspection
+EQ00000295,Critical,70.8,Toxic Gas,Emergency Shutdown
+EQ00000296,High,59.5,Fire,PTW
+EQ00000297,Medium,45.8,Multiple,Guarding
+EQ00000298,High,64.5,Fall,Gas Testing
+EQ00000299,Medium,45.1,Vehicle,PPE
+EQ00000300,High,57.4,Pressure,Inspection
+EQ00000301,Critical,91.8,Line of Fire,Fire Protection
+EQ00000302,Critical,92.8,Fire,Gas Testing
+EQ00000303,High,50.4,Pressure,Isolation/LOTO
+EQ00000304,High,78.1,Stored Energy,Isolation/LOTO
+EQ00000305,Critical,77.6,Multiple,Inspection
+EQ00000306,High,72.8,Vehicle,Inspection
+EQ00000307,Critical,79.3,Pressure,Emergency Shutdown
+EQ00000308,Critical,89.7,Fire,Emergency Shutdown
+EQ00000309,High,52.6,Pressure,PTW
+EQ00000310,High,58.2,Electrical,PPE
+EQ00000311,Critical,81.2,Vehicle,Inspection
+EQ00000312,High,64.5,Fire,Isolation/LOTO
+EQ00000313,Medium,50.0,Fire,Guarding
+EQ00000314,High,59.8,Vehicle,Gas Testing
+EQ00000315,High,51.0,Vehicle,Isolation/LOTO
+EQ00000316,High,66.0,Pressure,Isolation/LOTO
+EQ00000317,Critical,81.9,Stored Energy,PTW
+EQ00000318,Critical,72.4,Electrical,Gas Testing
+EQ00000319,High,58.2,Line of Fire,PTW
+EQ00000320,Critical,86.8,Line of Fire,PTW
+EQ00000321,High,78.5,Vehicle,Isolation/LOTO
+EQ00000322,Critical,82.0,Fire,Fire Protection
+EQ00000323,High,55.3,Toxic Gas,PPE
+EQ00000324,High,71.5,Multiple,PTW
+EQ00000325,Medium,38.3,Electrical,PPE
+EQ00000326,Critical,85.3,Multiple,Gas Testing
+EQ00000327,High,69.5,Fall,Gas Testing
+EQ00000328,High,69.5,Fall,Isolation/LOTO
+EQ00000329,High,67.1,Pressure,Inspection
+EQ00000330,High,54.9,Vehicle,PPE
+EQ00000331,Critical,79.1,Stored Energy,Emergency Shutdown
+EQ00000332,Critical,86.8,Toxic Gas,Isolation/LOTO
+EQ00000333,Critical,79.8,Multiple,Inspection
+EQ00000334,High,78.8,Line of Fire,Gas Testing
+EQ00000335,High,54.5,Line of Fire,Gas Testing
+EQ00000336,High,76.0,Toxic Gas,Inspection
+EQ00000337,Medium,40.4,Multiple,Inspection
+EQ00000338,High,54.2,Fire,PTW
+EQ00000339,Critical,81.3,Multiple,Isolation/LOTO
+EQ00000340,Medium,32.4,Pressure,Guarding
+EQ00000341,High,59.7,Fall,PPE
+EQ00000342,Medium,37.7,Pressure,Guarding
+EQ00000343,Critical,88.3,Toxic Gas,Emergency Shutdown
+EQ00000344,Medium,36.2,Electrical,Guarding
+EQ00000345,High,76.7,Fall,Inspection
+EQ00000346,Critical,99.9,Fall,Fire Protection
+EQ00000347,Critical,97.6,Fire,Inspection
+EQ00000348,High,59.4,Stored Energy,Inspection
+EQ00000349,Critical,73.1,Electrical,Fire Protection
+EQ00000350,Critical,85.6,Vehicle,Inspection
+EQ00000351,Medium,53.8,Multiple,PPE
+EQ00000352,Medium,45.3,Toxic Gas,Guarding
+EQ00000353,High,69.0,Pressure,Gas Testing
+EQ00000354,Critical,74.6,Line of Fire,Fire Protection
+EQ00000355,Critical,72.0,Toxic Gas,Emergency Shutdown
+EQ00000356,Critical,78.6,Fire,Fire Protection
+EQ00000357,High,55.6,Line of Fire,PTW
+EQ00000358,Critical,89.6,Electrical,Gas Testing
+EQ00000359,Critical,73.3,Pressure,Gas Testing
+EQ00000360,High,65.1,Toxic Gas,PPE
+EQ00000361,High,58.6,Multiple,PPE
+EQ00000362,High,51.1,Fire,Inspection
+EQ00000363,High,63.3,Line of Fire,PPE
+EQ00000364,Critical,89.8,Multiple,Gas Testing
+EQ00000365,Critical,87.5,Fall,Gas Testing
+EQ00000366,High,67.5,Fire,Inspection
+EQ00000367,Critical,89.8,Line of Fire,Fire Protection
+EQ00000368,High,53.9,Toxic Gas,PTW
+EQ00000369,Critical,85.9,Fall,Isolation/LOTO
+EQ00000370,Critical,77.2,Fire,Inspection
+EQ00000371,High,67.6,Line of Fire,Inspection
+EQ00000372,Critical,86.5,Toxic Gas,Isolation/LOTO
+EQ00000373,High,63.4,Toxic Gas,PPE
+EQ00000374,High,77.0,Electrical,PTW
+EQ00000375,High,56.1,Fire,Inspection
+EQ00000376,High,71.6,Vehicle,PPE
+EQ00000377,High,74.4,Pressure,PPE
+EQ00000378,Critical,94.9,Vehicle,Isolation/LOTO
+EQ00000379,High,75.0,Electrical,PPE
+EQ00000380,High,55.7,Line of Fire,PTW
+EQ00000381,High,50.9,Fall,Inspection
+EQ00000382,Medium,31.2,Fall,SOP Compliance
+EQ00000383,Medium,33.6,Stored Energy,Guarding
+EQ00000384,High,79.6,Fall,Isolation/LOTO
+EQ00000385,High,69.8,Electrical,PPE
+EQ00000386,High,52.6,Pressure,PTW
+EQ00000387,High,51.5,Multiple,Inspection
+EQ00000388,Critical,74.9,Stored Energy,Inspection
+EQ00000389,Critical,75.6,Vehicle,PTW
+EQ00000390,Critical,72.1,Stored Energy,Fire Protection
+EQ00000391,High,69.4,Stored Energy,Isolation/LOTO
+EQ00000392,High,79.3,Pressure,PPE
+EQ00000393,High,74.9,Fall,PPE
+EQ00000394,High,64.7,Vehicle,Inspection
+EQ00000395,Critical,88.1,Electrical,Fire Protection
+EQ00000396,Critical,81.6,Toxic Gas,Isolation/LOTO
+EQ00000397,Critical,78.7,Toxic Gas,Gas Testing
+EQ00000398,High,54.8,Multiple,PTW
+EQ00000399,High,76.8,Toxic Gas,Gas Testing
+EQ00000400,High,55.0,Stored Energy,Isolation/LOTO
+EQ00000401,High,53.5,Vehicle,Inspection
+EQ00000402,Medium,36.1,Pressure,Inspection
+EQ00000403,Medium,50.0,Electrical,Inspection
+EQ00000404,Critical,70.0,Pressure,Isolation/LOTO
+EQ00000405,High,50.7,Line of Fire,Gas Testing
+EQ00000406,Critical,79.2,Fall,Gas Testing
+EQ00000407,High,51.2,Fire,Gas Testing
+EQ00000408,Critical,94.2,Toxic Gas,Emergency Shutdown
+EQ00000409,Medium,37.6,Fire,Inspection
+EQ00000410,High,60.0,Stored Energy,Isolation/LOTO
+EQ00000411,Critical,99.0,Pressure,Gas Testing
+EQ00000412,High,50.5,Electrical,Gas Testing
+EQ00000413,High,54.9,Electrical,PPE
+EQ00000414,Critical,94.5,Multiple,Isolation/LOTO
+EQ00000415,High,52.6,Multiple,Gas Testing
+EQ00000416,High,50.7,Line of Fire,Isolation/LOTO
+EQ00000417,Critical,82.1,Fire,Emergency Shutdown
+EQ00000418,High,55.1,Multiple,Isolation/LOTO
+EQ00000419,Medium,34.6,Toxic Gas,Guarding
+EQ00000420,Critical,81.1,Vehicle,Gas Testing
+EQ00000421,Critical,93.6,Multiple,PTW
+EQ00000422,High,51.9,Pressure,Isolation/LOTO
+EQ00000423,Critical,95.7,Line of Fire,Gas Testing
+EQ00000424,High,50.4,Pressure,PPE
+EQ00000425,High,66.7,Pressure,Gas Testing
+EQ00000426,Critical,73.3,Stored Energy,Isolation/LOTO
+EQ00000427,High,63.9,Pressure,Isolation/LOTO
+EQ00000428,Critical,77.8,Multiple,Isolation/LOTO
+EQ00000429,Medium,48.9,Pressure,Guarding
+EQ00000430,Critical,81.3,Line of Fire,PTW
+EQ00000431,Critical,88.7,Multiple,Isolation/LOTO
+EQ00000432,Critical,74.2,Vehicle,Fire Protection
+EQ00000433,Critical,91.6,Line of Fire,Emergency Shutdown
+EQ00000434,High,75.6,Toxic Gas,Isolation/LOTO
+EQ00000435,Critical,82.1,Line of Fire,Isolation/LOTO
+EQ00000436,High,64.9,Pressure,Inspection
+EQ00000437,High,54.4,Electrical,PPE
+EQ00000438,Medium,51.9,Line of Fire,SOP Compliance
+EQ00000439,High,60.3,Multiple,Gas Testing
+EQ00000440,High,71.4,Electrical,Gas Testing
+EQ00000441,Critical,94.6,Electrical,Isolation/LOTO
+EQ00000442,High,75.1,Fire,PPE
+EQ00000443,High,73.2,Electrical,PTW
+EQ00000444,High,63.6,Multiple,Isolation/LOTO
+EQ00000445,Critical,81.9,Multiple,Inspection
+EQ00000446,Critical,83.4,Multiple,Emergency Shutdown
+EQ00000447,High,67.7,Pressure,Isolation/LOTO
+EQ00000448,High,71.0,Fall,Isolation/LOTO
+EQ00000449,High,61.9,Fire,Gas Testing
+EQ00000450,Critical,92.5,Fire,Inspection
+EQ00000451,Medium,44.4,Stored Energy,Guarding
+EQ00000452,Critical,81.8,Vehicle,Isolation/LOTO
+EQ00000453,High,78.4,Stored Energy,Inspection
+EQ00000454,High,68.0,Toxic Gas,Gas Testing
+EQ00000455,High,68.6,Stored Energy,PTW
+EQ00000456,Critical,82.5,Fall,Fire Protection
+EQ00000457,Critical,89.4,Toxic Gas,PTW
+EQ00000458,High,79.9,Fall,Isolation/LOTO
+EQ00000459,Critical,72.8,Vehicle,Inspection
+EQ00000460,High,74.5,Fall,Inspection
+EQ00000461,High,78.7,Line of Fire,Gas Testing
+EQ00000462,Critical,87.1,Electrical,Emergency Shutdown
+EQ00000463,High,55.2,Electrical,Gas Testing
+EQ00000464,Critical,72.8,Stored Energy,Inspection
+EQ00000465,Critical,71.6,Pressure,PTW
+EQ00000466,High,52.7,Multiple,Inspection
+EQ00000467,High,74.7,Toxic Gas,Inspection
+EQ00000468,High,63.3,Pressure,Inspection
+EQ00000469,Critical,95.2,Stored Energy,Emergency Shutdown
+EQ00000470,High,63.4,Fire,PTW
+EQ00000471,Critical,84.9,Toxic Gas,PTW
+EQ00000472,Critical,79.3,Line of Fire,Inspection
+EQ00000473,Critical,79.5,Stored Energy,PTW
+EQ00000474,Critical,84.5,Fire,Gas Testing
+EQ00000475,High,77.1,Pressure,Isolation/LOTO
+EQ00000476,High,78.0,Fire,PTW
+EQ00000477,High,65.1,Vehicle,Gas Testing
+EQ00000478,Critical,88.1,Vehicle,Inspection
+EQ00000479,Critical,84.4,Multiple,Gas Testing
+EQ00000480,Critical,85.3,Vehicle,Emergency Shutdown
+EQ00000481,Critical,86.1,Multiple,Inspection
+EQ00000482,Medium,43.6,Toxic Gas,SOP Compliance
+EQ00000483,Critical,81.8,Vehicle,Emergency Shutdown
+EQ00000484,High,73.7,Fire,PPE
+EQ00000485,Critical,98.0,Vehicle,Isolation/LOTO
+EQ00000486,High,57.5,Vehicle,PTW
+EQ00000487,High,57.5,Fall,PPE
+EQ00000488,Critical,92.2,Toxic Gas,PTW
+EQ00000489,High,69.7,Pressure,Gas Testing
+EQ00000490,High,75.3,Stored Energy,PPE
+EQ00000491,High,72.9,Electrical,PPE
+EQ00000492,High,53.4,Multiple,Inspection
+EQ00000493,Medium,39.6,Fire,SOP Compliance
+EQ00000494,Critical,87.7,Pressure,PTW
+EQ00000495,Critical,96.0,Pressure,Inspection
+EQ00000496,High,63.8,Toxic Gas,Gas Testing
+EQ00000497,Critical,72.4,Fire,Fire Protection
+EQ00000498,High,55.3,Fall,PPE
+EQ00000499,Critical,87.2,Fire,PTW
+EQ00000500,Critical,97.7,Line of Fire,PTW
+EQ00000501,Critical,96.3,Electrical,Fire Protection
+EQ00000502,Critical,90.5,Pressure,Gas Testing
+EQ00000503,Critical,97.5,Multiple,PTW
+EQ00000504,High,79.9,Multiple,Inspection
+EQ00000505,High,75.8,Fire,PTW
+EQ00000506,Critical,73.8,Fire,Isolation/LOTO
+EQ00000507,Critical,97.3,Multiple,PTW
+EQ00000508,Medium,38.4,Line of Fire,PPE
+EQ00000509,Critical,87.1,Vehicle,Inspection
+EQ00000510,Critical,95.8,Pressure,Isolation/LOTO
+EQ00000511,High,72.6,Toxic Gas,Inspection
+EQ00000512,High,70.7,Pressure,Inspection
+EQ00000513,High,78.4,Pressure,PPE
+EQ00000514,High,63.2,Stored Energy,PTW
+EQ00000515,High,56.7,Fire,Isolation/LOTO
+EQ00000516,High,77.2,Fire,Inspection
+EQ00000517,High,73.6,Line of Fire,Gas Testing
+EQ00000518,Critical,94.5,Toxic Gas,PTW
+EQ00000519,High,75.7,Multiple,Inspection
+EQ00000520,High,76.1,Toxic Gas,PPE
+EQ00000521,High,50.9,Pressure,Inspection
+EQ00000522,High,59.7,Fall,PTW
+EQ00000523,High,59.6,Toxic Gas,PTW
+EQ00000524,Critical,96.8,Stored Energy,PTW
+EQ00000525,Critical,75.5,Pressure,Gas Testing
+EQ00000526,Critical,81.1,Fire,Gas Testing
+EQ00000527,Critical,71.9,Electrical,Gas Testing
+EQ00000528,Medium,31.5,Fire,Inspection
+EQ00000529,Critical,83.8,Line of Fire,Inspection
+EQ00000530,High,58.5,Fire,PTW
+EQ00000531,Critical,73.3,Line of Fire,Isolation/LOTO
+EQ00000532,Critical,82.4,Vehicle,Isolation/LOTO
+EQ00000533,Critical,88.2,Fall,Inspection
+EQ00000534,Critical,80.1,Stored Energy,Isolation/LOTO
+EQ00000535,Critical,95.8,Line of Fire,Fire Protection
+EQ00000536,High,51.0,Electrical,Inspection
+EQ00000537,Critical,71.8,Toxic Gas,Fire Protection
+EQ00000538,High,64.1,Pressure,Inspection
+EQ00000539,Critical,94.0,Fire,PTW
+EQ00000540,High,77.9,Line of Fire,Gas Testing
+EQ00000541,Critical,99.5,Multiple,Gas Testing
+EQ00000542,Critical,70.6,Electrical,Isolation/LOTO
+EQ00000543,Critical,83.9,Stored Energy,PTW
+EQ00000544,Critical,94.3,Stored Energy,PTW
+EQ00000545,Critical,76.1,Pressure,Isolation/LOTO
+EQ00000546,Critical,86.1,Vehicle,Emergency Shutdown
+EQ00000547,Critical,86.0,Pressure,Emergency Shutdown
+EQ00000548,High,51.9,Toxic Gas,Isolation/LOTO
+EQ00000549,High,78.0,Stored Energy,Gas Testing
+EQ00000550,Critical,99.1,Line of Fire,Isolation/LOTO
+EQ00000551,High,75.6,Multiple,PPE
+EQ00000552,Critical,83.4,Fall,Isolation/LOTO
+EQ00000553,Medium,48.3,Vehicle,Inspection
+EQ00000554,Critical,95.2,Stored Energy,Emergency Shutdown
+EQ00000555,Critical,71.4,Toxic Gas,PTW
+EQ00000556,High,50.9,Toxic Gas,Inspection
+EQ00000557,Critical,77.1,Electrical,Gas Testing
+EQ00000558,Critical,87.9,Fire,Inspection
+EQ00000559,High,60.4,Line of Fire,PTW
+EQ00000560,High,67.4,Fall,Isolation/LOTO
+EQ00000561,High,74.8,Line of Fire,PTW
+EQ00000562,High,79.6,Vehicle,Isolation/LOTO
+EQ00000563,Medium,39.7,Multiple,Inspection
+EQ00000564,High,56.2,Stored Energy,Gas Testing
+EQ00000565,Medium,32.2,Multiple,PPE
+EQ00000566,Critical,76.4,Fall,Isolation/LOTO
+EQ00000567,Critical,89.5,Vehicle,Gas Testing
+EQ00000568,High,74.2,Vehicle,PTW
+EQ00000569,High,75.7,Electrical,PPE
+EQ00000570,Critical,80.5,Toxic Gas,Emergency Shutdown
+EQ00000571,Critical,82.1,Fall,Gas Testing
+EQ00000572,Critical,91.7,Line of Fire,Gas Testing
+EQ00000573,High,79.8,Stored Energy,Isolation/LOTO
+EQ00000574,Critical,83.9,Line of Fire,PTW
+EQ00000575,High,65.3,Vehicle,Inspection
+EQ00000576,High,52.5,Fire,Gas Testing
+EQ00000577,Critical,75.1,Vehicle,Fire Protection
+EQ00000578,Medium,31.1,Multiple,Guarding
+EQ00000579,Critical,76.5,Fire,PTW
+EQ00000580,Critical,88.8,Toxic Gas,Isolation/LOTO
+EQ00000581,High,78.6,Pressure,Gas Testing
+EQ00000582,High,61.3,Electrical,PPE
+EQ00000583,High,70.7,Fall,Isolation/LOTO
+EQ00000584,Critical,70.5,Vehicle,PTW
+EQ00000585,High,60.5,Electrical,Gas Testing
+EQ00000586,High,66.8,Fall,Inspection
+EQ00000587,High,62.4,Multiple,PPE
+EQ00000588,Critical,74.4,Toxic Gas,PTW
+EQ00000589,High,69.7,Stored Energy,Isolation/LOTO
+EQ00000590,Critical,94.4,Toxic Gas,PTW
+EQ00000591,Critical,74.1,Fall,Fire Protection
+EQ00000592,High,53.2,Stored Energy,PPE
+EQ00000593,Critical,77.8,Fall,PTW
+EQ00000594,Critical,92.4,Pressure,Fire Protection
+EQ00000595,Critical,77.4,Line of Fire,Isolation/LOTO
+EQ00000596,Critical,97.2,Fall,Emergency Shutdown
+EQ00000597,Critical,99.7,Electrical,Gas Testing
+EQ00000598,High,65.1,Fall,Isolation/LOTO
+EQ00000599,High,68.2,Fire,PPE
+EQ00000600,Critical,77.6,Vehicle,PTW
+EQ00000601,Critical,93.4,Stored Energy,Fire Protection
+EQ00000602,Critical,96.5,Fire,Isolation/LOTO
+EQ00000603,Critical,76.7,Fire,Inspection
+EQ00000604,Critical,95.9,Multiple,Inspection
+EQ00000605,Medium,44.6,Toxic Gas,Guarding
+EQ00000606,Critical,95.5,Vehicle,Isolation/LOTO
+EQ00000607,High,77.2,Electrical,PTW
+EQ00000608,High,53.1,Fire,Gas Testing
+EQ00000609,Critical,74.2,Fall,Fire Protection
+EQ00000610,Critical,98.8,Electrical,PTW
+EQ00000611,Medium,39.8,Line of Fire,PPE
+EQ00000612,High,50.3,Vehicle,Inspection
+EQ00000613,High,63.9,Toxic Gas,Inspection
+EQ00000614,Medium,46.5,Toxic Gas,Guarding
+EQ00000615,Critical,70.6,Pressure,Gas Testing
+EQ00000616,Critical,82.5,Fire,Emergency Shutdown
+EQ00000617,High,69.4,Pressure,PPE
+EQ00000618,Critical,95.3,Fire,Fire Protection
+EQ00000619,High,64.3,Electrical,PTW
+EQ00000620,Critical,92.9,Pressure,Fire Protection
+EQ00000621,Critical,82.7,Electrical,Fire Protection
+EQ00000622,Critical,93.6,Fire,Inspection
+EQ00000623,Medium,33.5,Line of Fire,PPE
+EQ00000624,High,69.5,Electrical,Gas Testing
+EQ00000625,Critical,74.0,Fire,Isolation/LOTO
+EQ00000626,High,54.3,Line of Fire,Isolation/LOTO
+EQ00000627,Medium,49.7,Fire,Guarding
+EQ00000628,High,53.9,Vehicle,PTW
+EQ00000629,Critical,88.0,Stored Energy,Isolation/LOTO
+EQ00000630,Critical,84.1,Fire,Fire Protection
+EQ00000631,Critical,83.5,Vehicle,Gas Testing
+EQ00000632,High,55.9,Fall,PPE
+EQ00000633,High,64.8,Multiple,Inspection
+EQ00000634,Medium,44.0,Line of Fire,PPE
+EQ00000635,Critical,76.3,Vehicle,Gas Testing
+EQ00000636,Critical,85.1,Multiple,PTW
+EQ00000637,High,69.7,Vehicle,PTW
+EQ00000638,Critical,88.5,Line of Fire,Inspection
+EQ00000639,Critical,97.8,Fire,Gas Testing
+EQ00000640,Medium,31.5,Stored Energy,Inspection
+EQ00000641,High,69.8,Electrical,Gas Testing
+EQ00000642,Critical,99.1,Vehicle,PTW
+EQ00000643,High,62.7,Line of Fire,Inspection
+EQ00000644,Critical,85.7,Multiple,Gas Testing
+EQ00000645,High,74.5,Fall,Isolation/LOTO
+EQ00000646,Medium,33.5,Fire,PPE
+EQ00000647,Critical,97.8,Line of Fire,Gas Testing
+EQ00000648,High,62.1,Fall,PTW
+EQ00000649,High,75.3,Stored Energy,PTW
+EQ00000650,Critical,94.4,Fire,Emergency Shutdown
+EQ00000651,Medium,47.5,Stored Energy,Guarding
+EQ00000652,Medium,31.2,Toxic Gas,Inspection
+EQ00000653,Critical,72.5,Vehicle,Isolation/LOTO
+EQ00000654,High,51.7,Vehicle,PPE
+EQ00000655,High,51.8,Line of Fire,PTW
+EQ00000656,High,63.9,Vehicle,Inspection
+EQ00000657,Medium,33.8,Fall,SOP Compliance
+EQ00000658,Medium,48.1,Electrical,Guarding
+EQ00000659,High,68.7,Fire,Inspection
+EQ00000660,Medium,44.5,Fall,SOP Compliance
+EQ00000661,High,68.9,Fire,PPE
+EQ00000662,High,77.9,Electrical,Gas Testing
+EQ00000663,High,72.2,Electrical,PPE
+EQ00000664,High,69.2,Fall,Gas Testing
+EQ00000665,Critical,74.8,Stored Energy,Inspection
+EQ00000666,Medium,48.6,Pressure,SOP Compliance
+EQ00000667,Critical,91.6,Stored Energy,Fire Protection
+EQ00000668,High,67.7,Toxic Gas,Inspection
+EQ00000669,High,63.0,Vehicle,PTW
+EQ00000670,Critical,71.9,Toxic Gas,Emergency Shutdown
+EQ00000671,Medium,36.5,Multiple,SOP Compliance
+EQ00000672,Critical,88.9,Fire,Gas Testing
+EQ00000673,Critical,75.4,Toxic Gas,PTW
+EQ00000674,High,75.8,Toxic Gas,Isolation/LOTO
+EQ00000675,High,67.3,Stored Energy,PPE
+EQ00000676,High,71.9,Line of Fire,Isolation/LOTO
+EQ00000677,High,77.5,Pressure,PPE
+EQ00000678,High,78.5,Multiple,Isolation/LOTO
+EQ00000679,Critical,73.9,Fire,Gas Testing
+EQ00000680,Critical,89.0,Vehicle,Inspection
+EQ00000681,High,62.3,Fire,Inspection
+EQ00000682,Critical,71.4,Multiple,Inspection
+EQ00000683,High,62.5,Pressure,Inspection
+EQ00000684,Critical,97.8,Pressure,Isolation/LOTO
+EQ00000685,High,77.3,Pressure,Gas Testing
+EQ00000686,Critical,99.0,Stored Energy,Gas Testing
+EQ00000687,High,79.5,Fire,PTW
+EQ00000688,Critical,89.6,Electrical,PTW
+EQ00000689,Medium,34.8,Stored Energy,Guarding
+EQ00000690,Critical,95.6,Line of Fire,Isolation/LOTO
+EQ00000691,Critical,96.1,Stored Energy,Fire Protection
+EQ00000692,Critical,90.0,Pressure,Isolation/LOTO
+EQ00000693,Critical,96.8,Pressure,Gas Testing
+EQ00000694,Medium,51.5,Fire,Inspection
+EQ00000695,High,54.9,Toxic Gas,Isolation/LOTO
+EQ00000696,Critical,98.5,Stored Energy,Isolation/LOTO
+EQ00000697,Critical,98.1,Line of Fire,PTW
+EQ00000698,High,53.0,Line of Fire,Inspection
+EQ00000699,Critical,93.5,Pressure,Fire Protection
+EQ00000700,High,66.4,Fire,Inspection
+EQ00000701,Critical,80.3,Multiple,Gas Testing
+EQ00000702,High,63.4,Toxic Gas,PPE
+EQ00000703,High,79.1,Vehicle,Gas Testing
+EQ00000704,High,75.7,Fire,PPE
+EQ00000705,Critical,84.6,Fall,PTW
+EQ00000706,High,62.2,Pressure,Isolation/LOTO
+EQ00000707,Critical,80.3,Multiple,Inspection
+EQ00000708,High,59.3,Multiple,PTW
+EQ00000709,Critical,73.1,Pressure,PTW
+EQ00000710,High,67.4,Multiple,Isolation/LOTO
+EQ00000711,Critical,89.4,Electrical,Emergency Shutdown
+EQ00000712,High,72.8,Line of Fire,Isolation/LOTO
+EQ00000713,Critical,90.3,Fall,PTW
+EQ00000714,High,68.7,Stored Energy,Isolation/LOTO
+EQ00000715,High,67.2,Electrical,Inspection
+EQ00000716,Medium,39.7,Stored Energy,PPE
+EQ00000717,Critical,79.1,Vehicle,PTW
+EQ00000718,High,52.7,Fire,Gas Testing
+EQ00000719,Critical,89.0,Vehicle,Gas Testing
+EQ00000720,High,77.3,Pressure,PTW
+EQ00000721,Critical,96.1,Stored Energy,Inspection
+EQ00000722,High,67.4,Line of Fire,Gas Testing
+EQ00000723,Critical,79.9,Multiple,Fire Protection
+EQ00000724,Medium,44.0,Fall,PPE
+EQ00000725,Critical,74.9,Toxic Gas,Gas Testing
+EQ00000726,Critical,82.2,Fall,Emergency Shutdown
+EQ00000727,Critical,99.4,Electrical,Fire Protection
+EQ00000728,High,66.0,Stored Energy,PTW
+EQ00000729,Critical,86.8,Line of Fire,PTW
+EQ00000730,Critical,96.1,Vehicle,Emergency Shutdown
+EQ00000731,Medium,54.4,Pressure,Guarding
+EQ00000732,Critical,82.7,Multiple,Emergency Shutdown
+EQ00000733,High,77.5,Vehicle,Inspection
+EQ00000734,High,55.3,Pressure,Isolation/LOTO
+EQ00000735,High,70.3,Fire,Inspection
+EQ00000736,Critical,72.3,Line of Fire,Gas Testing
+EQ00000737,High,73.3,Multiple,Isolation/LOTO
+EQ00000738,High,66.3,Pressure,Isolation/LOTO
+EQ00000739,Critical,75.9,Pressure,Inspection
+EQ00000740,Critical,95.1,Line of Fire,PTW
+EQ00000741,Critical,95.4,Toxic Gas,Fire Protection
+EQ00000742,Critical,72.1,Fall,Gas Testing
+EQ00000743,High,58.3,Toxic Gas,Inspection
+EQ00000744,Critical,85.4,Electrical,Gas Testing
+EQ00000745,Critical,80.7,Pressure,Fire Protection
+EQ00000746,High,67.4,Vehicle,Gas Testing
+EQ00000747,High,51.4,Fire,Isolation/LOTO
+EQ00000748,High,59.7,Pressure,PPE
+EQ00000749,Critical,90.9,Electrical,Emergency Shutdown
+EQ00000750,High,73.8,Fire,Inspection
+EQ00000751,Medium,42.9,Vehicle,Inspection
+EQ00000752,Critical,70.8,Toxic Gas,Emergency Shutdown
+EQ00000753,High,58.8,Stored Energy,Gas Testing
+EQ00000754,Critical,87.3,Line of Fire,Isolation/LOTO
+EQ00000755,Critical,87.4,Fall,PTW
+EQ00000756,Critical,99.0,Vehicle,Fire Protection
+EQ00000757,Critical,96.1,Fall,Gas Testing
+EQ00000758,High,50.0,Multiple,PPE
+EQ00000759,Critical,90.4,Pressure,Gas Testing
+EQ00000760,High,64.9,Line of Fire,Gas Testing
+EQ00000761,Critical,93.7,Fire,Fire Protection
+EQ00000762,Critical,92.1,Electrical,Fire Protection
+EQ00000763,Critical,95.0,Multiple,Isolation/LOTO
+EQ00000764,Critical,75.2,Stored Energy,PTW
+EQ00000765,High,65.1,Line of Fire,PTW
+EQ00000766,High,71.2,Pressure,Isolation/LOTO
+EQ00000767,High,76.3,Toxic Gas,PTW
+EQ00000768,High,63.5,Pressure,PTW
+EQ00000769,High,68.5,Multiple,Isolation/LOTO
+EQ00000770,Critical,80.6,Stored Energy,Isolation/LOTO
+EQ00000771,Critical,93.7,Stored Energy,Emergency Shutdown
+EQ00000772,High,59.9,Vehicle,Isolation/LOTO
+EQ00000773,Critical,76.2,Pressure,Inspection
+EQ00000774,High,61.8,Multiple,PPE
+EQ00000775,Critical,74.4,Toxic Gas,Emergency Shutdown
+EQ00000776,Critical,82.2,Line of Fire,PTW
+EQ00000777,Medium,46.0,Stored Energy,Inspection
+EQ00000778,Critical,77.3,Multiple,Gas Testing
+EQ00000779,High,54.6,Fire,Isolation/LOTO
+EQ00000780,High,63.4,Fire,Inspection
+EQ00000781,High,60.1,Electrical,Inspection
+EQ00000782,High,76.0,Line of Fire,Gas Testing
+EQ00000783,Critical,90.0,Stored Energy,Isolation/LOTO
+EQ00000784,Critical,91.5,Electrical,Inspection
+EQ00000785,High,63.8,Electrical,Gas Testing
+EQ00000786,Critical,84.7,Fall,Isolation/LOTO
+EQ00000787,High,75.6,Fire,PTW
+EQ00000788,Medium,33.2,Pressure,Inspection
+EQ00000789,High,75.5,Line of Fire,PTW
+EQ00000790,Critical,83.3,Multiple,Isolation/LOTO
+EQ00000791,Critical,79.0,Multiple,Gas Testing
+EQ00000792,High,77.4,Fire,Gas Testing
+EQ00000793,High,77.9,Multiple,Inspection
+EQ00000794,Critical,75.7,Line of Fire,Emergency Shutdown
+EQ00000795,Critical,94.3,Multiple,Fire Protection
+EQ00000796,High,71.7,Fall,PPE
+EQ00000797,High,79.8,Electrical,Inspection
+EQ00000798,Critical,83.0,Stored Energy,Inspection
+EQ00000799,Critical,86.2,Stored Energy,Emergency Shutdown
+EQ00000800,Critical,83.1,Vehicle,Emergency Shutdown
+EQ00000801,Critical,98.5,Multiple,Fire Protection
+EQ00000802,High,67.0,Stored Energy,Gas Testing
+EQ00000803,Critical,70.6,Stored Energy,Inspection
+EQ00000804,Critical,82.2,Fall,Emergency Shutdown
+EQ00000805,High,54.0,Electrical,Gas Testing
+EQ00000806,Critical,87.3,Toxic Gas,Gas Testing
+EQ00000807,Critical,77.1,Vehicle,Isolation/LOTO
+EQ00000808,Critical,91.3,Electrical,Isolation/LOTO
+EQ00000809,High,67.8,Toxic Gas,Inspection
+EQ00000810,Critical,93.9,Toxic Gas,Emergency Shutdown
+EQ00000811,Critical,70.3,Toxic Gas,Isolation/LOTO
+EQ00000812,Critical,87.1,Toxic Gas,Emergency Shutdown
+EQ00000813,High,53.0,Electrical,Inspection
+EQ00000814,High,67.6,Fire,PPE
+EQ00000815,High,60.5,Electrical,Gas Testing
+EQ00000816,Medium,46.5,Vehicle,SOP Compliance
+EQ00000817,High,65.2,Line of Fire,PTW
+EQ00000818,High,60.6,Fall,Gas Testing
+EQ00000819,Critical,84.7,Pressure,PTW
+EQ00000820,Critical,73.2,Electrical,Fire Protection
+EQ00000821,High,54.1,Vehicle,Isolation/LOTO
+EQ00000822,Critical,88.6,Toxic Gas,Emergency Shutdown
+EQ00000823,High,52.4,Fire,PPE
+EQ00000824,Critical,84.2,Line of Fire,Fire Protection
+EQ00000825,High,70.1,Vehicle,PTW
+EQ00000826,High,53.3,Multiple,PTW
+EQ00000827,Critical,76.4,Fire,Isolation/LOTO
+EQ00000828,Medium,44.5,Fire,Guarding
+EQ00000829,Critical,71.1,Electrical,PTW
+EQ00000830,Critical,93.0,Toxic Gas,Inspection
+EQ00000831,High,56.8,Multiple,PPE
+EQ00000832,High,77.9,Multiple,PPE
+EQ00000833,High,63.9,Pressure,Inspection
+EQ00000834,Critical,73.8,Fire,Emergency Shutdown
+EQ00000835,Critical,98.5,Multiple,Gas Testing
+EQ00000836,High,53.6,Toxic Gas,PTW
+EQ00000837,Critical,97.3,Stored Energy,Gas Testing
+EQ00000838,Critical,70.7,Multiple,Gas Testing
+EQ00000839,Critical,79.6,Fall,Gas Testing
+EQ00000840,Critical,80.7,Fall,Gas Testing
+EQ00000841,Critical,75.1,Pressure,PTW
+EQ00000842,High,64.7,Toxic Gas,Inspection
+EQ00000843,Critical,97.1,Electrical,Inspection
+EQ00000844,Critical,77.6,Fire,Gas Testing
+EQ00000845,High,69.6,Vehicle,Gas Testing
+EQ00000846,Critical,79.6,Vehicle,Isolation/LOTO
+EQ00000847,Medium,41.1,Pressure,PPE
+EQ00000848,Medium,53.2,Toxic Gas,Guarding
+EQ00000849,High,53.2,Line of Fire,Inspection
+EQ00000850,Critical,89.6,Electrical,Emergency Shutdown
+EQ00000851,Critical,92.2,Fall,Fire Protection
+EQ00000852,Critical,70.1,Multiple,Fire Protection
+EQ00000853,High,63.5,Fire,Isolation/LOTO
+EQ00000854,Critical,97.8,Pressure,Inspection
+EQ00000855,High,66.2,Electrical,Isolation/LOTO
+EQ00000856,High,71.6,Pressure,Isolation/LOTO
+EQ00000857,High,64.4,Vehicle,PTW
+EQ00000858,High,67.3,Electrical,PPE
+EQ00000859,Critical,84.4,Fall,PTW
+EQ00000860,Critical,91.5,Multiple,Fire Protection
+EQ00000861,Critical,82.0,Fire,PTW
+EQ00000862,Medium,39.5,Electrical,SOP Compliance
+EQ00000863,Critical,99.7,Stored Energy,Fire Protection
+EQ00000864,High,78.1,Toxic Gas,Inspection
+EQ00000865,Medium,48.4,Electrical,Inspection
+EQ00000866,High,62.7,Multiple,PPE
+EQ00000867,High,54.9,Fall,Gas Testing
+EQ00000868,High,62.9,Fall,PPE
+EQ00000869,High,62.5,Fire,PPE
+EQ00000870,Critical,71.9,Fall,PTW
+EQ00000871,Critical,88.8,Toxic Gas,Fire Protection
+EQ00000872,High,78.1,Multiple,Gas Testing
+EQ00000873,Critical,73.8,Fall,Inspection
+EQ00000874,Critical,99.4,Line of Fire,Gas Testing
+EQ00000875,High,62.3,Toxic Gas,Gas Testing
+EQ00000876,High,54.9,Line of Fire,PPE
+EQ00000877,High,56.7,Multiple,Gas Testing
+EQ00000878,Critical,88.6,Fall,Inspection
+EQ00000879,High,65.0,Pressure,Inspection
+EQ00000880,Critical,99.7,Fire,Inspection
+EQ00000881,High,54.6,Fire,PTW
+EQ00000882,Critical,78.7,Electrical,Fire Protection
+EQ00000883,High,62.9,Vehicle,Inspection
+EQ00000884,High,61.7,Fall,Inspection
+EQ00000885,High,62.0,Fire,PPE
+EQ00000886,Critical,82.2,Multiple,Gas Testing
+EQ00000887,High,77.6,Stored Energy,Isolation/LOTO
+EQ00000888,High,53.7,Electrical,PTW
+EQ00000889,High,76.3,Multiple,Gas Testing
+EQ00000890,Critical,87.0,Vehicle,Gas Testing
+EQ00000891,Critical,91.5,Pressure,Gas Testing
+EQ00000892,High,76.3,Stored Energy,Gas Testing
+EQ00000893,Critical,87.4,Electrical,Inspection
+EQ00000894,Critical,80.1,Vehicle,PTW
+EQ00000895,High,56.2,Vehicle,PPE
+EQ00000896,Medium,46.2,Multiple,Guarding
+EQ00000897,High,54.9,Fall,Gas Testing
+EQ00000898,High,79.8,Fire,Inspection
+EQ00000899,Critical,79.1,Fall,Gas Testing
+EQ00000900,Critical,83.1,Stored Energy,Gas Testing
+EQ00000901,High,69.0,Fire,PTW
+EQ00000902,Medium,47.5,Electrical,Guarding
+EQ00000903,Critical,87.8,Line of Fire,Inspection
+EQ00000904,Critical,94.7,Toxic Gas,Inspection
+EQ00000905,Critical,90.4,Fire,Isolation/LOTO
+EQ00000906,High,56.2,Vehicle,Isolation/LOTO
+EQ00000907,High,69.7,Stored Energy,Isolation/LOTO
+EQ00000908,Medium,45.8,Vehicle,PPE
+EQ00000909,Medium,52.1,Line of Fire,Guarding
+EQ00000910,High,59.7,Fire,Gas Testing
+EQ00000911,Medium,40.5,Electrical,PPE
+EQ00000912,High,73.6,Line of Fire,Gas Testing
+EQ00000913,Critical,70.9,Stored Energy,Emergency Shutdown
+EQ00000914,High,64.5,Electrical,Gas Testing
+EQ00000915,High,64.1,Multiple,PPE
+EQ00000916,High,71.3,Toxic Gas,Isolation/LOTO
+EQ00000917,High,52.0,Toxic Gas,Inspection
+EQ00000918,High,58.2,Electrical,PPE
+EQ00000919,High,63.6,Fall,Inspection
+EQ00000920,High,68.3,Vehicle,PTW
+EQ00000921,Critical,78.2,Toxic Gas,Emergency Shutdown
+EQ00000922,Medium,34.7,Vehicle,PPE
+EQ00000923,High,59.1,Pressure,PTW
+EQ00000924,High,55.6,Toxic Gas,PPE
+EQ00000925,Critical,84.9,Line of Fire,Inspection
+EQ00000926,High,69.1,Vehicle,PTW
+EQ00000927,Medium,48.8,Electrical,Guarding
+EQ00000928,Critical,75.6,Line of Fire,Emergency Shutdown
+EQ00000929,Critical,73.8,Toxic Gas,Fire Protection
+EQ00000930,High,56.1,Electrical,Isolation/LOTO
+EQ00000931,Critical,72.5,Vehicle,Inspection
+EQ00000932,Critical,93.2,Multiple,PTW
+EQ00000933,High,57.5,Pressure,PPE
+EQ00000934,Medium,39.5,Stored Energy,PPE
+EQ00000935,Critical,95.5,Fire,Fire Protection
+EQ00000936,High,61.6,Electrical,Inspection
+EQ00000937,Critical,83.2,Line of Fire,Emergency Shutdown
+EQ00000938,Critical,76.6,Toxic Gas,PTW
+EQ00000939,High,57.9,Stored Energy,PTW
+EQ00000940,Critical,85.8,Toxic Gas,Emergency Shutdown
+EQ00000941,Critical,92.1,Toxic Gas,Isolation/LOTO
+EQ00000942,Medium,30.2,Stored Energy,SOP Compliance
+EQ00000943,High,76.6,Line of Fire,Isolation/LOTO
+EQ00000944,High,75.2,Fall,Isolation/LOTO
+EQ00000945,Critical,98.8,Electrical,Fire Protection
+EQ00000946,High,63.1,Stored Energy,Gas Testing
+EQ00000947,High,53.5,Line of Fire,PTW
+EQ00000948,Critical,88.8,Fall,Emergency Shutdown
+EQ00000949,Critical,74.6,Line of Fire,Fire Protection
+EQ00000950,High,60.6,Line of Fire,PPE
+EQ00000951,High,73.4,Toxic Gas,PTW
+EQ00000952,Critical,85.6,Pressure,Fire Protection
+EQ00000953,High,69.4,Stored Energy,Inspection
+EQ00000954,Critical,87.5,Fire,Fire Protection
+EQ00000955,High,62.4,Multiple,PPE
+EQ00000956,Medium,34.1,Electrical,SOP Compliance
+EQ00000957,Medium,38.7,Line of Fire,SOP Compliance
+EQ00000958,High,68.5,Fall,PTW
+EQ00000959,Critical,78.7,Line of Fire,Fire Protection
+EQ00000960,Medium,38.8,Toxic Gas,SOP Compliance
+EQ00000961,High,60.7,Vehicle,Gas Testing
+EQ00000962,Critical,84.2,Fire,Gas Testing
+EQ00000963,High,51.0,Fire,Gas Testing
+EQ00000964,High,69.4,Fall,PTW
+EQ00000965,High,57.1,Toxic Gas,PTW
+EQ00000966,Critical,78.9,Line of Fire,Isolation/LOTO
+EQ00000967,Critical,92.2,Fire,Fire Protection
+EQ00000968,High,52.5,Fall,Isolation/LOTO
+EQ00000969,High,71.9,Fall,PPE
+EQ00000970,Medium,53.2,Multiple,Inspection
+EQ00000971,High,61.1,Toxic Gas,PTW
+EQ00000972,Critical,87.7,Toxic Gas,Emergency Shutdown
+EQ00000973,High,53.8,Electrical,PPE
+EQ00000974,High,68.4,Pressure,Inspection
+EQ00000975,Critical,87.6,Line of Fire,Gas Testing
+EQ00000976,Critical,78.5,Fall,PTW
+EQ00000977,Critical,92.9,Pressure,Inspection
+EQ00000978,High,74.1,Line of Fire,Gas Testing
+EQ00000979,High,69.3,Electrical,Isolation/LOTO
+EQ00000980,Medium,42.8,Electrical,PPE
+EQ00000981,Critical,79.4,Stored Energy,Isolation/LOTO
+EQ00000982,Critical,83.4,Vehicle,PTW
+EQ00000983,High,72.6,Fall,Isolation/LOTO
+EQ00000984,Critical,70.6,Fire,Emergency Shutdown
+EQ00000985,High,73.2,Electrical,Gas Testing
+EQ00000986,Critical,89.8,Line of Fire,PTW
+EQ00000987,High,73.6,Fire,Isolation/LOTO
+EQ00000988,High,79.6,Multiple,Gas Testing
+EQ00000989,High,63.4,Electrical,Inspection
+EQ00000990,High,53.9,Line of Fire,PTW
+EQ00000991,Critical,88.0,Multiple,Fire Protection
+EQ00000992,Critical,72.5,Fall,Inspection
+EQ00000993,Critical,90.2,Line of Fire,Emergency Shutdown
+EQ00000994,Critical,83.7,Multiple,Fire Protection
+EQ00000995,Critical,98.6,Electrical,Fire Protection
+EQ00000996,High,69.8,Fire,Inspection
+EQ00000997,High,77.7,Line of Fire,PTW
+EQ00000998,Medium,46.8,Line of Fire,Inspection
+EQ00000999,Critical,92.4,Line of Fire,Isolation/LOTO
+EQ00001000,High,75.6,Fire,Isolation/LOTO
+EQ00001001,High,74.2,Electrical,Isolation/LOTO
+EQ00001002,High,63.0,Fall,PPE
+EQ00001003,Critical,98.6,Line of Fire,Inspection
+EQ00001004,Critical,97.8,Electrical,Fire Protection
+EQ00001005,High,51.2,Vehicle,PPE
+EQ00001006,High,56.9,Fall,Isolation/LOTO
+EQ00001007,Critical,80.8,Line of Fire,Gas Testing
+EQ00001008,Medium,38.5,Fall,Inspection
+EQ00001009,High,71.0,Fire,Isolation/LOTO
+EQ00001010,Critical,73.7,Toxic Gas,PTW
+EQ00001011,High,58.7,Fall,Isolation/LOTO
+EQ00001012,High,78.1,Line of Fire,Gas Testing
+EQ00001013,High,79.6,Fire,PPE
+EQ00001014,High,65.2,Pressure,PPE
+EQ00001015,Critical,89.6,Stored Energy,Fire Protection
+EQ00001016,High,66.8,Vehicle,Isolation/LOTO
+EQ00001017,High,52.5,Toxic Gas,Isolation/LOTO
+EQ00001018,High,72.2,Vehicle,Inspection
+EQ00001019,Critical,78.3,Stored Energy,PTW
+EQ00001020,Critical,80.6,Multiple,Fire Protection
+EQ00001021,High,78.7,Vehicle,Isolation/LOTO
+EQ00001022,High,78.5,Vehicle,Gas Testing
+EQ00001023,High,78.7,Pressure,Isolation/LOTO
+EQ00001024,Medium,38.8,Stored Energy,SOP Compliance
+EQ00001025,Critical,95.6,Fall,PTW
+EQ00001026,High,78.4,Electrical,Gas Testing
+EQ00001027,High,56.7,Fire,Inspection
+EQ00001028,High,59.5,Pressure,PPE
+EQ00001029,High,72.8,Fire,PTW
+EQ00001030,Critical,78.5,Line of Fire,Fire Protection
+EQ00001031,High,65.0,Vehicle,PPE
+EQ00001032,Critical,75.9,Stored Energy,Isolation/LOTO
+EQ00001033,High,61.1,Electrical,Gas Testing
+EQ00001034,Critical,90.5,Line of Fire,Inspection
+EQ00001035,Critical,88.2,Stored Energy,Gas Testing
+EQ00001036,Critical,75.1,Electrical,Fire Protection
+EQ00001037,High,73.7,Fall,Gas Testing
+EQ00001038,Medium,47.0,Multiple,Guarding
+EQ00001039,High,69.2,Pressure,Inspection
+EQ00001040,Medium,37.1,Stored Energy,Guarding
+EQ00001041,High,50.8,Pressure,Inspection
+EQ00001042,High,75.7,Fire,PPE
+EQ00001043,Critical,98.0,Toxic Gas,Emergency Shutdown
+EQ00001044,High,76.6,Line of Fire,PTW
+EQ00001045,Critical,98.2,Multiple,Inspection
+EQ00001046,Critical,72.8,Vehicle,Emergency Shutdown
+EQ00001047,High,64.2,Multiple,Inspection
+EQ00001048,Critical,86.6,Fall,Gas Testing
+EQ00001049,High,55.3,Toxic Gas,Inspection
+EQ00001050,High,74.4,Multiple,PPE
+EQ00001051,High,60.8,Fire,Inspection
+EQ00001052,Medium,47.0,Electrical,Guarding
+EQ00001053,High,53.2,Fire,Isolation/LOTO
+EQ00001054,High,61.4,Fall,Gas Testing
+EQ00001055,High,68.3,Toxic Gas,PTW
+EQ00001056,Critical,89.0,Vehicle,Gas Testing
+EQ00001057,Medium,37.1,Stored Energy,Inspection
+EQ00001058,High,52.3,Line of Fire,Gas Testing
+EQ00001059,Critical,87.1,Pressure,Isolation/LOTO
+EQ00001060,Critical,84.9,Fall,Isolation/LOTO
+EQ00001061,High,68.9,Pressure,Isolation/LOTO
+EQ00001062,High,68.7,Line of Fire,Isolation/LOTO
+EQ00001063,Critical,78.9,Multiple,Gas Testing
+EQ00001064,High,55.4,Multiple,Gas Testing
+EQ00001065,Critical,92.1,Vehicle,Gas Testing
+EQ00001066,High,52.3,Fire,Inspection
+EQ00001067,Critical,97.6,Toxic Gas,Isolation/LOTO
+EQ00001068,High,52.2,Line of Fire,Inspection
+EQ00001069,Medium,48.8,Vehicle,Guarding
+EQ00001070,Critical,70.3,Fall,Gas Testing
+EQ00001071,Critical,93.0,Multiple,Emergency Shutdown
+EQ00001072,Critical,86.7,Stored Energy,PTW
+EQ00001073,High,62.7,Vehicle,Gas Testing
+EQ00001074,Critical,92.2,Stored Energy,Inspection
+EQ00001075,High,64.9,Pressure,Isolation/LOTO
+EQ00001076,Critical,93.3,Fire,Inspection
+EQ00001077,High,70.1,Multiple,Inspection
+EQ00001078,Critical,82.2,Line of Fire,Gas Testing
+EQ00001079,High,79.4,Stored Energy,Inspection
+EQ00001080,High,65.6,Electrical,Inspection
+EQ00001081,High,55.9,Electrical,PTW
+EQ00001082,High,50.6,Toxic Gas,Inspection
+EQ00001083,High,62.2,Pressure,Gas Testing
+EQ00001084,High,67.8,Electrical,Gas Testing
+EQ00001085,High,72.9,Pressure,PPE
+EQ00001086,High,77.7,Line of Fire,Inspection
+EQ00001087,Medium,46.6,Stored Energy,SOP Compliance
+EQ00001088,High,65.3,Vehicle,Isolation/LOTO
+EQ00001089,Critical,75.7,Electrical,Fire Protection
+EQ00001090,High,50.6,Line of Fire,Gas Testing
+EQ00001091,Critical,89.0,Vehicle,Isolation/LOTO
+EQ00001092,Critical,81.5,Vehicle,Inspection
+EQ00001093,High,58.6,Toxic Gas,Isolation/LOTO
+EQ00001094,High,61.2,Fire,PPE
+EQ00001095,High,73.6,Multiple,Gas Testing
+EQ00001096,Critical,88.0,Stored Energy,Isolation/LOTO
+EQ00001097,High,65.5,Line of Fire,PTW
+EQ00001098,Medium,47.2,Line of Fire,SOP Compliance
+EQ00001099,High,75.2,Multiple,Gas Testing
+EQ00001100,Critical,74.7,Multiple,Isolation/LOTO
+EQ00001101,High,72.8,Fire,Gas Testing
+EQ00001102,Critical,96.7,Fire,Gas Testing
+EQ00001103,High,78.0,Stored Energy,Inspection
+EQ00001104,Critical,80.0,Line of Fire,Isolation/LOTO
+EQ00001105,Critical,99.1,Fire,Gas Testing
+EQ00001106,High,59.7,Stored Energy,PPE
+EQ00001107,Critical,73.3,Stored Energy,Gas Testing
+EQ00001108,Medium,52.1,Electrical,SOP Compliance
+EQ00001109,Critical,99.3,Electrical,Isolation/LOTO
+EQ00001110,High,63.2,Line of Fire,PPE
+EQ00001111,High,72.8,Fall,PPE
+EQ00001112,High,59.6,Vehicle,PPE
+EQ00001113,High,71.8,Fire,PPE
+EQ00001114,Critical,83.0,Fire,Inspection
+EQ00001115,Critical,95.4,Vehicle,PTW
+EQ00001116,Critical,90.3,Vehicle,Emergency Shutdown
+EQ00001117,High,78.0,Electrical,PPE
+EQ00001118,Critical,87.9,Stored Energy,Gas Testing
+EQ00001119,High,61.6,Electrical,PPE
+EQ00001120,High,66.7,Pressure,Gas Testing
+EQ00001121,Medium,54.9,Multiple,Guarding
+EQ00001122,Critical,84.2,Electrical,Gas Testing
+EQ00001123,Critical,96.5,Line of Fire,Emergency Shutdown
+EQ00001124,High,69.0,Fire,Gas Testing
+EQ00001125,Critical,71.9,Toxic Gas,Emergency Shutdown
+EQ00001126,High,76.9,Multiple,PTW
+EQ00001127,Critical,84.7,Line of Fire,Inspection
+EQ00001128,Critical,92.9,Line of Fire,PTW
+EQ00001129,Critical,88.9,Stored Energy,Fire Protection
+EQ00001130,High,54.7,Multiple,Gas Testing
+EQ00001131,Critical,93.3,Stored Energy,Fire Protection
+EQ00001132,High,51.5,Multiple,Inspection
+EQ00001133,High,56.6,Fall,Inspection
+EQ00001134,High,50.1,Vehicle,PTW
+EQ00001135,High,63.6,Multiple,PPE
+EQ00001136,High,77.5,Multiple,Gas Testing
+EQ00001137,Critical,71.7,Vehicle,Emergency Shutdown
+EQ00001138,High,75.8,Fall,Isolation/LOTO
+EQ00001139,High,68.3,Fire,PTW
+EQ00001140,Medium,34.1,Pressure,SOP Compliance
+EQ00001141,High,59.5,Multiple,Inspection
+EQ00001142,Critical,99.3,Vehicle,Fire Protection
+EQ00001143,High,53.9,Electrical,PTW
+EQ00001144,High,65.7,Pressure,PTW
+EQ00001145,High,51.1,Electrical,Gas Testing
+EQ00001146,High,71.3,Toxic Gas,Gas Testing
+EQ00001147,High,78.4,Fall,PTW
+EQ00001148,High,53.8,Multiple,Inspection
+EQ00001149,Critical,77.6,Pressure,Gas Testing
+EQ00001150,High,74.2,Vehicle,PPE
+EQ00001151,Medium,43.9,Stored Energy,PPE
+EQ00001152,High,51.0,Toxic Gas,Inspection
+EQ00001153,Critical,82.5,Line of Fire,Inspection
+EQ00001154,High,53.1,Pressure,Gas Testing
+EQ00001155,Critical,94.3,Line of Fire,Fire Protection
+EQ00001156,Critical,99.8,Stored Energy,Gas Testing
+EQ00001157,High,66.7,Stored Energy,PTW
+EQ00001158,High,64.8,Line of Fire,Inspection
+EQ00001159,High,69.2,Vehicle,PPE
+EQ00001160,High,51.6,Fall,Isolation/LOTO
+EQ00001161,Critical,99.2,Fire,Inspection
+EQ00001162,Critical,73.3,Line of Fire,PTW
+EQ00001163,Critical,92.3,Fire,Isolation/LOTO
+EQ00001164,Medium,37.9,Multiple,PPE
+EQ00001165,Medium,44.9,Fire,Inspection
+EQ00001166,High,57.3,Vehicle,PPE
+EQ00001167,High,77.3,Stored Energy,Isolation/LOTO
+EQ00001168,Medium,34.7,Vehicle,Inspection
+EQ00001169,Medium,48.7,Pressure,Guarding
+EQ00001170,High,60.9,Fall,PPE
+EQ00001171,High,65.2,Toxic Gas,Gas Testing
+EQ00001172,High,74.8,Toxic Gas,PTW
+EQ00001173,Critical,89.5,Toxic Gas,Inspection
+EQ00001174,Critical,88.2,Toxic Gas,Gas Testing
+EQ00001175,Medium,40.1,Electrical,PPE
+EQ00001176,Medium,40.6,Stored Energy,SOP Compliance
+EQ00001177,High,70.1,Vehicle,Isolation/LOTO
+EQ00001178,High,72.9,Multiple,Inspection
+EQ00001179,Medium,32.3,Line of Fire,Inspection
+EQ00001180,High,51.4,Pressure,Inspection
+EQ00001181,Critical,92.4,Fire,Fire Protection
+EQ00001182,High,70.0,Electrical,PTW
+EQ00001183,Medium,30.5,Electrical,SOP Compliance
+EQ00001184,High,54.0,Fire,PTW
+EQ00001185,Medium,38.5,Pressure,SOP Compliance
+EQ00001186,Critical,78.5,Multiple,Fire Protection
+EQ00001187,Critical,96.5,Stored Energy,Inspection
+EQ00001188,Medium,53.8,Pressure,PPE
+EQ00001189,High,75.4,Toxic Gas,Gas Testing
+EQ00001190,Critical,97.2,Multiple,Emergency Shutdown
+EQ00001191,High,54.3,Line of Fire,Gas Testing
+EQ00001192,High,53.2,Pressure,Gas Testing
+EQ00001193,Critical,84.3,Fire,PTW
+EQ00001194,High,57.9,Pressure,Gas Testing
+EQ00001195,High,67.2,Toxic Gas,Gas Testing
+EQ00001196,Critical,75.9,Vehicle,Gas Testing
+EQ00001197,Critical,93.5,Vehicle,Fire Protection
+EQ00001198,High,79.7,Line of Fire,Inspection
+EQ00001199,Critical,90.8,Pressure,Inspection
+EQ00001200,High,74.0,Stored Energy,Isolation/LOTO
+EQ00001201,High,60.2,Line of Fire,Isolation/LOTO
+EQ00001202,Critical,92.4,Multiple,Gas Testing
+EQ00001203,High,59.9,Fire,Gas Testing
+EQ00001204,High,73.1,Multiple,PPE
+EQ00001205,Critical,84.0,Vehicle,Inspection
+EQ00001206,High,64.6,Stored Energy,Isolation/LOTO
+EQ00001207,High,61.7,Multiple,Gas Testing
+EQ00001208,High,51.4,Toxic Gas,Inspection
+EQ00001209,High,59.8,Fire,Gas Testing
+EQ00001210,High,51.9,Line of Fire,Inspection
+EQ00001211,Medium,44.4,Electrical,Inspection
+EQ00001212,High,73.5,Line of Fire,PPE
+EQ00001213,Critical,92.4,Pressure,Fire Protection
+EQ00001214,Medium,41.6,Stored Energy,Inspection
+EQ00001215,High,70.8,Electrical,PPE
+EQ00001216,Critical,70.8,Stored Energy,Gas Testing
+EQ00001217,Medium,49.4,Toxic Gas,PPE
+EQ00001218,Medium,37.8,Multiple,Inspection
+EQ00001219,Critical,78.2,Multiple,Isolation/LOTO
+EQ00001220,High,67.3,Electrical,Isolation/LOTO
+EQ00001221,Critical,73.0,Fall,Isolation/LOTO
+EQ00001222,High,74.7,Fall,Gas Testing
+EQ00001223,Critical,99.5,Vehicle,Gas Testing
+EQ00001224,Critical,82.6,Vehicle,Gas Testing
+EQ00001225,Critical,71.1,Vehicle,PTW
+EQ00001226,High,75.9,Stored Energy,PTW
+EQ00001227,High,75.0,Vehicle,PPE
+EQ00001228,Critical,93.7,Multiple,Inspection
+EQ00001229,High,75.7,Fall,Isolation/LOTO
+EQ00001230,High,65.2,Fall,PTW
+EQ00001231,High,72.0,Electrical,Isolation/LOTO
+EQ00001232,High,51.7,Fall,PTW
+EQ00001233,High,75.0,Pressure,Gas Testing
+EQ00001234,Critical,94.0,Fall,PTW
+EQ00001235,Critical,96.3,Fire,PTW
+EQ00001236,Medium,49.4,Fall,Inspection
+EQ00001237,Critical,99.1,Vehicle,Isolation/LOTO
+EQ00001238,Critical,85.9,Fall,Isolation/LOTO
+EQ00001239,High,75.4,Vehicle,PPE
+EQ00001240,High,73.3,Stored Energy,Gas Testing
+EQ00001241,High,67.3,Pressure,Inspection
+EQ00001242,High,77.2,Toxic Gas,Inspection
+EQ00001243,High,52.0,Stored Energy,Gas Testing
+EQ00001244,High,53.2,Toxic Gas,Inspection
+EQ00001245,High,75.3,Fire,Gas Testing
+EQ00001246,High,64.5,Line of Fire,Inspection
+EQ00001247,High,50.3,Vehicle,Isolation/LOTO
+EQ00001248,High,53.6,Line of Fire,Inspection
+EQ00001249,High,57.0,Pressure,Isolation/LOTO
+EQ00001250,Critical,75.6,Line of Fire,Fire Protection
+EQ00001251,High,79.6,Electrical,PTW
+EQ00001252,High,72.8,Vehicle,PPE
+EQ00001253,High,71.9,Toxic Gas,Gas Testing
+EQ00001254,Critical,97.4,Line of Fire,Inspection
+EQ00001255,High,58.6,Electrical,Isolation/LOTO
+EQ00001256,Critical,86.7,Fire,PTW
+EQ00001257,High,54.2,Multiple,Gas Testing
+EQ00001258,Critical,76.5,Fall,PTW
+EQ00001259,Critical,79.8,Pressure,PTW
+EQ00001260,Medium,40.5,Fire,Guarding
+EQ00001261,Medium,48.2,Electrical,Guarding
+EQ00001262,Critical,87.4,Stored Energy,Gas Testing
+EQ00001263,Critical,92.4,Pressure,Inspection
+EQ00001264,High,73.5,Multiple,Isolation/LOTO
+EQ00001265,High,77.8,Electrical,PTW
+EQ00001266,High,53.3,Vehicle,PPE
+EQ00001267,High,65.9,Line of Fire,PPE
+EQ00001268,Critical,71.6,Multiple,Fire Protection
+EQ00001269,High,63.1,Pressure,PPE
+EQ00001270,Medium,54.7,Line of Fire,PPE
+EQ00001271,Critical,85.8,Electrical,Isolation/LOTO
+EQ00001272,Medium,53.3,Electrical,SOP Compliance
+EQ00001273,High,73.8,Pressure,Gas Testing
+EQ00001274,High,52.8,Fall,Isolation/LOTO
+EQ00001275,Medium,50.2,Pressure,Inspection
+EQ00001276,Critical,72.2,Multiple,Fire Protection
+EQ00001277,High,74.0,Stored Energy,Isolation/LOTO
+EQ00001278,High,62.6,Fall,PPE
+EQ00001279,Critical,87.8,Electrical,Inspection
+EQ00001280,Critical,81.3,Electrical,Isolation/LOTO
+EQ00001281,Critical,70.1,Multiple,Inspection
+EQ00001282,Medium,51.7,Toxic Gas,Guarding
+EQ00001283,High,76.7,Fall,Isolation/LOTO
+EQ00001284,High,65.3,Toxic Gas,Inspection
+EQ00001285,High,58.7,Vehicle,Isolation/LOTO
+EQ00001286,Critical,88.2,Fire,PTW
+EQ00001287,Critical,74.0,Vehicle,Gas Testing
+EQ00001288,Critical,74.1,Fall,Gas Testing
+EQ00001289,Critical,80.3,Stored Energy,Gas Testing
+EQ00001290,Critical,83.8,Fall,Emergency Shutdown
+EQ00001291,High,73.0,Multiple,PTW
+EQ00001292,High,53.1,Fall,Inspection
+EQ00001293,High,73.6,Electrical,PTW
+EQ00001294,Critical,98.9,Pressure,Gas Testing
+EQ00001295,High,69.8,Multiple,PPE
+EQ00001296,Medium,41.6,Line of Fire,PPE
+EQ00001297,High,72.8,Line of Fire,PPE
+EQ00001298,Critical,74.3,Line of Fire,Inspection
+EQ00001299,High,67.0,Multiple,Isolation/LOTO
+EQ00001300,Critical,73.8,Electrical,Gas Testing
+EQ00001301,Critical,73.6,Stored Energy,PTW
+EQ00001302,High,50.2,Pressure,Gas Testing
+EQ00001303,High,64.7,Electrical,Inspection
+EQ00001304,Critical,92.0,Vehicle,Emergency Shutdown
+EQ00001305,Critical,76.5,Fire,Fire Protection
+EQ00001306,High,62.7,Line of Fire,PTW
+EQ00001307,Critical,81.0,Fire,Emergency Shutdown
+EQ00001308,Critical,92.1,Electrical,PTW
+EQ00001309,High,68.5,Fire,Inspection
+EQ00001310,High,70.9,Fire,Isolation/LOTO
+EQ00001311,High,57.8,Fall,Inspection
+EQ00001312,Critical,83.1,Toxic Gas,Isolation/LOTO
+EQ00001313,Critical,82.0,Vehicle,Fire Protection
+EQ00001314,Critical,73.6,Fall,Gas Testing
+EQ00001315,Critical,79.3,Pressure,Emergency Shutdown
+EQ00001316,High,79.4,Line of Fire,Inspection
+EQ00001317,High,67.0,Electrical,PPE
+EQ00001318,High,50.0,Toxic Gas,Inspection
+EQ00001319,Critical,74.0,Stored Energy,Inspection
+EQ00001320,Critical,85.5,Pressure,Gas Testing
+EQ00001321,High,51.3,Multiple,Gas Testing
+EQ00001322,Critical,84.8,Stored Energy,PTW
+EQ00001323,High,62.7,Fire,PTW
+EQ00001324,High,66.0,Fall,Inspection
+EQ00001325,Critical,96.0,Fall,Emergency Shutdown
+EQ00001326,High,62.2,Toxic Gas,Isolation/LOTO
+EQ00001327,High,66.0,Line of Fire,Gas Testing
+EQ00001328,Medium,39.5,Fire,Inspection
+EQ00001329,Critical,85.7,Fire,Fire Protection
+EQ00001330,Critical,72.7,Fire,Gas Testing
+EQ00001331,High,74.3,Toxic Gas,PPE
+EQ00001332,High,58.9,Electrical,Inspection
+EQ00001333,Critical,76.8,Line of Fire,PTW
+EQ00001334,High,60.9,Toxic Gas,PPE
+EQ00001335,High,51.3,Line of Fire,Inspection
+EQ00001336,High,59.7,Fall,Isolation/LOTO
+EQ00001337,High,75.7,Pressure,PPE
+EQ00001338,High,69.9,Fall,Gas Testing
+EQ00001339,Critical,89.3,Fire,Fire Protection
+EQ00001340,Critical,91.2,Fall,Isolation/LOTO
+EQ00001341,Critical,70.8,Electrical,PTW
+EQ00001342,Critical,90.8,Toxic Gas,Isolation/LOTO
+EQ00001343,High,50.1,Pressure,Gas Testing
+EQ00001344,High,57.9,Pressure,PTW
+EQ00001345,High,72.0,Vehicle,PTW
+EQ00001346,Critical,95.8,Vehicle,Emergency Shutdown
+EQ00001347,Medium,43.1,Electrical,Guarding
+EQ00001348,High,52.2,Electrical,Isolation/LOTO
+EQ00001349,High,52.2,Line of Fire,PTW
+EQ00001350,Critical,76.0,Pressure,Isolation/LOTO
+EQ00001351,Critical,97.7,Toxic Gas,PTW
+EQ00001352,High,75.6,Electrical,Gas Testing
+EQ00001353,High,76.6,Pressure,PPE
+EQ00001354,High,80.0,Fall,Isolation/LOTO
+EQ00001355,High,74.9,Line of Fire,Inspection
+EQ00001356,Medium,45.3,Multiple,Inspection
+EQ00001357,High,53.2,Line of Fire,Isolation/LOTO
+EQ00001358,High,51.7,Fire,Isolation/LOTO
+EQ00001359,Medium,52.3,Stored Energy,Guarding
+EQ00001360,High,56.5,Fall,PPE
+EQ00001361,Medium,41.7,Toxic Gas,PPE
+EQ00001362,Medium,50.5,Pressure,PPE
+EQ00001363,High,65.8,Electrical,Inspection
+EQ00001364,Medium,45.4,Fall,SOP Compliance
+EQ00001365,Medium,35.6,Toxic Gas,Inspection
+EQ00001366,High,52.8,Toxic Gas,Isolation/LOTO
+EQ00001367,Critical,87.6,Line of Fire,Gas Testing
+EQ00001368,Medium,39.4,Line of Fire,Inspection
+EQ00001369,High,69.8,Fire,PTW
+EQ00001370,High,51.8,Electrical,Gas Testing
+EQ00001371,Critical,73.7,Vehicle,Isolation/LOTO
+EQ00001372,High,55.1,Vehicle,Gas Testing
+EQ00001373,High,52.1,Toxic Gas,PPE
+EQ00001374,Critical,76.3,Vehicle,Emergency Shutdown
+EQ00001375,Critical,95.5,Fall,Gas Testing
+EQ00001376,High,75.6,Electrical,PPE
+EQ00001377,High,74.9,Electrical,Isolation/LOTO
+EQ00001378,High,52.4,Fire,Inspection
+EQ00001379,Critical,88.7,Pressure,Inspection
+EQ00001380,Critical,76.5,Vehicle,PTW
+EQ00001381,Critical,86.4,Multiple,Inspection
+EQ00001382,High,61.1,Fire,Isolation/LOTO
+EQ00001383,Critical,99.6,Line of Fire,Fire Protection
+EQ00001384,High,58.2,Pressure,Gas Testing
+EQ00001385,Critical,79.7,Line of Fire,Gas Testing
+EQ00001386,Critical,97.9,Vehicle,PTW
+EQ00001387,Medium,39.8,Fire,SOP Compliance
+EQ00001388,High,77.2,Pressure,PPE
+EQ00001389,Critical,72.3,Fall,Isolation/LOTO
+EQ00001390,Critical,75.5,Electrical,Isolation/LOTO
+EQ00001391,Medium,34.8,Fire,SOP Compliance
+EQ00001392,Critical,95.9,Fall,Emergency Shutdown
+EQ00001393,High,53.9,Stored Energy,PPE
+EQ00001394,High,62.8,Electrical,Gas Testing
+EQ00001395,High,58.5,Line of Fire,PPE
+EQ00001396,Critical,73.3,Stored Energy,Fire Protection
+EQ00001397,High,51.5,Vehicle,PPE
+EQ00001398,High,68.7,Fire,PPE
+EQ00001399,Critical,90.9,Fall,Emergency Shutdown
+EQ00001400,Critical,84.0,Line of Fire,Fire Protection
+EQ00001401,Medium,53.4,Toxic Gas,Inspection
+EQ00001402,High,64.1,Electrical,Inspection
+EQ00001403,Critical,75.1,Fall,Isolation/LOTO
+EQ00001404,High,63.6,Pressure,Inspection
+EQ00001405,High,55.8,Vehicle,PTW
+EQ00001406,High,66.8,Toxic Gas,Inspection
+EQ00001407,High,78.2,Multiple,Isolation/LOTO
+EQ00001408,High,60.8,Vehicle,Inspection
+EQ00001409,Critical,78.9,Line of Fire,PTW
+EQ00001410,Critical,87.5,Pressure,Fire Protection
+EQ00001411,High,75.4,Fire,PPE
+EQ00001412,High,52.8,Fire,Isolation/LOTO
+EQ00001413,Critical,78.8,Toxic Gas,PTW
+EQ00001414,Critical,98.6,Pressure,Fire Protection
+EQ00001415,Medium,51.2,Fire,Inspection
+EQ00001416,Critical,71.6,Pressure,Fire Protection
+EQ00001417,Critical,86.2,Electrical,PTW
+EQ00001418,Critical,82.8,Multiple,Isolation/LOTO
+EQ00001419,Medium,38.6,Toxic Gas,Inspection
+EQ00001420,Critical,96.2,Fire,Fire Protection
+EQ00001421,Critical,84.6,Toxic Gas,Emergency Shutdown
+EQ00001422,Medium,37.6,Fall,Guarding
+EQ00001423,High,77.6,Electrical,Gas Testing
+EQ00001424,High,78.7,Fall,PTW
+EQ00001425,High,66.7,Fall,PTW
+EQ00001426,High,68.0,Toxic Gas,Gas Testing
+EQ00001427,High,72.2,Fire,PTW
+EQ00001428,High,68.8,Multiple,Isolation/LOTO
+EQ00001429,High,51.7,Vehicle,Isolation/LOTO
+EQ00001430,Critical,71.9,Stored Energy,Fire Protection
+EQ00001431,Critical,91.7,Line of Fire,PTW
+EQ00001432,High,68.8,Stored Energy,Gas Testing
+EQ00001433,Medium,36.1,Electrical,SOP Compliance
+EQ00001434,Critical,87.1,Fire,PTW
+EQ00001435,Medium,45.1,Fall,Inspection
+EQ00001436,Critical,98.5,Line of Fire,Emergency Shutdown
+EQ00001437,High,66.3,Multiple,Isolation/LOTO
+EQ00001438,Critical,99.8,Vehicle,Fire Protection
+EQ00001439,High,57.0,Line of Fire,Isolation/LOTO
+EQ00001440,Critical,95.8,Pressure,Fire Protection
+EQ00001441,Critical,76.7,Fire,Emergency Shutdown
+EQ00001442,High,54.1,Stored Energy,PPE
+EQ00001443,Critical,85.3,Electrical,Emergency Shutdown
+EQ00001444,Critical,78.8,Line of Fire,Isolation/LOTO
+EQ00001445,Critical,84.5,Stored Energy,Inspection
+EQ00001446,High,62.9,Multiple,Gas Testing
+EQ00001447,Critical,78.1,Multiple,PTW
+EQ00001448,High,58.8,Multiple,Inspection
+EQ00001449,High,52.3,Multiple,Isolation/LOTO
+EQ00001450,High,61.6,Multiple,PPE
+EQ00001451,Critical,85.6,Fire,Inspection
+EQ00001452,High,52.3,Electrical,PPE
+EQ00001453,Medium,54.9,Stored Energy,Inspection
+EQ00001454,High,70.5,Stored Energy,PPE
+EQ00001455,Medium,46.1,Line of Fire,Inspection
+EQ00001456,Critical,86.3,Vehicle,Gas Testing
+EQ00001457,Critical,94.0,Multiple,Gas Testing
+EQ00001458,High,64.8,Fire,Inspection
+EQ00001459,Critical,97.8,Pressure,PTW
+EQ00001460,Medium,34.2,Fire,Inspection
+EQ00001461,Critical,97.5,Line of Fire,Fire Protection
+EQ00001462,Medium,30.0,Electrical,Guarding
+EQ00001463,Medium,34.4,Fall,Guarding
+EQ00001464,Critical,89.1,Electrical,Inspection
+EQ00001465,Critical,94.2,Vehicle,Gas Testing
+EQ00001466,High,56.5,Electrical,PPE
+EQ00001467,High,52.3,Fall,Inspection
+EQ00001468,High,76.6,Stored Energy,PTW
+EQ00001469,Critical,77.4,Fire,Gas Testing
+EQ00001470,Critical,97.2,Fire,Emergency Shutdown
+EQ00001471,Critical,82.0,Pressure,Gas Testing
+EQ00001472,High,69.2,Toxic Gas,Inspection
+EQ00001473,High,56.6,Multiple,Inspection
+EQ00001474,Critical,93.0,Fire,Inspection
+EQ00001475,High,72.0,Vehicle,Gas Testing
+EQ00001476,High,73.5,Vehicle,Isolation/LOTO
+EQ00001477,High,70.4,Electrical,Isolation/LOTO
+EQ00001478,Medium,41.6,Fire,SOP Compliance
+EQ00001479,Critical,75.9,Vehicle,Fire Protection
+EQ00001480,High,65.2,Toxic Gas,Gas Testing
+EQ00001481,High,62.3,Pressure,PPE
+EQ00001482,High,65.6,Vehicle,Inspection
+EQ00001483,High,69.0,Line of Fire,Inspection
+EQ00001484,Critical,76.6,Fall,Emergency Shutdown
+EQ00001485,Critical,99.4,Fall,Inspection
+EQ00001486,High,69.9,Vehicle,PPE
+EQ00001487,High,51.6,Stored Energy,Isolation/LOTO
+EQ00001488,High,61.2,Toxic Gas,Gas Testing
+EQ00001489,Critical,90.5,Electrical,Fire Protection
+EQ00001490,Critical,94.8,Stored Energy,PTW
+EQ00001491,Critical,75.2,Pressure,Emergency Shutdown
+EQ00001492,Critical,83.3,Electrical,Isolation/LOTO
+EQ00001493,Critical,75.8,Stored Energy,PTW
+EQ00001494,High,79.4,Electrical,PTW
+EQ00001495,Critical,74.6,Multiple,PTW
+EQ00001496,High,62.0,Multiple,Isolation/LOTO
+EQ00001497,High,77.4,Toxic Gas,Isolation/LOTO
+EQ00001498,Medium,36.6,Toxic Gas,Guarding
+EQ00001499,Critical,82.3,Vehicle,PTW
+EQ00001500,Critical,93.8,Fire,Fire Protection
+EQ00001501,High,62.9,Vehicle,PTW
+EQ00001502,High,76.2,Fire,Inspection
+EQ00001503,High,78.1,Pressure,PPE
+EQ00001504,High,72.7,Vehicle,Isolation/LOTO
+EQ00001505,High,80.0,Line of Fire,PPE
+EQ00001506,High,75.7,Fire,PPE
+EQ00001507,High,74.1,Toxic Gas,Gas Testing
+EQ00001508,Critical,93.1,Electrical,Isolation/LOTO
+EQ00001509,Critical,96.5,Multiple,Gas Testing
+EQ00001510,Critical,89.1,Fall,Gas Testing
+EQ00001511,Critical,79.4,Line of Fire,Isolation/LOTO
+EQ00001512,High,76.6,Toxic Gas,Inspection
+EQ00001513,Critical,96.0,Multiple,Isolation/LOTO
+EQ00001514,High,67.7,Fire,Inspection
+EQ00001515,High,57.5,Vehicle,PTW
+EQ00001516,Critical,70.2,Pressure,Isolation/LOTO
+EQ00001517,High,57.7,Multiple,PTW
+EQ00001518,High,51.4,Multiple,Inspection
+EQ00001519,Medium,40.5,Electrical,Guarding
+EQ00001520,High,61.6,Pressure,Gas Testing
+EQ00001521,High,55.6,Line of Fire,Gas Testing
+EQ00001522,Critical,76.3,Fire,PTW
+EQ00001523,High,65.6,Stored Energy,PPE
+EQ00001524,Critical,96.7,Fire,Fire Protection
+EQ00001525,High,79.3,Vehicle,Isolation/LOTO
+EQ00001526,Critical,88.3,Fire,Isolation/LOTO
+EQ00001527,Critical,77.0,Multiple,Gas Testing
+EQ00001528,Critical,72.5,Fire,PTW
+EQ00001529,Medium,40.1,Electrical,Inspection
+EQ00001530,High,55.1,Multiple,Inspection
+EQ00001531,Critical,72.4,Toxic Gas,Inspection
+EQ00001532,High,71.2,Line of Fire,Isolation/LOTO
+EQ00001533,Critical,80.7,Pressure,Inspection
+EQ00001534,Critical,96.1,Line of Fire,Gas Testing
+EQ00001535,Critical,91.3,Vehicle,Gas Testing
+EQ00001536,High,71.4,Vehicle,PPE
+EQ00001537,High,63.6,Pressure,Inspection
+EQ00001538,Critical,85.3,Fall,Fire Protection
+EQ00001539,Critical,88.7,Multiple,Emergency Shutdown
+EQ00001540,Critical,92.6,Vehicle,Gas Testing
+EQ00001541,Medium,53.9,Pressure,PPE
+EQ00001542,Critical,72.0,Pressure,Isolation/LOTO
+EQ00001543,Critical,74.7,Fire,Gas Testing
+EQ00001544,High,53.6,Pressure,Gas Testing
+EQ00001545,High,77.8,Vehicle,PTW
+EQ00001546,Critical,76.3,Line of Fire,PTW
+EQ00001547,Critical,90.2,Line of Fire,Inspection
+EQ00001548,High,52.4,Vehicle,Inspection
+EQ00001549,High,72.4,Pressure,PTW
+EQ00001550,High,72.5,Pressure,Gas Testing
+EQ00001551,Critical,93.1,Pressure,Fire Protection
+EQ00001552,High,67.5,Pressure,Inspection
+EQ00001553,Medium,50.8,Vehicle,Inspection
+EQ00001554,Critical,72.3,Fire,Inspection
+EQ00001555,High,53.7,Pressure,Isolation/LOTO
+EQ00001556,Critical,84.7,Fire,Fire Protection
+EQ00001557,Critical,75.6,Vehicle,Inspection
+EQ00001558,Critical,86.0,Multiple,Inspection
+EQ00001559,Critical,97.8,Stored Energy,Isolation/LOTO
+EQ00001560,Medium,41.5,Fall,PPE
+EQ00001561,Critical,99.2,Line of Fire,Emergency Shutdown
+EQ00001562,High,66.8,Fire,PPE
+EQ00001563,High,55.6,Electrical,Gas Testing
+EQ00001564,High,70.0,Toxic Gas,PPE
+EQ00001565,High,79.1,Multiple,Gas Testing
+EQ00001566,High,68.7,Vehicle,Gas Testing
+EQ00001567,Critical,91.5,Multiple,Gas Testing
+EQ00001568,Critical,77.4,Toxic Gas,Isolation/LOTO
+EQ00001569,High,65.3,Vehicle,Isolation/LOTO
+EQ00001570,High,71.6,Multiple,Gas Testing
+EQ00001571,High,52.9,Multiple,PPE
+EQ00001572,High,59.3,Toxic Gas,PTW
+EQ00001573,High,70.4,Stored Energy,PPE
+EQ00001574,Critical,77.6,Line of Fire,Emergency Shutdown
+EQ00001575,High,54.1,Stored Energy,Inspection
+EQ00001576,Critical,92.0,Pressure,Fire Protection
+EQ00001577,High,66.3,Line of Fire,Inspection
+EQ00001578,Critical,75.9,Vehicle,PTW
+EQ00001579,High,75.7,Stored Energy,Gas Testing
+EQ00001580,High,77.1,Stored Energy,Isolation/LOTO
+EQ00001581,High,58.0,Toxic Gas,Gas Testing
+EQ00001582,Critical,92.9,Multiple,Isolation/LOTO
+EQ00001583,Critical,83.6,Pressure,Gas Testing
+EQ00001584,Critical,87.9,Fire,Gas Testing
+EQ00001585,Critical,76.7,Toxic Gas,Inspection
+EQ00001586,Medium,43.4,Fall,Inspection
+EQ00001587,Critical,75.2,Fall,Isolation/LOTO
+EQ00001588,High,66.4,Fire,PTW
+EQ00001589,High,63.3,Fire,Gas Testing
+EQ00001590,Critical,90.3,Multiple,Inspection
+EQ00001591,Critical,77.1,Toxic Gas,Fire Protection
+EQ00001592,Critical,87.5,Multiple,Fire Protection
+EQ00001593,Critical,96.7,Multiple,Inspection
+EQ00001594,Critical,90.3,Pressure,Fire Protection
+EQ00001595,Critical,94.2,Stored Energy,Isolation/LOTO
+EQ00001596,Critical,89.5,Pressure,Fire Protection
+EQ00001597,Critical,75.9,Line of Fire,Inspection
+EQ00001598,High,68.2,Toxic Gas,Isolation/LOTO
+EQ00001599,High,53.4,Stored Energy,PPE
+EQ00001600,Critical,92.6,Fall,Inspection
+EQ00001601,Critical,98.8,Fall,Isolation/LOTO
+EQ00001602,Critical,87.6,Fire,Gas Testing
+EQ00001603,High,60.4,Pressure,Inspection
+EQ00001604,Critical,95.7,Multiple,Isolation/LOTO
+EQ00001605,High,59.5,Stored Energy,Isolation/LOTO
+EQ00001606,High,54.8,Multiple,PPE
+EQ00001607,High,72.6,Vehicle,Gas Testing
+EQ00001608,Medium,53.0,Vehicle,Guarding
+EQ00001609,Critical,87.9,Pressure,Fire Protection
+EQ00001610,High,54.9,Electrical,Isolation/LOTO
+EQ00001611,Medium,45.4,Pressure,PPE
+EQ00001612,Medium,38.7,Fire,SOP Compliance
+EQ00001613,High,71.4,Toxic Gas,PTW
+EQ00001614,High,52.5,Pressure,Isolation/LOTO
+EQ00001615,High,61.7,Fire,PTW
+EQ00001616,Critical,80.4,Multiple,PTW
+EQ00001617,Critical,85.1,Toxic Gas,Isolation/LOTO
+EQ00001618,High,56.6,Stored Energy,Gas Testing
+EQ00001619,High,74.7,Line of Fire,PPE
+EQ00001620,Critical,81.0,Fall,Inspection
+EQ00001621,High,79.2,Toxic Gas,PTW
+EQ00001622,High,66.0,Line of Fire,PTW
+EQ00001623,High,63.9,Line of Fire,PPE
+EQ00001624,Critical,78.1,Electrical,Emergency Shutdown
+EQ00001625,Critical,93.0,Toxic Gas,Inspection
+EQ00001626,Critical,98.0,Multiple,Inspection
+EQ00001627,Critical,81.8,Stored Energy,Inspection
+EQ00001628,Critical,89.4,Multiple,Emergency Shutdown
+EQ00001629,High,73.5,Vehicle,Gas Testing
+EQ00001630,Medium,33.0,Toxic Gas,SOP Compliance
+EQ00001631,Critical,99.1,Multiple,Emergency Shutdown
+EQ00001632,High,69.0,Stored Energy,Gas Testing
+EQ00001633,Critical,98.3,Toxic Gas,Fire Protection
+EQ00001634,High,77.2,Fall,Gas Testing
+EQ00001635,Medium,54.4,Pressure,Inspection
+EQ00001636,Critical,94.3,Stored Energy,Emergency Shutdown
+EQ00001637,Critical,93.2,Electrical,PTW
+EQ00001638,High,65.3,Fall,PTW
+EQ00001639,High,62.2,Stored Energy,PTW
+EQ00001640,High,59.7,Multiple,PTW
+EQ00001641,High,55.0,Fire,Inspection
+EQ00001642,High,78.5,Toxic Gas,Isolation/LOTO
+EQ00001643,Critical,90.6,Toxic Gas,Isolation/LOTO
+EQ00001644,Critical,71.5,Electrical,Fire Protection
+EQ00001645,High,64.6,Vehicle,Inspection
+EQ00001646,High,51.7,Electrical,Inspection
+EQ00001647,Medium,51.8,Fire,SOP Compliance
+EQ00001648,High,70.5,Toxic Gas,Gas Testing
+EQ00001649,Critical,87.0,Fall,Isolation/LOTO
+EQ00001650,Medium,41.7,Multiple,SOP Compliance
+EQ00001651,High,54.8,Stored Energy,Inspection
+EQ00001652,High,71.0,Line of Fire,Isolation/LOTO
+EQ00001653,Medium,41.8,Multiple,Guarding
+EQ00001654,Critical,94.5,Fall,Emergency Shutdown
+EQ00001655,Critical,75.3,Pressure,Isolation/LOTO
+EQ00001656,High,51.3,Fire,Gas Testing
+EQ00001657,Critical,80.5,Toxic Gas,Gas Testing
+EQ00001658,High,70.8,Pressure,PTW
+EQ00001659,Critical,88.8,Toxic Gas,Inspection
+EQ00001660,High,64.0,Pressure,Inspection
+EQ00001661,Medium,35.9,Fall,Inspection
+EQ00001662,Critical,83.4,Vehicle,PTW
+EQ00001663,Critical,83.8,Fall,Inspection
+EQ00001664,High,61.0,Stored Energy,PTW
+EQ00001665,High,69.5,Electrical,Gas Testing
+EQ00001666,Critical,72.7,Multiple,PTW
+EQ00001667,Critical,81.8,Pressure,Gas Testing
+EQ00001668,Medium,32.4,Pressure,Inspection
+EQ00001669,High,60.8,Fire,PTW
+EQ00001670,Critical,72.2,Vehicle,PTW
+EQ00001671,High,60.4,Fall,Isolation/LOTO
+EQ00001672,High,76.3,Line of Fire,PPE
+EQ00001673,Critical,77.5,Fire,Fire Protection
+EQ00001674,Critical,90.9,Fire,Inspection
+EQ00001675,Critical,95.4,Pressure,Gas Testing
+EQ00001676,High,60.1,Toxic Gas,Inspection
+EQ00001677,High,53.8,Toxic Gas,Inspection
+EQ00001678,Critical,70.8,Fall,PTW
+EQ00001679,High,60.0,Vehicle,Gas Testing
+EQ00001680,Medium,36.3,Pressure,SOP Compliance
+EQ00001681,High,58.8,Fall,Isolation/LOTO
+EQ00001682,Critical,84.1,Stored Energy,PTW
+EQ00001683,Medium,46.0,Multiple,Guarding
+EQ00001684,Critical,92.5,Toxic Gas,Isolation/LOTO
+EQ00001685,Medium,38.4,Stored Energy,PPE
+EQ00001686,High,62.1,Electrical,Isolation/LOTO
+EQ00001687,Medium,46.2,Vehicle,SOP Compliance
+EQ00001688,Critical,99.3,Fire,Gas Testing
+EQ00001689,Critical,90.1,Vehicle,PTW
+EQ00001690,Critical,72.5,Pressure,Inspection
+EQ00001691,Critical,98.6,Fire,Emergency Shutdown
+EQ00001692,Critical,80.4,Electrical,Isolation/LOTO
+EQ00001693,High,63.3,Stored Energy,Gas Testing
+EQ00001694,Critical,83.9,Toxic Gas,Emergency Shutdown
+EQ00001695,Critical,82.1,Fire,PTW
+EQ00001696,High,61.8,Multiple,PTW
+EQ00001697,Critical,93.9,Stored Energy,Isolation/LOTO
+EQ00001698,High,71.2,Fire,PTW
+EQ00001699,High,62.3,Electrical,Gas Testing
+EQ00001700,High,58.7,Vehicle,PTW
+EQ00001701,High,54.3,Fall,PPE
+EQ00001702,High,68.1,Pressure,Gas Testing
+EQ00001703,Critical,96.9,Multiple,Gas Testing
+EQ00001704,High,69.1,Vehicle,PPE
+EQ00001705,Critical,97.4,Stored Energy,PTW
+EQ00001706,High,56.4,Toxic Gas,PPE
+EQ00001707,High,59.2,Line of Fire,Inspection
+EQ00001708,Critical,93.2,Fall,Isolation/LOTO
+EQ00001709,Medium,46.9,Line of Fire,PPE
+EQ00001710,Critical,72.3,Vehicle,Inspection
+EQ00001711,High,79.5,Vehicle,PTW
+EQ00001712,Medium,43.3,Fall,Inspection
+EQ00001713,High,68.5,Stored Energy,PTW
+EQ00001714,High,54.3,Fire,PTW
+EQ00001715,Critical,74.4,Multiple,Fire Protection
+EQ00001716,High,74.5,Multiple,Inspection
+EQ00001717,High,57.9,Fire,Isolation/LOTO
+EQ00001718,High,78.4,Toxic Gas,Isolation/LOTO
+EQ00001719,High,63.5,Stored Energy,Isolation/LOTO
+EQ00001720,High,55.4,Toxic Gas,PTW
+EQ00001721,High,65.6,Stored Energy,Gas Testing
+EQ00001722,Critical,82.4,Fall,Isolation/LOTO
+EQ00001723,High,62.3,Vehicle,Isolation/LOTO
+EQ00001724,Medium,43.1,Pressure,PPE
+EQ00001725,High,66.2,Toxic Gas,Inspection
+EQ00001726,Medium,54.6,Multiple,SOP Compliance
+EQ00001727,Critical,91.0,Line of Fire,Fire Protection
+EQ00001728,Critical,83.3,Electrical,Isolation/LOTO
+EQ00001729,High,70.1,Stored Energy,PTW
+EQ00001730,Critical,73.2,Toxic Gas,Fire Protection
+EQ00001731,Critical,73.0,Toxic Gas,PTW
+EQ00001732,High,59.4,Toxic Gas,Gas Testing
+EQ00001733,High,50.9,Electrical,Isolation/LOTO
+EQ00001734,Medium,35.5,Electrical,PPE
+EQ00001735,Critical,81.5,Electrical,PTW
+EQ00001736,High,67.7,Toxic Gas,Isolation/LOTO
+EQ00001737,Critical,99.1,Electrical,Fire Protection
+EQ00001738,Critical,70.3,Stored Energy,Isolation/LOTO
+EQ00001739,High,67.4,Multiple,PPE
+EQ00001740,Critical,70.6,Toxic Gas,Isolation/LOTO
+EQ00001741,High,52.9,Pressure,PTW
+EQ00001742,High,60.0,Electrical,Inspection
+EQ00001743,Critical,89.7,Electrical,Isolation/LOTO
+EQ00001744,Critical,70.1,Multiple,Gas Testing
+EQ00001745,Critical,90.1,Fall,Isolation/LOTO
+EQ00001746,Critical,97.3,Electrical,Emergency Shutdown
+EQ00001747,Medium,32.1,Fire,Inspection
+EQ00001748,Critical,91.5,Pressure,Isolation/LOTO
+EQ00001749,Critical,74.8,Multiple,Gas Testing
+EQ00001750,High,66.1,Line of Fire,PTW
+EQ00001751,High,75.9,Pressure,Isolation/LOTO
+EQ00001752,Critical,81.2,Multiple,PTW
+EQ00001753,Critical,97.6,Electrical,Inspection
+EQ00001754,Medium,50.3,Pressure,PPE
+EQ00001755,High,64.1,Electrical,Gas Testing
+EQ00001756,Critical,90.7,Fire,Inspection
+EQ00001757,Critical,76.2,Fall,Gas Testing
+EQ00001758,High,77.7,Fall,Gas Testing
+EQ00001759,High,53.6,Vehicle,Gas Testing
+EQ00001760,High,69.6,Multiple,PPE
+EQ00001761,High,64.0,Pressure,Inspection
+EQ00001762,High,60.7,Pressure,Isolation/LOTO
+EQ00001763,High,59.3,Pressure,Inspection
+EQ00001764,Critical,85.7,Toxic Gas,Inspection
+EQ00001765,Critical,96.3,Line of Fire,Gas Testing
+EQ00001766,Critical,72.6,Line of Fire,Fire Protection
+EQ00001767,Critical,86.6,Pressure,Gas Testing
+EQ00001768,High,59.5,Stored Energy,Inspection
+EQ00001769,High,52.9,Fire,Gas Testing
+EQ00001770,Critical,84.2,Stored Energy,Fire Protection
+EQ00001771,Critical,76.8,Fall,Inspection
+EQ00001772,High,75.1,Vehicle,PPE
+EQ00001773,High,79.9,Toxic Gas,PTW
+EQ00001774,Critical,78.8,Line of Fire,Isolation/LOTO
+EQ00001775,High,78.0,Line of Fire,PPE
+EQ00001776,Critical,92.0,Stored Energy,Fire Protection
+EQ00001777,High,75.1,Pressure,Isolation/LOTO
+EQ00001778,Critical,97.8,Vehicle,Inspection
+EQ00001779,High,65.8,Toxic Gas,Isolation/LOTO
+EQ00001780,High,76.0,Fire,PPE
+EQ00001781,Critical,73.6,Stored Energy,Inspection
+EQ00001782,High,63.5,Electrical,Isolation/LOTO
+EQ00001783,High,53.0,Line of Fire,Gas Testing
+EQ00001784,High,54.9,Electrical,Isolation/LOTO
+EQ00001785,Critical,83.4,Toxic Gas,PTW
+EQ00001786,Medium,36.2,Multiple,SOP Compliance
+EQ00001787,Critical,98.7,Fire,Fire Protection
+EQ00001788,Critical,77.1,Line of Fire,PTW
+EQ00001789,Critical,71.2,Electrical,Gas Testing
+EQ00001790,Medium,54.7,Pressure,PPE
+EQ00001791,High,78.2,Multiple,PPE
+EQ00001792,High,74.5,Stored Energy,PPE
+EQ00001793,High,65.2,Line of Fire,PPE
+EQ00001794,Medium,46.4,Multiple,Inspection
+EQ00001795,Critical,75.3,Pressure,Isolation/LOTO
+EQ00001796,Critical,98.7,Pressure,Isolation/LOTO
+EQ00001797,High,54.7,Fall,Isolation/LOTO
+EQ00001798,Critical,71.0,Multiple,Isolation/LOTO
+EQ00001799,Critical,94.9,Electrical,Gas Testing
+EQ00001800,Critical,81.7,Line of Fire,Emergency Shutdown
+EQ00001801,High,59.8,Fire,Gas Testing
+EQ00001802,High,62.9,Multiple,Gas Testing
+EQ00001803,Critical,76.0,Multiple,PTW
+EQ00001804,Critical,96.9,Line of Fire,Gas Testing
+EQ00001805,Critical,93.5,Line of Fire,Isolation/LOTO
+EQ00001806,Critical,99.5,Fire,Fire Protection
+EQ00001807,High,55.1,Fall,Gas Testing
+EQ00001808,Critical,93.3,Electrical,Isolation/LOTO
+EQ00001809,Critical,89.7,Electrical,Fire Protection
+EQ00001810,Critical,73.4,Multiple,PTW
+EQ00001811,Medium,37.0,Electrical,PPE
+EQ00001812,Critical,88.8,Electrical,Isolation/LOTO
+EQ00001813,High,72.4,Stored Energy,PPE
+EQ00001814,Critical,94.4,Fire,PTW
+EQ00001815,High,59.1,Pressure,Inspection
+EQ00001816,Critical,92.6,Fire,Emergency Shutdown
+EQ00001817,High,66.8,Fire,Isolation/LOTO
+EQ00001818,High,53.3,Fire,Isolation/LOTO
+EQ00001819,Critical,73.7,Toxic Gas,Fire Protection
+EQ00001820,High,79.2,Toxic Gas,Gas Testing
+EQ00001821,Critical,88.7,Pressure,Gas Testing
+EQ00001822,High,53.8,Multiple,PPE
+EQ00001823,High,77.3,Multiple,PTW
+EQ00001824,Critical,97.9,Toxic Gas,Emergency Shutdown
+EQ00001825,High,60.6,Line of Fire,Inspection
+EQ00001826,High,53.7,Line of Fire,Gas Testing
+EQ00001827,High,75.7,Multiple,PPE
+EQ00001828,High,69.7,Fire,Inspection
+EQ00001829,Critical,74.7,Fall,Gas Testing
+EQ00001830,Critical,70.9,Vehicle,Inspection
+EQ00001831,Critical,89.3,Toxic Gas,Gas Testing
+EQ00001832,High,65.8,Toxic Gas,PPE
+EQ00001833,Critical,90.4,Stored Energy,PTW
+EQ00001834,Medium,49.6,Fall,SOP Compliance
+EQ00001835,Critical,78.7,Pressure,Emergency Shutdown
+EQ00001836,Critical,83.2,Toxic Gas,PTW
+EQ00001837,Critical,97.6,Fire,Inspection
+EQ00001838,Critical,78.0,Electrical,Emergency Shutdown
+EQ00001839,Critical,100.0,Multiple,Inspection
+EQ00001840,Critical,72.7,Fire,Isolation/LOTO
+EQ00001841,Critical,93.0,Line of Fire,Emergency Shutdown
+EQ00001842,Critical,88.9,Stored Energy,Gas Testing
+EQ00001843,Critical,80.4,Electrical,Emergency Shutdown
+EQ00001844,Critical,90.2,Multiple,PTW
+EQ00001845,High,52.7,Fire,PTW
+EQ00001846,Critical,72.0,Vehicle,Emergency Shutdown
+EQ00001847,High,60.0,Toxic Gas,PTW
+EQ00001848,Critical,90.9,Vehicle,Emergency Shutdown
+EQ00001849,Critical,73.9,Pressure,Emergency Shutdown
+EQ00001850,Critical,97.5,Pressure,PTW
+EQ00001851,Critical,98.8,Electrical,Isolation/LOTO
+EQ00001852,High,76.1,Fire,Gas Testing
+EQ00001853,High,55.6,Pressure,Gas Testing
+EQ00001854,High,58.4,Electrical,Isolation/LOTO
+EQ00001855,Medium,45.2,Vehicle,Inspection
+EQ00001856,Critical,71.8,Line of Fire,Gas Testing
+EQ00001857,Critical,90.4,Pressure,Fire Protection
+EQ00001858,High,72.9,Electrical,Inspection
+EQ00001859,High,59.6,Vehicle,Isolation/LOTO
+EQ00001860,Critical,92.3,Fire,PTW
+EQ00001861,Critical,92.0,Multiple,Inspection
+EQ00001862,Critical,93.9,Stored Energy,Isolation/LOTO
+EQ00001863,High,71.6,Fire,PTW
+EQ00001864,High,67.0,Multiple,Gas Testing
+EQ00001865,Critical,96.6,Stored Energy,Isolation/LOTO
+EQ00001866,Critical,95.5,Electrical,Isolation/LOTO
+EQ00001867,High,52.6,Multiple,PTW
+EQ00001868,Critical,70.2,Multiple,Isolation/LOTO
+EQ00001869,High,79.0,Stored Energy,Isolation/LOTO
+EQ00001870,High,59.5,Pressure,PPE
+EQ00001871,High,67.1,Multiple,PTW
+EQ00001872,Critical,70.8,Multiple,Isolation/LOTO
+EQ00001873,High,56.8,Fall,Isolation/LOTO
+EQ00001874,High,59.6,Stored Energy,Isolation/LOTO
+EQ00001875,Critical,94.5,Fire,Fire Protection
+EQ00001876,Critical,98.3,Electrical,Emergency Shutdown
+EQ00001877,High,62.3,Electrical,Gas Testing
+EQ00001878,High,76.9,Toxic Gas,Inspection
+EQ00001879,Critical,94.4,Line of Fire,Gas Testing
+EQ00001880,High,56.0,Stored Energy,Gas Testing
+EQ00001881,Critical,89.9,Line of Fire,Emergency Shutdown
+EQ00001882,Critical,82.3,Line of Fire,Gas Testing
+EQ00001883,Critical,94.5,Electrical,Fire Protection
+EQ00001884,Critical,75.8,Toxic Gas,Inspection
+EQ00001885,High,50.8,Electrical,PPE
+EQ00001886,Medium,34.2,Fall,PPE
+EQ00001887,Critical,94.9,Line of Fire,Inspection
+EQ00001888,Critical,73.4,Fire,Inspection
+EQ00001889,Medium,30.8,Electrical,Inspection
+EQ00001890,High,75.8,Vehicle,Isolation/LOTO
+EQ00001891,Critical,91.9,Fire,Emergency Shutdown
+EQ00001892,Critical,83.6,Fall,Emergency Shutdown
+EQ00001893,Medium,30.2,Vehicle,PPE
+EQ00001894,High,60.1,Multiple,Gas Testing
+EQ00001895,Critical,76.1,Fire,Emergency Shutdown
+EQ00001896,High,72.0,Fall,Gas Testing
+EQ00001897,Critical,82.3,Toxic Gas,Inspection
+EQ00001898,High,54.0,Fall,PTW
+EQ00001899,Critical,91.4,Electrical,PTW
+EQ00001900,High,66.8,Line of Fire,Isolation/LOTO
+EQ00001901,Critical,77.7,Electrical,Inspection
+EQ00001902,High,71.7,Vehicle,Inspection
+EQ00001903,Critical,90.6,Fall,Fire Protection
+EQ00001904,High,50.3,Fire,PPE
+EQ00001905,High,79.6,Toxic Gas,PTW
+EQ00001906,High,50.5,Vehicle,Gas Testing
+EQ00001907,High,72.9,Stored Energy,Isolation/LOTO
+EQ00001908,Medium,46.9,Pressure,SOP Compliance
+EQ00001909,Critical,77.3,Stored Energy,PTW
+EQ00001910,Critical,76.2,Fall,Emergency Shutdown
+EQ00001911,High,62.6,Stored Energy,Inspection
+EQ00001912,High,69.7,Pressure,PPE
+EQ00001913,High,64.7,Multiple,Gas Testing
+EQ00001914,High,73.4,Electrical,PTW
+EQ00001915,High,65.8,Fall,Inspection
+EQ00001916,Critical,85.7,Multiple,Inspection
+EQ00001917,High,52.5,Line of Fire,PTW
+EQ00001918,Critical,97.3,Pressure,Fire Protection
+EQ00001919,High,52.0,Line of Fire,Isolation/LOTO
+EQ00001920,High,60.5,Fall,PTW
+EQ00001921,Critical,73.5,Vehicle,Fire Protection
+EQ00001922,High,74.7,Toxic Gas,Isolation/LOTO
+EQ00001923,High,55.0,Fire,Gas Testing
+EQ00001924,High,72.5,Fall,Gas Testing
+EQ00001925,Critical,70.6,Multiple,Emergency Shutdown
+EQ00001926,High,66.1,Pressure,Isolation/LOTO
+EQ00001927,Medium,47.4,Pressure,Inspection
+EQ00001928,Critical,94.1,Vehicle,PTW
+EQ00001929,Critical,73.2,Line of Fire,Gas Testing
+EQ00001930,Critical,87.2,Fall,Gas Testing
+EQ00001931,Medium,40.6,Vehicle,Inspection
+EQ00001932,High,76.7,Stored Energy,PTW
+EQ00001933,Critical,85.6,Electrical,Fire Protection
+EQ00001934,Critical,99.5,Electrical,Emergency Shutdown
+EQ00001935,High,61.8,Line of Fire,Isolation/LOTO
+EQ00001936,Medium,36.7,Vehicle,PPE
+EQ00001937,Medium,30.5,Stored Energy,Inspection
+EQ00001938,Medium,46.5,Pressure,Guarding
+EQ00001939,High,64.4,Stored Energy,Inspection
+EQ00001940,Critical,78.7,Stored Energy,Emergency Shutdown
+EQ00001941,Critical,88.0,Fall,Isolation/LOTO
+EQ00001942,High,64.3,Fall,PTW
+EQ00001943,Medium,30.8,Multiple,Guarding
+EQ00001944,High,50.5,Multiple,PPE
+EQ00001945,Critical,97.4,Pressure,PTW
+EQ00001946,Critical,76.0,Electrical,Fire Protection
+EQ00001947,Critical,91.4,Stored Energy,PTW
+EQ00001948,Critical,76.0,Electrical,Isolation/LOTO
+EQ00001949,Critical,98.4,Electrical,Inspection
+EQ00001950,Critical,94.7,Multiple,Fire Protection
+EQ00001951,Critical,80.1,Fall,Gas Testing
+EQ00001952,Medium,50.6,Multiple,SOP Compliance
+EQ00001953,High,58.3,Stored Energy,PPE
+EQ00001954,High,79.4,Fall,Isolation/LOTO
+EQ00001955,High,67.1,Line of Fire,PTW
+EQ00001956,Critical,86.6,Fall,Fire Protection
+EQ00001957,Critical,97.0,Vehicle,Fire Protection
+EQ00001958,Critical,93.7,Fall,Fire Protection
+EQ00001959,Critical,96.3,Pressure,Gas Testing
+EQ00001960,Medium,37.5,Electrical,PPE
+EQ00001961,Critical,83.3,Electrical,Inspection
+EQ00001962,High,64.6,Pressure,Isolation/LOTO
+EQ00001963,High,78.1,Pressure,Gas Testing
+EQ00001964,High,60.9,Fall,Gas Testing
+EQ00001965,Critical,75.4,Toxic Gas,PTW
+EQ00001966,Medium,43.5,Toxic Gas,Guarding
+EQ00001967,High,63.3,Line of Fire,PPE
+EQ00001968,High,62.0,Vehicle,PTW
+EQ00001969,Medium,54.4,Toxic Gas,SOP Compliance
+EQ00001970,High,79.5,Multiple,Inspection
+EQ00001971,Medium,41.9,Vehicle,Guarding
+EQ00001972,Critical,78.7,Electrical,Gas Testing
+EQ00001973,Medium,32.4,Fall,Inspection
+EQ00001974,High,54.9,Electrical,Isolation/LOTO
+EQ00001975,High,74.1,Pressure,PTW
+EQ00001976,High,63.3,Line of Fire,Gas Testing
+EQ00001977,Critical,88.7,Fire,Inspection
+EQ00001978,High,79.1,Toxic Gas,Isolation/LOTO
+EQ00001979,High,62.0,Electrical,PTW
+EQ00001980,Critical,78.4,Line of Fire,Emergency Shutdown
+EQ00001981,Critical,76.4,Multiple,Gas Testing
+EQ00001982,High,63.3,Electrical,Isolation/LOTO
+EQ00001983,Critical,79.1,Pressure,Isolation/LOTO
+EQ00001984,High,78.6,Fire,Isolation/LOTO
+EQ00001985,High,78.3,Multiple,Inspection
+EQ00001986,Critical,72.4,Pressure,Inspection
+EQ00001987,High,72.5,Pressure,Isolation/LOTO
+EQ00001988,High,71.4,Line of Fire,Inspection
+EQ00001989,Critical,97.5,Fire,Fire Protection
+EQ00001990,Critical,98.2,Fire,Fire Protection
+EQ00001991,Medium,35.2,Vehicle,Guarding
+EQ00001992,Critical,91.8,Vehicle,PTW
+EQ00001993,Critical,71.9,Electrical,Emergency Shutdown
+EQ00001994,Critical,97.6,Fall,Inspection
+EQ00001995,Critical,94.5,Fire,Emergency Shutdown
+EQ00001996,Critical,74.1,Vehicle,Emergency Shutdown
+EQ00001997,High,54.7,Pressure,PTW
+EQ00001998,Medium,31.0,Line of Fire,Inspection
+EQ00001999,High,64.0,Fire,Gas Testing
+EQ00002000,Critical,75.5,Line of Fire,Emergency Shutdown
+EQ00002001,High,51.7,Fire,PTW
+EQ00002002,High,73.4,Line of Fire,PTW
+EQ00002003,Critical,76.9,Line of Fire,Emergency Shutdown
+EQ00002004,Critical,95.1,Vehicle,PTW
+EQ00002005,Critical,85.7,Fire,Emergency Shutdown
+EQ00002006,Critical,97.1,Stored Energy,PTW
+EQ00002007,Medium,38.5,Stored Energy,PPE
+EQ00002008,High,79.7,Fall,PTW
+EQ00002009,High,56.6,Stored Energy,Inspection
+EQ00002010,High,58.8,Pressure,Inspection
+EQ00002011,High,71.2,Multiple,PPE
+EQ00002012,High,58.3,Fall,Isolation/LOTO
+EQ00002013,Critical,98.6,Multiple,Fire Protection
+EQ00002014,Critical,89.3,Fire,Inspection
+EQ00002015,Medium,33.3,Fire,Guarding
+EQ00002016,Critical,92.6,Line of Fire,Gas Testing
+EQ00002017,High,70.4,Vehicle,Isolation/LOTO
+EQ00002018,High,61.7,Line of Fire,Gas Testing
+EQ00002019,Critical,86.5,Line of Fire,Isolation/LOTO
+EQ00002020,High,72.6,Stored Energy,PTW
+EQ00002021,High,59.0,Pressure,Inspection
+EQ00002022,High,66.2,Multiple,Gas Testing
+EQ00002023,Critical,90.4,Line of Fire,Inspection
+EQ00002024,Medium,48.0,Vehicle,Inspection
+EQ00002025,Critical,82.3,Stored Energy,Gas Testing
+EQ00002026,High,60.7,Line of Fire,PPE
+EQ00002027,High,53.9,Multiple,Gas Testing
+EQ00002028,High,52.3,Electrical,PTW
+EQ00002029,Critical,99.0,Toxic Gas,Fire Protection
+EQ00002030,High,51.6,Vehicle,PPE
+EQ00002031,Medium,44.1,Fall,Guarding
+EQ00002032,Medium,40.8,Electrical,PPE
+EQ00002033,Critical,93.7,Toxic Gas,Emergency Shutdown
+EQ00002034,Critical,92.9,Multiple,Gas Testing
+EQ00002035,High,60.1,Vehicle,PTW
+EQ00002036,High,72.9,Stored Energy,PTW
+EQ00002037,High,57.1,Fire,Gas Testing
+EQ00002038,High,72.9,Multiple,Gas Testing
+EQ00002039,High,51.0,Vehicle,Gas Testing
+EQ00002040,High,78.9,Electrical,PTW
+EQ00002041,Critical,73.0,Vehicle,Isolation/LOTO
+EQ00002042,Critical,84.1,Electrical,Emergency Shutdown
+EQ00002043,High,50.9,Stored Energy,PTW
+EQ00002044,Critical,70.6,Electrical,Inspection
+EQ00002045,Medium,46.0,Fire,Inspection
+EQ00002046,High,79.0,Fire,Isolation/LOTO
+EQ00002047,Critical,88.4,Toxic Gas,Isolation/LOTO
+EQ00002048,Critical,74.0,Toxic Gas,Inspection
+EQ00002049,High,66.1,Fall,Isolation/LOTO
+EQ00002050,Critical,87.2,Vehicle,Gas Testing
+EQ00002051,Critical,81.9,Stored Energy,Emergency Shutdown
+EQ00002052,High,67.5,Fire,Isolation/LOTO
+EQ00002053,High,70.3,Electrical,Inspection
+EQ00002054,Critical,73.0,Multiple,Gas Testing
+EQ00002055,Critical,88.4,Toxic Gas,Emergency Shutdown
+EQ00002056,Critical,74.1,Fall,Fire Protection
+EQ00002057,Medium,34.9,Multiple,Inspection
+EQ00002058,High,64.0,Line of Fire,Inspection
+EQ00002059,High,57.2,Line of Fire,Inspection
+EQ00002060,High,59.8,Fire,Inspection
+EQ00002061,High,78.6,Pressure,Gas Testing
+EQ00002062,High,67.7,Fall,PPE
+EQ00002063,High,69.6,Fall,PPE
+EQ00002064,Critical,88.1,Pressure,Emergency Shutdown
+EQ00002065,Critical,71.9,Fire,PTW
+EQ00002066,Critical,86.5,Fall,Inspection
+EQ00002067,Medium,54.1,Stored Energy,SOP Compliance
+EQ00002068,Critical,83.7,Stored Energy,PTW
+EQ00002069,Critical,73.3,Vehicle,PTW
+EQ00002070,High,51.2,Multiple,Gas Testing
+EQ00002071,Critical,88.8,Vehicle,Inspection
+EQ00002072,Medium,31.8,Pressure,Inspection
+EQ00002073,Critical,78.7,Fire,Inspection
+EQ00002074,High,57.4,Line of Fire,Inspection
+EQ00002075,Medium,49.2,Stored Energy,Guarding
+EQ00002076,High,64.6,Multiple,Inspection
+EQ00002077,High,59.3,Electrical,PTW
+EQ00002078,Medium,32.3,Electrical,Guarding
+EQ00002079,Critical,97.8,Stored Energy,Inspection
+EQ00002080,Medium,42.1,Fall,Inspection
+EQ00002081,Critical,81.2,Electrical,Fire Protection
+EQ00002082,Medium,35.4,Fall,Inspection
+EQ00002083,High,65.6,Toxic Gas,Isolation/LOTO
+EQ00002084,High,57.3,Pressure,PPE
+EQ00002085,Critical,85.9,Multiple,PTW
+EQ00002086,High,59.6,Toxic Gas,Gas Testing
+EQ00002087,High,50.2,Line of Fire,Isolation/LOTO
+EQ00002088,High,69.8,Electrical,PTW
+EQ00002089,High,76.4,Line of Fire,Inspection
+EQ00002090,Critical,98.5,Stored Energy,PTW
+EQ00002091,Medium,41.6,Pressure,Inspection
+EQ00002092,Medium,33.7,Stored Energy,SOP Compliance
+EQ00002093,Critical,90.2,Fire,Emergency Shutdown
+EQ00002094,High,55.9,Line of Fire,Inspection
+EQ00002095,Critical,73.5,Fall,PTW
+EQ00002096,Critical,87.5,Stored Energy,Inspection
+EQ00002097,Critical,95.5,Fire,Inspection
+EQ00002098,High,76.7,Fall,Isolation/LOTO
+EQ00002099,High,68.4,Fall,PTW
+EQ00002100,Critical,76.0,Fire,Isolation/LOTO
+EQ00002101,Critical,94.7,Fall,Fire Protection
+EQ00002102,Critical,82.6,Line of Fire,PTW
+EQ00002103,Critical,98.3,Fall,Isolation/LOTO
+EQ00002104,Critical,78.9,Stored Energy,PTW
+EQ00002105,Critical,85.3,Vehicle,PTW
+EQ00002106,High,68.2,Fall,PPE
+EQ00002107,Medium,36.4,Electrical,PPE
+EQ00002108,High,70.0,Multiple,Gas Testing
+EQ00002109,Critical,78.4,Multiple,Emergency Shutdown
+EQ00002110,Critical,85.3,Stored Energy,Isolation/LOTO
+EQ00002111,Medium,36.2,Pressure,SOP Compliance
+EQ00002112,High,71.7,Pressure,Gas Testing
+EQ00002113,High,78.5,Fall,PPE
+EQ00002114,High,60.3,Pressure,PPE
+EQ00002115,Critical,99.3,Fall,PTW
+EQ00002116,High,51.1,Line of Fire,Gas Testing
+EQ00002117,Critical,72.7,Vehicle,Isolation/LOTO
+EQ00002118,Medium,47.4,Fire,SOP Compliance
+EQ00002119,Critical,83.2,Pressure,Emergency Shutdown
+EQ00002120,High,69.8,Vehicle,Isolation/LOTO
+EQ00002121,Medium,36.6,Vehicle,PPE
+EQ00002122,High,77.5,Vehicle,Gas Testing
+EQ00002123,Critical,79.5,Pressure,Fire Protection
+EQ00002124,Critical,80.6,Electrical,Fire Protection
+EQ00002125,Critical,79.6,Multiple,Emergency Shutdown
+EQ00002126,Critical,77.8,Vehicle,Fire Protection
+EQ00002127,High,60.9,Toxic Gas,PPE
+EQ00002128,High,71.1,Fire,PTW
+EQ00002129,Critical,95.4,Fall,Emergency Shutdown
+EQ00002130,High,65.1,Fall,Isolation/LOTO
+EQ00002131,High,78.9,Line of Fire,Gas Testing
+EQ00002132,High,74.6,Fire,Gas Testing
+EQ00002133,Critical,75.1,Line of Fire,PTW
+EQ00002134,High,52.3,Multiple,Gas Testing
+EQ00002135,High,56.2,Multiple,Isolation/LOTO
+EQ00002136,Critical,72.5,Fall,PTW
+EQ00002137,Critical,82.3,Fire,Fire Protection
+EQ00002138,Critical,78.5,Stored Energy,Fire Protection
+EQ00002139,High,51.3,Line of Fire,PTW
+EQ00002140,Critical,96.2,Pressure,Inspection
+EQ00002141,Critical,82.5,Multiple,PTW
+EQ00002142,Critical,93.8,Toxic Gas,Fire Protection
+EQ00002143,High,59.8,Toxic Gas,PTW
+EQ00002144,Critical,86.0,Vehicle,Isolation/LOTO
+EQ00002145,High,74.3,Stored Energy,Gas Testing
+EQ00002146,Medium,40.9,Fall,Inspection
+EQ00002147,High,58.2,Toxic Gas,PPE
+EQ00002148,Critical,92.7,Electrical,Gas Testing
+EQ00002149,High,60.4,Multiple,Inspection
+EQ00002150,Critical,82.1,Fall,Inspection
+EQ00002151,Medium,47.8,Fire,Guarding
+EQ00002152,High,62.5,Pressure,Inspection
+EQ00002153,Critical,86.2,Electrical,Inspection
+EQ00002154,High,64.0,Toxic Gas,Isolation/LOTO
+EQ00002155,Critical,75.5,Multiple,Inspection
+EQ00002156,Critical,91.3,Fire,PTW
+EQ00002157,Medium,48.7,Line of Fire,Inspection
+EQ00002158,Critical,70.7,Electrical,Inspection
+EQ00002159,Critical,74.8,Pressure,Gas Testing
+EQ00002160,Medium,44.1,Multiple,Inspection
+EQ00002161,Critical,87.2,Line of Fire,Emergency Shutdown
+EQ00002162,High,75.8,Vehicle,Gas Testing
+EQ00002163,Critical,80.1,Vehicle,Isolation/LOTO
+EQ00002164,High,56.5,Multiple,PTW
+EQ00002165,High,58.2,Vehicle,PTW
+EQ00002166,High,54.9,Fall,Isolation/LOTO
+EQ00002167,High,79.5,Line of Fire,PTW
+EQ00002168,High,72.0,Pressure,Inspection
+EQ00002169,Critical,84.0,Toxic Gas,Inspection
+EQ00002170,High,59.5,Electrical,Gas Testing
+EQ00002171,Critical,83.9,Stored Energy,Fire Protection
+EQ00002172,High,61.3,Electrical,PPE
+EQ00002173,Critical,76.2,Vehicle,Isolation/LOTO
+EQ00002174,High,78.7,Electrical,PTW
+EQ00002175,Medium,36.0,Multiple,Guarding
+EQ00002176,Critical,70.4,Stored Energy,Fire Protection
+EQ00002177,Critical,79.9,Multiple,Fire Protection
+EQ00002178,High,60.8,Electrical,Gas Testing
+EQ00002179,Critical,71.5,Multiple,Fire Protection
+EQ00002180,Medium,34.2,Pressure,Guarding
+EQ00002181,Critical,87.7,Fire,Fire Protection
+EQ00002182,Medium,45.2,Pressure,Inspection
+EQ00002183,Critical,99.5,Line of Fire,Gas Testing
+EQ00002184,High,68.9,Stored Energy,Isolation/LOTO
+EQ00002185,Critical,75.6,Toxic Gas,Fire Protection
+EQ00002186,Critical,76.9,Line of Fire,Isolation/LOTO
+EQ00002187,Critical,75.5,Vehicle,Gas Testing
+EQ00002188,High,52.0,Stored Energy,Inspection
+EQ00002189,High,79.4,Fall,Inspection
+EQ00002190,High,62.6,Electrical,Isolation/LOTO
+EQ00002191,High,71.7,Toxic Gas,Isolation/LOTO
+EQ00002192,Critical,82.7,Fire,Isolation/LOTO
+EQ00002193,Medium,54.0,Line of Fire,Guarding
+EQ00002194,Critical,92.4,Stored Energy,Gas Testing
+EQ00002195,Critical,80.1,Line of Fire,Gas Testing
+EQ00002196,High,72.0,Pressure,Inspection
+EQ00002197,Critical,90.6,Vehicle,PTW
+EQ00002198,Critical,90.5,Toxic Gas,Gas Testing
+EQ00002199,Medium,43.0,Fall,PPE
+EQ00002200,High,59.7,Vehicle,Inspection
+EQ00002201,Medium,35.9,Multiple,Inspection
+EQ00002202,Critical,95.2,Fire,Inspection
+EQ00002203,Medium,51.6,Line of Fire,Guarding
+EQ00002204,Critical,93.9,Stored Energy,Isolation/LOTO
+EQ00002205,High,72.8,Electrical,PTW
+EQ00002206,High,50.5,Pressure,Gas Testing
+EQ00002207,Critical,88.1,Fire,Gas Testing
+EQ00002208,High,74.9,Fall,PPE
+EQ00002209,High,54.9,Stored Energy,Isolation/LOTO
+EQ00002210,High,74.4,Multiple,PTW
+EQ00002211,Critical,73.3,Electrical,Isolation/LOTO
+EQ00002212,High,78.8,Stored Energy,Gas Testing
+EQ00002213,Critical,99.4,Fire,Inspection
+EQ00002214,Critical,90.6,Toxic Gas,PTW
+EQ00002215,High,75.4,Pressure,Isolation/LOTO
+EQ00002216,High,72.7,Toxic Gas,Inspection
+EQ00002217,Critical,75.5,Pressure,Isolation/LOTO
+EQ00002218,Critical,71.8,Fall,Fire Protection
+EQ00002219,Critical,87.8,Pressure,Emergency Shutdown
+EQ00002220,High,69.4,Stored Energy,Inspection
+EQ00002221,High,69.0,Stored Energy,Isolation/LOTO
+EQ00002222,High,66.3,Fire,Inspection
+EQ00002223,Medium,48.2,Electrical,SOP Compliance
+EQ00002224,Critical,77.3,Stored Energy,Inspection
+EQ00002225,Critical,99.3,Toxic Gas,Inspection
+EQ00002226,Critical,77.0,Vehicle,Emergency Shutdown
+EQ00002227,High,76.8,Multiple,PTW
+EQ00002228,Critical,88.6,Vehicle,Gas Testing
+EQ00002229,Critical,84.3,Stored Energy,Gas Testing
+EQ00002230,Critical,86.9,Vehicle,Gas Testing
+EQ00002231,Critical,80.9,Fire,PTW
+EQ00002232,Critical,99.9,Fire,Gas Testing
+EQ00002233,High,78.2,Stored Energy,PTW
+EQ00002234,Critical,78.8,Stored Energy,Inspection
+EQ00002235,Critical,79.2,Pressure,Inspection
+EQ00002236,Critical,83.7,Pressure,PTW
+EQ00002237,High,55.1,Line of Fire,Isolation/LOTO
+EQ00002238,Critical,73.5,Line of Fire,Emergency Shutdown
+EQ00002239,Critical,79.6,Line of Fire,Isolation/LOTO
+EQ00002240,High,74.4,Toxic Gas,Isolation/LOTO
+EQ00002241,High,77.7,Fire,Isolation/LOTO
+EQ00002242,Critical,71.1,Fire,Isolation/LOTO
+EQ00002243,Medium,40.6,Electrical,Inspection
+EQ00002244,High,59.9,Fire,Gas Testing
+EQ00002245,Medium,40.6,Electrical,PPE
+EQ00002246,High,50.1,Fall,Inspection
+EQ00002247,High,76.3,Vehicle,Isolation/LOTO
+EQ00002248,High,63.5,Line of Fire,PTW
+EQ00002249,High,70.5,Vehicle,Isolation/LOTO
+EQ00002250,High,50.9,Toxic Gas,PPE
+EQ00002251,High,73.9,Multiple,PPE
+EQ00002252,High,77.9,Toxic Gas,Gas Testing
+EQ00002253,Medium,44.1,Electrical,SOP Compliance
+EQ00002254,Critical,99.3,Fall,Isolation/LOTO
+EQ00002255,Critical,84.5,Multiple,Emergency Shutdown
+EQ00002256,Critical,79.6,Line of Fire,Inspection
+EQ00002257,High,78.3,Fire,PTW
+EQ00002258,High,73.8,Fall,Gas Testing
+EQ00002259,Medium,44.5,Multiple,Guarding
+EQ00002260,High,75.8,Stored Energy,PTW
+EQ00002261,Critical,76.3,Vehicle,Gas Testing
+EQ00002262,Critical,85.3,Multiple,Isolation/LOTO
+EQ00002263,High,78.7,Vehicle,Isolation/LOTO
+EQ00002264,High,63.2,Stored Energy,Isolation/LOTO
+EQ00002265,High,56.1,Vehicle,Isolation/LOTO
+EQ00002266,Critical,91.8,Pressure,Fire Protection
+EQ00002267,Critical,87.2,Toxic Gas,Gas Testing
+EQ00002268,Medium,31.8,Fire,Guarding
+EQ00002269,Critical,72.8,Electrical,Inspection
+EQ00002270,Critical,93.0,Stored Energy,Gas Testing
+EQ00002271,Medium,49.7,Toxic Gas,PPE
+EQ00002272,Critical,92.4,Electrical,Fire Protection
+EQ00002273,High,56.9,Line of Fire,PPE
+EQ00002274,Critical,75.5,Fire,PTW
+EQ00002275,High,58.7,Stored Energy,Inspection
+EQ00002276,Medium,39.0,Multiple,Guarding
+EQ00002277,Critical,91.8,Vehicle,Gas Testing
+EQ00002278,Critical,89.2,Pressure,Emergency Shutdown
+EQ00002279,Critical,95.1,Multiple,PTW
+EQ00002280,Medium,43.8,Vehicle,Guarding
+EQ00002281,Critical,96.2,Pressure,Emergency Shutdown
+EQ00002282,Medium,41.3,Stored Energy,Inspection
+EQ00002283,High,59.6,Fire,Isolation/LOTO
+EQ00002284,Critical,90.0,Fire,PTW
+EQ00002285,Medium,48.3,Electrical,SOP Compliance
+EQ00002286,Critical,96.7,Fire,Isolation/LOTO
+EQ00002287,High,55.6,Line of Fire,PPE
+EQ00002288,Critical,78.0,Multiple,Isolation/LOTO
+EQ00002289,High,54.4,Vehicle,PTW
+EQ00002290,Critical,99.4,Stored Energy,PTW
+EQ00002291,High,69.9,Fire,Gas Testing
+EQ00002292,High,73.6,Stored Energy,Gas Testing
+EQ00002293,High,78.0,Toxic Gas,Isolation/LOTO
+EQ00002294,Critical,84.3,Stored Energy,PTW
+EQ00002295,Critical,90.9,Fire,Inspection
+EQ00002296,High,64.2,Toxic Gas,Gas Testing
+EQ00002297,High,76.7,Electrical,PTW
+EQ00002298,Critical,80.0,Pressure,Emergency Shutdown
+EQ00002299,High,69.1,Electrical,PTW
+EQ00002300,Critical,71.8,Multiple,Gas Testing
+EQ00002301,Critical,99.9,Fire,Gas Testing
+EQ00002302,High,56.2,Multiple,PTW
+EQ00002303,Critical,75.4,Fall,Gas Testing
+EQ00002304,Critical,92.7,Fire,Fire Protection
+EQ00002305,High,76.2,Line of Fire,Isolation/LOTO
+EQ00002306,High,62.1,Fire,PPE
+EQ00002307,Critical,89.5,Fall,Isolation/LOTO
+EQ00002308,Critical,94.1,Line of Fire,Inspection
+EQ00002309,High,57.1,Pressure,Isolation/LOTO
+EQ00002310,High,77.8,Fire,PTW
+EQ00002311,Critical,89.8,Pressure,Isolation/LOTO
+EQ00002312,High,53.3,Electrical,Isolation/LOTO
+EQ00002313,Critical,84.6,Pressure,Emergency Shutdown
+EQ00002314,Critical,81.4,Fall,Fire Protection
+EQ00002315,Critical,86.2,Vehicle,Fire Protection
+EQ00002316,Medium,40.5,Vehicle,Inspection
+EQ00002317,High,62.8,Vehicle,Isolation/LOTO
+EQ00002318,Critical,74.8,Line of Fire,Isolation/LOTO
+EQ00002319,Critical,73.2,Toxic Gas,Inspection
+EQ00002320,High,65.0,Vehicle,Gas Testing
+EQ00002321,Critical,93.9,Pressure,Fire Protection
+EQ00002322,Critical,93.6,Fire,PTW
+EQ00002323,High,69.8,Fire,Gas Testing
+EQ00002324,Critical,86.6,Stored Energy,PTW
+EQ00002325,High,65.3,Fall,Isolation/LOTO
+EQ00002326,Critical,71.7,Vehicle,Emergency Shutdown
+EQ00002327,Critical,85.0,Pressure,Emergency Shutdown
+EQ00002328,High,54.4,Vehicle,Isolation/LOTO
+EQ00002329,Critical,77.8,Fire,PTW
+EQ00002330,Medium,38.1,Electrical,SOP Compliance
+EQ00002331,Critical,71.7,Line of Fire,Emergency Shutdown
+EQ00002332,High,63.6,Electrical,Gas Testing
+EQ00002333,High,73.2,Vehicle,Isolation/LOTO
+EQ00002334,Critical,85.0,Fall,Isolation/LOTO
+EQ00002335,High,55.7,Fire,Inspection
+EQ00002336,High,51.4,Line of Fire,PPE
+EQ00002337,High,66.4,Fire,PTW
+EQ00002338,High,64.7,Stored Energy,Gas Testing
+EQ00002339,Critical,92.3,Electrical,Gas Testing
+EQ00002340,Critical,72.2,Multiple,Emergency Shutdown
+EQ00002341,Medium,42.9,Line of Fire,PPE
+EQ00002342,High,64.9,Stored Energy,PPE
+EQ00002343,Critical,87.8,Line of Fire,Inspection
+EQ00002344,High,70.2,Multiple,PTW
+EQ00002345,Medium,36.3,Electrical,Inspection
+EQ00002346,High,72.2,Pressure,PTW
+EQ00002347,High,61.8,Multiple,Isolation/LOTO
+EQ00002348,High,72.4,Pressure,Gas Testing
+EQ00002349,High,61.5,Toxic Gas,Isolation/LOTO
+EQ00002350,High,70.1,Fall,Isolation/LOTO
+EQ00002351,Medium,41.9,Stored Energy,SOP Compliance
+EQ00002352,High,59.7,Pressure,Inspection
+EQ00002353,Critical,70.0,Fire,Gas Testing
+EQ00002354,High,78.2,Fall,PPE
+EQ00002355,Medium,34.6,Electrical,PPE
+EQ00002356,Critical,97.1,Stored Energy,PTW
+EQ00002357,High,60.2,Stored Energy,Isolation/LOTO
+EQ00002358,Critical,97.5,Toxic Gas,Fire Protection
+EQ00002359,High,53.4,Pressure,Gas Testing
+EQ00002360,High,73.1,Electrical,Isolation/LOTO
+EQ00002361,Critical,88.2,Stored Energy,Inspection
+EQ00002362,Critical,72.4,Line of Fire,PTW
+EQ00002363,Medium,45.5,Multiple,Guarding
+EQ00002364,High,52.5,Fall,PPE
+EQ00002365,Critical,88.8,Multiple,Isolation/LOTO
+EQ00002366,High,53.1,Vehicle,Inspection
+EQ00002367,Medium,47.2,Fall,SOP Compliance
+EQ00002368,High,77.0,Multiple,Inspection
+EQ00002369,Critical,84.7,Line of Fire,Emergency Shutdown
+EQ00002370,Medium,38.2,Multiple,Inspection
+EQ00002371,Medium,53.9,Pressure,SOP Compliance
+EQ00002372,Medium,45.3,Toxic Gas,Guarding
+EQ00002373,High,76.4,Electrical,Gas Testing
+EQ00002374,High,52.4,Multiple,Inspection
+EQ00002375,High,64.9,Pressure,PPE
+EQ00002376,High,70.1,Stored Energy,Inspection
+EQ00002377,Critical,78.4,Line of Fire,Emergency Shutdown
+EQ00002378,High,78.3,Electrical,Gas Testing
+EQ00002379,High,65.2,Toxic Gas,Inspection
+EQ00002380,Medium,52.6,Pressure,PPE
+EQ00002381,High,51.8,Vehicle,Gas Testing
+EQ00002382,High,51.0,Fall,Isolation/LOTO
+EQ00002383,Critical,96.5,Pressure,Emergency Shutdown
+EQ00002384,High,76.1,Fire,Inspection
+EQ00002385,Critical,91.3,Pressure,Fire Protection
+EQ00002386,Critical,97.6,Vehicle,Inspection
+EQ00002387,Critical,86.0,Line of Fire,Gas Testing
+EQ00002388,Critical,72.8,Electrical,Emergency Shutdown
+EQ00002389,Critical,74.2,Line of Fire,Gas Testing
+EQ00002390,Medium,37.3,Pressure,PPE
+EQ00002391,High,61.5,Toxic Gas,Gas Testing
+EQ00002392,Medium,35.4,Fall,PPE
+EQ00002393,Medium,34.5,Electrical,PPE
+EQ00002394,Critical,85.7,Vehicle,PTW
+EQ00002395,High,65.5,Stored Energy,PPE
+EQ00002396,High,75.8,Multiple,Inspection
+EQ00002397,High,71.3,Multiple,Gas Testing
+EQ00002398,High,65.5,Multiple,Isolation/LOTO
+EQ00002399,Critical,95.8,Toxic Gas,Isolation/LOTO
+EQ00002400,Critical,87.7,Toxic Gas,Fire Protection
+EQ00002401,Critical,80.0,Pressure,PTW
+EQ00002402,High,52.8,Electrical,Gas Testing
+EQ00002403,Critical,96.1,Vehicle,Gas Testing
+EQ00002404,High,53.0,Multiple,Gas Testing
+EQ00002405,High,74.0,Stored Energy,Isolation/LOTO
+EQ00002406,Critical,76.9,Multiple,Inspection
+EQ00002407,Critical,73.8,Pressure,PTW
+EQ00002408,High,51.3,Multiple,PPE
+EQ00002409,Critical,75.3,Vehicle,Emergency Shutdown
+EQ00002410,High,52.2,Fire,Gas Testing
+EQ00002411,High,73.7,Fire,PTW
+EQ00002412,Medium,51.9,Fall,Guarding
+EQ00002413,Critical,84.9,Fall,Inspection
+EQ00002414,Critical,83.4,Line of Fire,Fire Protection
+EQ00002415,Critical,72.0,Toxic Gas,Inspection
+EQ00002416,High,64.3,Fall,Gas Testing
+EQ00002417,High,68.4,Multiple,Isolation/LOTO
+EQ00002418,Critical,96.4,Fall,Emergency Shutdown
+EQ00002419,Critical,82.3,Vehicle,Fire Protection
+EQ00002420,High,71.2,Vehicle,Inspection
+EQ00002421,Critical,99.7,Pressure,Fire Protection
+EQ00002422,High,63.0,Electrical,PPE
+EQ00002423,Critical,87.4,Line of Fire,Emergency Shutdown
+EQ00002424,High,51.3,Line of Fire,Gas Testing
+EQ00002425,Medium,43.0,Fire,Guarding
+EQ00002426,Critical,75.6,Pressure,Isolation/LOTO
+EQ00002427,Medium,49.2,Fire,SOP Compliance
+EQ00002428,Critical,88.8,Fire,Inspection
+EQ00002429,High,75.9,Line of Fire,Inspection
+EQ00002430,High,55.0,Electrical,Isolation/LOTO
+EQ00002431,Critical,99.2,Fire,Inspection
+EQ00002432,Critical,75.2,Fire,Emergency Shutdown
+EQ00002433,Critical,87.1,Fall,PTW
+EQ00002434,High,67.9,Vehicle,PTW
+EQ00002435,High,51.3,Toxic Gas,Gas Testing
+EQ00002436,Critical,98.3,Electrical,Fire Protection
+EQ00002437,Critical,94.6,Multiple,Gas Testing
+EQ00002438,High,62.9,Electrical,Inspection
+EQ00002439,Critical,97.2,Fall,PTW
+EQ00002440,High,60.0,Pressure,Isolation/LOTO
+EQ00002441,Critical,78.3,Fall,PTW
+EQ00002442,High,52.4,Toxic Gas,PPE
+EQ00002443,Critical,89.9,Pressure,Gas Testing
+EQ00002444,Critical,97.8,Multiple,Isolation/LOTO
+EQ00002445,Critical,89.3,Electrical,Fire Protection
+EQ00002446,High,76.5,Electrical,PPE
+EQ00002447,High,77.8,Multiple,Gas Testing
+EQ00002448,Medium,42.5,Multiple,SOP Compliance
+EQ00002449,High,51.4,Vehicle,PPE
+EQ00002450,High,77.6,Multiple,PTW
+EQ00002451,Critical,93.7,Fall,Gas Testing
+EQ00002452,Critical,92.8,Electrical,Gas Testing
+EQ00002453,High,77.6,Fall,PTW
+EQ00002454,Critical,90.2,Multiple,Inspection
+EQ00002455,High,51.8,Vehicle,PPE
+EQ00002456,High,75.0,Multiple,PTW
+EQ00002457,Critical,85.5,Pressure,Inspection
+EQ00002458,Medium,45.4,Electrical,Guarding
+EQ00002459,Critical,76.3,Fall,Gas Testing
+EQ00002460,High,53.9,Pressure,PTW
+EQ00002461,High,65.3,Pressure,Isolation/LOTO
+EQ00002462,Critical,87.9,Electrical,Fire Protection
+EQ00002463,Critical,81.3,Stored Energy,Inspection
+EQ00002464,High,69.7,Toxic Gas,Inspection
+EQ00002465,High,70.3,Fire,Inspection
+EQ00002466,High,70.3,Fall,Gas Testing
+EQ00002467,High,75.7,Line of Fire,Inspection
+EQ00002468,Critical,73.4,Vehicle,Inspection
+EQ00002469,High,69.9,Toxic Gas,Inspection
+EQ00002470,Critical,85.5,Toxic Gas,Emergency Shutdown
+EQ00002471,High,52.0,Fall,Isolation/LOTO
+EQ00002472,Medium,54.9,Stored Energy,PPE
+EQ00002473,High,64.2,Vehicle,PPE
+EQ00002474,Critical,95.9,Fire,Inspection
+EQ00002475,High,55.8,Line of Fire,PTW
+EQ00002476,High,68.6,Multiple,Isolation/LOTO
+EQ00002477,Critical,96.6,Multiple,Isolation/LOTO
+EQ00002478,Critical,74.3,Fall,Gas Testing
+EQ00002479,High,55.7,Fall,PTW
+EQ00002480,High,69.2,Electrical,PPE
+EQ00002481,High,79.7,Fire,Gas Testing
+EQ00002482,High,52.5,Vehicle,Gas Testing
+EQ00002483,High,60.7,Vehicle,Inspection
+EQ00002484,Critical,70.6,Fall,Emergency Shutdown
+EQ00002485,High,63.6,Vehicle,Gas Testing
+EQ00002486,Critical,73.7,Toxic Gas,Gas Testing
+EQ00002487,High,50.2,Multiple,Gas Testing
+EQ00002488,High,63.3,Stored Energy,Inspection
+EQ00002489,High,60.4,Fire,Gas Testing
+EQ00002490,High,73.1,Line of Fire,PPE
+EQ00002491,High,57.9,Line of Fire,PPE
+EQ00002492,High,51.9,Stored Energy,Inspection
+EQ00002493,High,68.8,Toxic Gas,Isolation/LOTO
+EQ00002494,Critical,94.9,Fire,Isolation/LOTO
+EQ00002495,Critical,81.7,Fall,Emergency Shutdown
+EQ00002496,High,73.1,Electrical,Gas Testing
+EQ00002497,High,51.9,Electrical,PPE
+EQ00002498,Critical,98.1,Line of Fire,Fire Protection
+EQ00002499,High,53.6,Fall,Isolation/LOTO
+EQ00002500,Critical,72.5,Fire,Inspection
+EQ00002501,Critical,73.3,Line of Fire,Inspection
+EQ00002502,Critical,73.8,Fall,Inspection
+EQ00002503,Medium,46.4,Stored Energy,SOP Compliance
+EQ00002504,Critical,93.3,Fall,Isolation/LOTO
+EQ00002505,High,71.4,Stored Energy,PTW
+EQ00002506,Medium,47.1,Vehicle,SOP Compliance
+EQ00002507,Critical,99.4,Multiple,Emergency Shutdown
+EQ00002508,High,79.3,Toxic Gas,PPE
+EQ00002509,Critical,85.4,Pressure,Fire Protection
+EQ00002510,High,59.5,Stored Energy,Isolation/LOTO
+EQ00002511,Medium,50.3,Multiple,PPE
+EQ00002512,Critical,83.1,Electrical,Isolation/LOTO
+EQ00002513,Critical,85.9,Fall,Inspection
+EQ00002514,High,72.8,Fire,PTW
+EQ00002515,High,64.8,Multiple,PTW
+EQ00002516,High,56.3,Multiple,PTW
+EQ00002517,High,78.0,Stored Energy,PTW
+EQ00002518,High,54.5,Toxic Gas,Inspection
+EQ00002519,High,72.2,Fire,Inspection
+EQ00002520,High,75.6,Fire,Isolation/LOTO
+EQ00002521,Critical,98.7,Fall,Inspection
+EQ00002522,Critical,94.2,Stored Energy,PTW
+EQ00002523,High,62.3,Stored Energy,PPE
+EQ00002524,Critical,94.1,Toxic Gas,Inspection
+EQ00002525,Critical,84.5,Electrical,PTW
+EQ00002526,High,60.4,Vehicle,Inspection
+EQ00002527,Critical,88.8,Multiple,Inspection
+EQ00002528,High,74.6,Stored Energy,PTW
+EQ00002529,High,53.0,Fire,Gas Testing
+EQ00002530,Critical,77.4,Fall,Emergency Shutdown
+EQ00002531,High,72.5,Vehicle,Inspection
+EQ00002532,High,58.3,Toxic Gas,PTW
+EQ00002533,Critical,78.1,Electrical,Fire Protection
+EQ00002534,Critical,83.6,Fall,Gas Testing
+EQ00002535,Critical,72.4,Stored Energy,Emergency Shutdown
+EQ00002536,Critical,79.7,Fire,PTW
+EQ00002537,Critical,75.4,Electrical,Inspection
+EQ00002538,High,68.3,Stored Energy,PTW
+EQ00002539,High,74.9,Vehicle,PTW
+EQ00002540,High,56.5,Vehicle,Inspection
+EQ00002541,Medium,36.7,Stored Energy,SOP Compliance
+EQ00002542,Critical,87.0,Vehicle,Emergency Shutdown
+EQ00002543,High,68.4,Multiple,PPE
+EQ00002544,Critical,97.2,Multiple,Inspection
+EQ00002545,Critical,83.8,Toxic Gas,Fire Protection
+EQ00002546,Critical,82.9,Fire,Emergency Shutdown
+EQ00002547,High,76.1,Fire,PPE
+EQ00002548,Critical,70.3,Electrical,Emergency Shutdown
+EQ00002549,Medium,38.2,Multiple,SOP Compliance
+EQ00002550,Medium,47.0,Pressure,PPE
+EQ00002551,Critical,81.1,Fire,Inspection
+EQ00002552,Critical,77.9,Pressure,Gas Testing
+EQ00002553,High,71.8,Fall,Inspection
+EQ00002554,Medium,39.7,Stored Energy,Inspection
+EQ00002555,High,67.9,Vehicle,PPE
+EQ00002556,Critical,81.7,Multiple,Fire Protection
+EQ00002557,High,78.2,Vehicle,PPE
+EQ00002558,Critical,90.0,Pressure,Inspection
+EQ00002559,Critical,97.0,Vehicle,Isolation/LOTO
+EQ00002560,Critical,87.8,Multiple,PTW
+EQ00002561,High,67.8,Stored Energy,Inspection
+EQ00002562,Critical,75.8,Vehicle,Inspection
+EQ00002563,High,69.7,Pressure,PPE
+EQ00002564,High,60.8,Electrical,Inspection
+EQ00002565,High,77.9,Multiple,Gas Testing
+EQ00002566,Medium,48.9,Vehicle,Guarding
+EQ00002567,Critical,92.0,Line of Fire,Emergency Shutdown
+EQ00002568,High,53.8,Multiple,Inspection
+EQ00002569,High,66.5,Line of Fire,Isolation/LOTO
+EQ00002570,Critical,96.3,Fire,Inspection
+EQ00002571,Critical,92.1,Fire,Emergency Shutdown
+EQ00002572,Medium,47.4,Line of Fire,Inspection
+EQ00002573,High,66.1,Fall,PTW
+EQ00002574,High,74.9,Line of Fire,Isolation/LOTO
+EQ00002575,Medium,35.9,Toxic Gas,Inspection
+EQ00002576,High,73.3,Line of Fire,Isolation/LOTO
+EQ00002577,High,50.1,Fall,Isolation/LOTO
+EQ00002578,High,50.6,Fall,Isolation/LOTO
+EQ00002579,High,64.9,Stored Energy,Isolation/LOTO
+EQ00002580,High,60.1,Line of Fire,PPE
+EQ00002581,Critical,72.1,Pressure,Gas Testing
+EQ00002582,Critical,85.4,Vehicle,PTW
+EQ00002583,Medium,48.9,Vehicle,Guarding
+EQ00002584,High,76.7,Fire,Gas Testing
+EQ00002585,Critical,75.1,Pressure,Gas Testing
+EQ00002586,High,78.5,Line of Fire,Gas Testing
+EQ00002587,High,55.5,Fall,PPE
+EQ00002588,Critical,86.8,Fire,Inspection
+EQ00002589,High,68.0,Multiple,PPE
+EQ00002590,Medium,52.6,Line of Fire,SOP Compliance
+EQ00002591,High,55.9,Stored Energy,Gas Testing
+EQ00002592,High,78.3,Electrical,Isolation/LOTO
+EQ00002593,Critical,88.7,Multiple,Gas Testing
+EQ00002594,High,73.6,Pressure,Gas Testing
+EQ00002595,Critical,74.9,Line of Fire,Gas Testing
+EQ00002596,High,78.8,Pressure,Gas Testing
+EQ00002597,Critical,86.0,Electrical,Inspection
+EQ00002598,High,62.6,Fire,PTW
+EQ00002599,Critical,88.5,Fall,Inspection
+EQ00002600,Medium,46.6,Fire,Guarding
+EQ00002601,Critical,78.2,Toxic Gas,Emergency Shutdown
+EQ00002602,High,66.6,Stored Energy,PPE
+EQ00002603,High,78.1,Fire,Isolation/LOTO
+EQ00002604,Medium,41.6,Multiple,Guarding
+EQ00002605,Medium,49.9,Fire,Inspection
+EQ00002606,High,55.4,Line of Fire,PPE
+EQ00002607,High,60.5,Stored Energy,Isolation/LOTO
+EQ00002608,High,77.8,Pressure,Gas Testing
+EQ00002609,High,63.4,Multiple,Isolation/LOTO
+EQ00002610,High,55.1,Pressure,Isolation/LOTO
+EQ00002611,Medium,36.5,Toxic Gas,Guarding
+EQ00002612,High,77.7,Multiple,Isolation/LOTO
+EQ00002613,Critical,92.1,Stored Energy,Isolation/LOTO
+EQ00002614,High,59.3,Vehicle,Inspection
+EQ00002615,High,72.6,Fall,Isolation/LOTO
+EQ00002616,Critical,81.9,Line of Fire,PTW
+EQ00002617,Critical,73.1,Pressure,Gas Testing
+EQ00002618,Critical,70.8,Line of Fire,Gas Testing
+EQ00002619,Medium,49.6,Fall,Inspection
+EQ00002620,Critical,87.7,Fall,Emergency Shutdown
+EQ00002621,Critical,74.4,Line of Fire,Gas Testing
+EQ00002622,High,60.2,Pressure,PPE
+EQ00002623,High,64.7,Stored Energy,Gas Testing
+EQ00002624,Critical,94.8,Stored Energy,Gas Testing
+EQ00002625,High,71.2,Stored Energy,Isolation/LOTO
+EQ00002626,High,51.2,Toxic Gas,PPE
+EQ00002627,High,71.2,Line of Fire,Isolation/LOTO
+EQ00002628,Medium,45.7,Electrical,Inspection
+EQ00002629,High,73.0,Fire,PTW
+EQ00002630,High,68.9,Fall,PPE
+EQ00002631,Critical,87.6,Fire,Fire Protection
+EQ00002632,High,63.4,Electrical,PPE
+EQ00002633,High,78.5,Stored Energy,PTW
+EQ00002634,High,76.8,Fall,Gas Testing
+EQ00002635,High,70.0,Fall,PTW
+EQ00002636,High,63.2,Fire,Inspection
+EQ00002637,Critical,70.5,Fire,Gas Testing
+EQ00002638,High,52.3,Pressure,Gas Testing
+EQ00002639,High,74.7,Fall,PPE
+EQ00002640,High,55.2,Line of Fire,PTW
+EQ00002641,High,56.1,Stored Energy,PPE
+EQ00002642,Medium,41.5,Electrical,Inspection
+EQ00002643,Critical,70.6,Pressure,Fire Protection
+EQ00002644,Critical,76.5,Vehicle,Isolation/LOTO
+EQ00002645,High,51.1,Vehicle,PTW
+EQ00002646,Critical,84.2,Fall,PTW
+EQ00002647,Critical,92.5,Fire,Emergency Shutdown
+EQ00002648,Critical,88.5,Pressure,PTW
+EQ00002649,High,75.4,Multiple,PPE
+EQ00002650,High,74.6,Fire,PPE
+EQ00002651,Medium,53.8,Toxic Gas,SOP Compliance
+EQ00002652,High,63.4,Pressure,PTW
+EQ00002653,High,56.8,Toxic Gas,PPE
+EQ00002654,Critical,88.8,Toxic Gas,Fire Protection
+EQ00002655,High,74.8,Line of Fire,Isolation/LOTO
+EQ00002656,Medium,34.1,Multiple,Inspection
+EQ00002657,High,58.4,Vehicle,Inspection
+EQ00002658,High,56.6,Stored Energy,Inspection
+EQ00002659,Critical,90.0,Pressure,Fire Protection
+EQ00002660,High,72.4,Electrical,Gas Testing
+EQ00002661,High,60.6,Fire,PTW
+EQ00002662,Medium,48.0,Pressure,Guarding
+EQ00002663,High,65.3,Electrical,PPE
+EQ00002664,High,64.4,Fire,Isolation/LOTO
+EQ00002665,Critical,93.8,Fire,Inspection
+EQ00002666,High,51.3,Toxic Gas,PTW
+EQ00002667,High,61.0,Toxic Gas,PTW
+EQ00002668,Critical,76.2,Vehicle,PTW
+EQ00002669,High,57.2,Multiple,Gas Testing
+EQ00002670,High,51.9,Fire,Gas Testing
+EQ00002671,High,58.8,Line of Fire,Gas Testing
+EQ00002672,High,56.4,Vehicle,PTW
+EQ00002673,High,56.5,Pressure,Inspection
+EQ00002674,High,61.2,Pressure,Inspection
+EQ00002675,Medium,38.7,Vehicle,Inspection
+EQ00002676,High,62.4,Vehicle,PPE
+EQ00002677,Critical,79.4,Vehicle,Emergency Shutdown
+EQ00002678,High,60.1,Stored Energy,PPE
+EQ00002679,High,59.5,Multiple,PPE
+EQ00002680,High,51.5,Multiple,Gas Testing
+EQ00002681,Critical,95.6,Line of Fire,Gas Testing
+EQ00002682,High,79.7,Fire,Isolation/LOTO
+EQ00002683,Critical,79.9,Line of Fire,PTW
+EQ00002684,High,77.7,Fall,Isolation/LOTO
+EQ00002685,Critical,97.9,Toxic Gas,PTW
+EQ00002686,High,68.1,Toxic Gas,PTW
+EQ00002687,Critical,86.2,Pressure,Isolation/LOTO
+EQ00002688,Critical,85.8,Multiple,Gas Testing
+EQ00002689,High,50.2,Line of Fire,PTW
+EQ00002690,Critical,84.5,Fire,PTW
+EQ00002691,Critical,84.8,Fire,Isolation/LOTO
+EQ00002692,Medium,38.8,Pressure,Guarding
+EQ00002693,High,56.6,Vehicle,PTW
+EQ00002694,High,75.7,Line of Fire,PPE
+EQ00002695,Critical,81.0,Fire,PTW
+EQ00002696,High,69.7,Electrical,Inspection
+EQ00002697,High,68.1,Fall,Gas Testing
+EQ00002698,High,56.6,Stored Energy,Gas Testing
+EQ00002699,Critical,87.0,Pressure,Emergency Shutdown
+EQ00002700,High,56.2,Vehicle,Inspection
+EQ00002701,Medium,49.1,Fire,Guarding
+EQ00002702,Critical,81.6,Toxic Gas,Fire Protection
+EQ00002703,Critical,84.5,Line of Fire,Fire Protection
+EQ00002704,Critical,94.2,Fire,Inspection
+EQ00002705,High,79.1,Fire,Inspection
+EQ00002706,Critical,92.2,Electrical,Inspection
+EQ00002707,Medium,36.2,Toxic Gas,Guarding
+EQ00002708,Critical,93.4,Stored Energy,Gas Testing
+EQ00002709,High,68.8,Stored Energy,Inspection
+EQ00002710,High,54.0,Stored Energy,Isolation/LOTO
+EQ00002711,Medium,44.7,Multiple,PPE
+EQ00002712,Medium,34.3,Vehicle,SOP Compliance
+EQ00002713,Critical,83.0,Electrical,Inspection
+EQ00002714,Critical,95.6,Vehicle,Inspection
+EQ00002715,High,74.2,Multiple,Inspection
+EQ00002716,Critical,75.9,Electrical,Isolation/LOTO
+EQ00002717,Critical,74.4,Multiple,Inspection
+EQ00002718,Critical,88.4,Fire,Inspection
+EQ00002719,High,61.0,Toxic Gas,Isolation/LOTO
+EQ00002720,Critical,82.1,Stored Energy,Isolation/LOTO
+EQ00002721,Critical,91.5,Stored Energy,PTW
+EQ00002722,High,76.7,Pressure,PTW
+EQ00002723,Critical,78.1,Fire,PTW
+EQ00002724,High,63.3,Electrical,Inspection
+EQ00002725,High,57.2,Electrical,Inspection
+EQ00002726,High,63.0,Fall,Gas Testing
+EQ00002727,Medium,43.0,Pressure,Inspection
+EQ00002728,High,50.3,Stored Energy,Gas Testing
+EQ00002729,Critical,99.4,Line of Fire,Fire Protection
+EQ00002730,High,72.5,Line of Fire,Gas Testing
+EQ00002731,High,72.1,Line of Fire,PTW
+EQ00002732,High,54.2,Fire,PPE
+EQ00002733,Medium,35.5,Fire,Inspection
+EQ00002734,Critical,100.0,Fire,Emergency Shutdown
+EQ00002735,Critical,72.7,Fall,Inspection
+EQ00002736,Critical,83.1,Toxic Gas,Emergency Shutdown
+EQ00002737,High,70.4,Vehicle,PPE
+EQ00002738,Medium,44.5,Electrical,SOP Compliance
+EQ00002739,High,72.4,Electrical,Gas Testing
+EQ00002740,Medium,35.4,Pressure,Inspection
+EQ00002741,High,58.5,Stored Energy,Inspection
+EQ00002742,High,79.9,Vehicle,PTW
+EQ00002743,Critical,73.6,Fall,Isolation/LOTO
+EQ00002744,Critical,96.4,Vehicle,Emergency Shutdown
+EQ00002745,Medium,54.7,Line of Fire,Inspection
+EQ00002746,High,60.2,Fire,Inspection
+EQ00002747,Critical,77.2,Pressure,Gas Testing
+EQ00002748,Critical,73.9,Electrical,Fire Protection
+EQ00002749,Medium,36.6,Pressure,Guarding
+EQ00002750,Critical,83.7,Multiple,Fire Protection
+EQ00002751,High,54.5,Toxic Gas,PTW
+EQ00002752,Critical,92.1,Fall,PTW
+EQ00002753,Critical,83.9,Multiple,Inspection
+EQ00002754,High,71.4,Electrical,Inspection
+EQ00002755,Critical,72.5,Vehicle,Isolation/LOTO
+EQ00002756,High,75.3,Multiple,Isolation/LOTO
+EQ00002757,High,63.7,Multiple,PPE
+EQ00002758,High,54.0,Line of Fire,PTW
+EQ00002759,Critical,77.5,Stored Energy,Isolation/LOTO
+EQ00002760,Critical,70.3,Multiple,Fire Protection
+EQ00002761,Critical,98.6,Toxic Gas,PTW
+EQ00002762,High,66.5,Stored Energy,Gas Testing
+EQ00002763,High,69.5,Vehicle,PPE
+EQ00002764,High,64.6,Toxic Gas,PPE
+EQ00002765,Critical,88.1,Multiple,Isolation/LOTO
+EQ00002766,High,62.0,Fire,Gas Testing
+EQ00002767,Critical,91.3,Electrical,Isolation/LOTO
+EQ00002768,Medium,37.5,Fall,Inspection
+EQ00002769,Critical,79.1,Multiple,PTW
+EQ00002770,Critical,98.5,Fire,Gas Testing
+EQ00002771,Critical,76.2,Toxic Gas,Inspection
+EQ00002772,Critical,76.5,Fire,PTW
+EQ00002773,Critical,92.7,Multiple,Gas Testing
+EQ00002774,High,54.6,Line of Fire,Gas Testing
+EQ00002775,High,69.4,Electrical,Gas Testing
+EQ00002776,High,74.3,Fall,Inspection
+EQ00002777,High,52.1,Fall,Inspection
+EQ00002778,Medium,45.8,Vehicle,Inspection
+EQ00002779,Critical,72.1,Stored Energy,Isolation/LOTO
+EQ00002780,Medium,38.0,Fire,Inspection
+EQ00002781,Critical,73.2,Pressure,Isolation/LOTO
+EQ00002782,High,55.5,Electrical,Isolation/LOTO
+EQ00002783,High,78.3,Fall,Isolation/LOTO
+EQ00002784,Critical,74.9,Toxic Gas,Gas Testing
+EQ00002785,Critical,94.5,Line of Fire,Gas Testing
+EQ00002786,High,52.9,Line of Fire,Inspection
+EQ00002787,High,70.7,Vehicle,Gas Testing
+EQ00002788,Critical,73.1,Vehicle,Gas Testing
+EQ00002789,High,58.4,Stored Energy,Inspection
+EQ00002790,Critical,96.3,Vehicle,Isolation/LOTO
+EQ00002791,High,66.8,Fall,PTW
+EQ00002792,Critical,90.1,Vehicle,Isolation/LOTO
+EQ00002793,High,54.1,Multiple,Inspection
+EQ00002794,High,61.1,Toxic Gas,PPE
+EQ00002795,Medium,54.5,Fire,Inspection
+EQ00002796,High,59.4,Fire,PTW
+EQ00002797,Critical,73.5,Fire,Isolation/LOTO
+EQ00002798,Critical,79.5,Fall,Isolation/LOTO
+EQ00002799,Medium,52.7,Electrical,Inspection
+EQ00002800,High,58.2,Line of Fire,Inspection
+EQ00002801,Critical,73.7,Pressure,Fire Protection
+EQ00002802,Critical,88.8,Vehicle,PTW
+EQ00002803,High,70.2,Fall,Gas Testing
+EQ00002804,High,67.1,Line of Fire,Inspection
+EQ00002805,Critical,98.4,Pressure,Inspection
+EQ00002806,High,70.7,Pressure,PTW
+EQ00002807,Critical,72.4,Pressure,Inspection
+EQ00002808,Critical,95.8,Stored Energy,Emergency Shutdown
+EQ00002809,Medium,32.1,Electrical,PPE
+EQ00002810,Critical,89.3,Vehicle,Isolation/LOTO
+EQ00002811,Critical,94.1,Electrical,Gas Testing

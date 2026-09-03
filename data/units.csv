@@ -1,0 +1,37 @@
+unit_id,site_id,unit_name,unit_type
+UNIT00001,SITE01,Assam E&P Cluster A - Wellhead & Manifold,Wellhead & Manifold
+UNIT00002,SITE01,Assam E&P Cluster A - Production Separation,Production Separation
+UNIT00003,SITE01,Assam E&P Cluster A - Field Utility,Field Utility
+UNIT00004,SITE02,Assam E&P Cluster B - Wellhead & Manifold,Wellhead & Manifold
+UNIT00005,SITE02,Assam E&P Cluster B - Production Separation,Production Separation
+UNIT00006,SITE02,Assam E&P Cluster B - Field Utility,Field Utility
+UNIT00007,SITE03,Assam Production Centre - Production Separation,Production Separation
+UNIT00008,SITE03,Assam Production Centre - Crude Handling,Crude Handling
+UNIT00009,SITE03,Assam Production Centre - Produced Water,Produced Water
+UNIT00010,SITE04,Rajasthan E&P Cluster - Wellhead & Manifold,Wellhead & Manifold
+UNIT00011,SITE04,Rajasthan E&P Cluster - Production Separation,Production Separation
+UNIT00012,SITE04,Rajasthan E&P Cluster - Field Utility,Field Utility
+UNIT00013,SITE05,West India Processing - Gas Compression,Gas Compression
+UNIT00014,SITE05,West India Processing - Gas Dehydration,Gas Dehydration
+UNIT00015,SITE05,West India Processing - Gas Treatment,Gas Treatment
+UNIT00016,SITE06,East India Storage - Tank Farm,Tank Farm
+UNIT00017,SITE06,East India Storage - Loading/Unloading,Loading/Unloading
+UNIT00018,SITE06,East India Storage - Fire Water System,Fire Water System
+UNIT00019,SITE07,Pipeline Terminal East - Pipeline Pumping,Pipeline Pumping
+UNIT00020,SITE07,Pipeline Terminal East - Metering Station,Metering Station
+UNIT00021,SITE07,Pipeline Terminal East - Terminal Operations,Terminal Operations
+UNIT00022,SITE08,Central Workshop - Mechanical Workshop,Mechanical Workshop
+UNIT00023,SITE08,Central Workshop - Electrical Workshop,Electrical Workshop
+UNIT00024,SITE08,Central Workshop - Fabrication Shop,Fabrication Shop
+UNIT00025,SITE09,Drilling Base East - Drilling Rig Area,Drilling Rig Area
+UNIT00026,SITE09,Drilling Base East - Wellhead & Manifold,Wellhead & Manifold
+UNIT00027,SITE09,Drilling Base East - Mud System,Mud System
+UNIT00028,SITE10,Logistics & Materials - Fleet Yard,Fleet Yard
+UNIT00029,SITE10,Logistics & Materials - Materials Warehouse,Materials Warehouse
+UNIT00030,SITE10,Logistics & Materials - Vehicle Maintenance,Vehicle Maintenance
+UNIT00031,SITE11,Production Installation North - Production Separation,Production Separation
+UNIT00032,SITE11,Production Installation North - Crude Handling,Crude Handling
+UNIT00033,SITE11,Production Installation North - Produced Water,Produced Water
+UNIT00034,SITE12,Gas Processing South - Gas Compression,Gas Compression
+UNIT00035,SITE12,Gas Processing South - Gas Dehydration,Gas Dehydration
+UNIT00036,SITE12,Gas Processing South - Gas Treatment,Gas Treatment

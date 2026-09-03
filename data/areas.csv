@@ -1,0 +1,229 @@
+area_id,unit_id,area_name,area_environment
+AREA000001,UNIT00001,Wellhead & Manifold Area 01,Indoor
+AREA000002,UNIT00001,Wellhead & Manifold Area 02,Indoor
+AREA000003,UNIT00001,Wellhead & Manifold Area 03,Indoor
+AREA000004,UNIT00001,Wellhead & Manifold Area 04,Indoor
+AREA000005,UNIT00002,Production Separation Area 01,Process Area
+AREA000006,UNIT00002,Production Separation Area 02,Sheltered
+AREA000007,UNIT00002,Production Separation Area 03,Indoor
+AREA000008,UNIT00002,Production Separation Area 04,Sheltered
+AREA000009,UNIT00002,Production Separation Area 05,Indoor
+AREA000010,UNIT00003,Field Utility Area 01,Sheltered
+AREA000011,UNIT00003,Field Utility Area 02,Outdoor
+AREA000012,UNIT00003,Field Utility Area 03,Process Area
+AREA000013,UNIT00003,Field Utility Area 04,Sheltered
+AREA000014,UNIT00003,Field Utility Area 05,Outdoor
+AREA000015,UNIT00003,Field Utility Area 06,Sheltered
+AREA000016,UNIT00003,Field Utility Area 07,Indoor
+AREA000017,UNIT00003,Field Utility Area 08,Indoor
+AREA000018,UNIT00004,Wellhead & Manifold Area 01,Process Area
+AREA000019,UNIT00004,Wellhead & Manifold Area 02,Outdoor
+AREA000020,UNIT00004,Wellhead & Manifold Area 03,Process Area
+AREA000021,UNIT00004,Wellhead & Manifold Area 04,Outdoor
+AREA000022,UNIT00004,Wellhead & Manifold Area 05,Outdoor
+AREA000023,UNIT00004,Wellhead & Manifold Area 06,Indoor
+AREA000024,UNIT00004,Wellhead & Manifold Area 07,Sheltered
+AREA000025,UNIT00005,Production Separation Area 01,Sheltered
+AREA000026,UNIT00005,Production Separation Area 02,Indoor
+AREA000027,UNIT00005,Production Separation Area 03,Indoor
+AREA000028,UNIT00005,Production Separation Area 04,Outdoor
+AREA000029,UNIT00005,Production Separation Area 05,Indoor
+AREA000030,UNIT00005,Production Separation Area 06,Sheltered
+AREA000031,UNIT00006,Field Utility Area 01,Indoor
+AREA000032,UNIT00006,Field Utility Area 02,Outdoor
+AREA000033,UNIT00006,Field Utility Area 03,Process Area
+AREA000034,UNIT00006,Field Utility Area 04,Process Area
+AREA000035,UNIT00006,Field Utility Area 05,Indoor
+AREA000036,UNIT00006,Field Utility Area 06,Outdoor
+AREA000037,UNIT00006,Field Utility Area 07,Outdoor
+AREA000038,UNIT00006,Field Utility Area 08,Outdoor
+AREA000039,UNIT00007,Production Separation Area 01,Process Area
+AREA000040,UNIT00007,Production Separation Area 02,Indoor
+AREA000041,UNIT00007,Production Separation Area 03,Process Area
+AREA000042,UNIT00007,Production Separation Area 04,Process Area
+AREA000043,UNIT00007,Production Separation Area 05,Outdoor
+AREA000044,UNIT00007,Production Separation Area 06,Sheltered
+AREA000045,UNIT00007,Production Separation Area 07,Indoor
+AREA000046,UNIT00007,Production Separation Area 08,Outdoor
+AREA000047,UNIT00008,Crude Handling Area 01,Outdoor
+AREA000048,UNIT00008,Crude Handling Area 02,Sheltered
+AREA000049,UNIT00008,Crude Handling Area 03,Outdoor
+AREA000050,UNIT00008,Crude Handling Area 04,Sheltered
+AREA000051,UNIT00009,Produced Water Area 01,Outdoor
+AREA000052,UNIT00009,Produced Water Area 02,Indoor
+AREA000053,UNIT00009,Produced Water Area 03,Outdoor
+AREA000054,UNIT00009,Produced Water Area 04,Sheltered
+AREA000055,UNIT00009,Produced Water Area 05,Sheltered
+AREA000056,UNIT00009,Produced Water Area 06,Sheltered
+AREA000057,UNIT00009,Produced Water Area 07,Indoor
+AREA000058,UNIT00009,Produced Water Area 08,Outdoor
+AREA000059,UNIT00010,Wellhead & Manifold Area 01,Outdoor
+AREA000060,UNIT00010,Wellhead & Manifold Area 02,Indoor
+AREA000061,UNIT00010,Wellhead & Manifold Area 03,Sheltered
+AREA000062,UNIT00010,Wellhead & Manifold Area 04,Sheltered
+AREA000063,UNIT00010,Wellhead & Manifold Area 05,Sheltered
+AREA000064,UNIT00010,Wellhead & Manifold Area 06,Process Area
+AREA000065,UNIT00011,Production Separation Area 01,Sheltered
+AREA000066,UNIT00011,Production Separation Area 02,Indoor
+AREA000067,UNIT00011,Production Separation Area 03,Indoor
+AREA000068,UNIT00011,Production Separation Area 04,Process Area
+AREA000069,UNIT00011,Production Separation Area 05,Sheltered
+AREA000070,UNIT00012,Field Utility Area 01,Process Area
+AREA000071,UNIT00012,Field Utility Area 02,Process Area
+AREA000072,UNIT00012,Field Utility Area 03,Outdoor
+AREA000073,UNIT00012,Field Utility Area 04,Indoor
+AREA000074,UNIT00012,Field Utility Area 05,Sheltered
+AREA000075,UNIT00012,Field Utility Area 06,Process Area
+AREA000076,UNIT00012,Field Utility Area 07,Process Area
+AREA000077,UNIT00012,Field Utility Area 08,Sheltered
+AREA000078,UNIT00013,Gas Compression Area 01,Process Area
+AREA000079,UNIT00013,Gas Compression Area 02,Process Area
+AREA000080,UNIT00013,Gas Compression Area 03,Process Area
+AREA000081,UNIT00013,Gas Compression Area 04,Process Area
+AREA000082,UNIT00013,Gas Compression Area 05,Sheltered
+AREA000083,UNIT00013,Gas Compression Area 06,Process Area
+AREA000084,UNIT00013,Gas Compression Area 07,Process Area
+AREA000085,UNIT00013,Gas Compression Area 08,Sheltered
+AREA000086,UNIT00014,Gas Dehydration Area 01,Process Area
+AREA000087,UNIT00014,Gas Dehydration Area 02,Process Area
+AREA000088,UNIT00014,Gas Dehydration Area 03,Indoor
+AREA000089,UNIT00014,Gas Dehydration Area 04,Outdoor
+AREA000090,UNIT00014,Gas Dehydration Area 05,Indoor
+AREA000091,UNIT00015,Gas Treatment Area 01,Outdoor
+AREA000092,UNIT00015,Gas Treatment Area 02,Outdoor
+AREA000093,UNIT00015,Gas Treatment Area 03,Outdoor
+AREA000094,UNIT00015,Gas Treatment Area 04,Outdoor
+AREA000095,UNIT00015,Gas Treatment Area 05,Sheltered
+AREA000096,UNIT00015,Gas Treatment Area 06,Process Area
+AREA000097,UNIT00015,Gas Treatment Area 07,Sheltered
+AREA000098,UNIT00016,Tank Farm Area 01,Outdoor
+AREA000099,UNIT00016,Tank Farm Area 02,Sheltered
+AREA000100,UNIT00016,Tank Farm Area 03,Outdoor
+AREA000101,UNIT00016,Tank Farm Area 04,Indoor
+AREA000102,UNIT00016,Tank Farm Area 05,Process Area
+AREA000103,UNIT00016,Tank Farm Area 06,Indoor
+AREA000104,UNIT00016,Tank Farm Area 07,Sheltered
+AREA000105,UNIT00017,Loading/Unloading Area 01,Outdoor
+AREA000106,UNIT00017,Loading/Unloading Area 02,Indoor
+AREA000107,UNIT00017,Loading/Unloading Area 03,Process Area
+AREA000108,UNIT00017,Loading/Unloading Area 04,Process Area
+AREA000109,UNIT00017,Loading/Unloading Area 05,Process Area
+AREA000110,UNIT00017,Loading/Unloading Area 06,Process Area
+AREA000111,UNIT00017,Loading/Unloading Area 07,Process Area
+AREA000112,UNIT00017,Loading/Unloading Area 08,Indoor
+AREA000113,UNIT00018,Fire Water System Area 01,Indoor
+AREA000114,UNIT00018,Fire Water System Area 02,Outdoor
+AREA000115,UNIT00018,Fire Water System Area 03,Outdoor
+AREA000116,UNIT00018,Fire Water System Area 04,Indoor
+AREA000117,UNIT00019,Pipeline Pumping Area 01,Sheltered
+AREA000118,UNIT00019,Pipeline Pumping Area 02,Outdoor
+AREA000119,UNIT00019,Pipeline Pumping Area 03,Indoor
+AREA000120,UNIT00019,Pipeline Pumping Area 04,Sheltered
+AREA000121,UNIT00020,Metering Station Area 01,Process Area
+AREA000122,UNIT00020,Metering Station Area 02,Sheltered
+AREA000123,UNIT00020,Metering Station Area 03,Process Area
+AREA000124,UNIT00020,Metering Station Area 04,Indoor
+AREA000125,UNIT00020,Metering Station Area 05,Process Area
+AREA000126,UNIT00020,Metering Station Area 06,Process Area
+AREA000127,UNIT00021,Terminal Operations Area 01,Sheltered
+AREA000128,UNIT00021,Terminal Operations Area 02,Outdoor
+AREA000129,UNIT00021,Terminal Operations Area 03,Process Area
+AREA000130,UNIT00021,Terminal Operations Area 04,Process Area
+AREA000131,UNIT00021,Terminal Operations Area 05,Sheltered
+AREA000132,UNIT00021,Terminal Operations Area 06,Sheltered
+AREA000133,UNIT00021,Terminal Operations Area 07,Sheltered
+AREA000134,UNIT00021,Terminal Operations Area 08,Outdoor
+AREA000135,UNIT00022,Mechanical Workshop Area 01,Indoor
+AREA000136,UNIT00022,Mechanical Workshop Area 02,Outdoor
+AREA000137,UNIT00022,Mechanical Workshop Area 03,Sheltered
+AREA000138,UNIT00022,Mechanical Workshop Area 04,Process Area
+AREA000139,UNIT00022,Mechanical Workshop Area 05,Process Area
+AREA000140,UNIT00022,Mechanical Workshop Area 06,Process Area
+AREA000141,UNIT00023,Electrical Workshop Area 01,Indoor
+AREA000142,UNIT00023,Electrical Workshop Area 02,Outdoor
+AREA000143,UNIT00023,Electrical Workshop Area 03,Outdoor
+AREA000144,UNIT00023,Electrical Workshop Area 04,Sheltered
+AREA000145,UNIT00023,Electrical Workshop Area 05,Indoor
+AREA000146,UNIT00023,Electrical Workshop Area 06,Sheltered
+AREA000147,UNIT00023,Electrical Workshop Area 07,Indoor
+AREA000148,UNIT00023,Electrical Workshop Area 08,Process Area
+AREA000149,UNIT00024,Fabrication Shop Area 01,Indoor
+AREA000150,UNIT00024,Fabrication Shop Area 02,Indoor
+AREA000151,UNIT00024,Fabrication Shop Area 03,Outdoor
+AREA000152,UNIT00024,Fabrication Shop Area 04,Sheltered
+AREA000153,UNIT00024,Fabrication Shop Area 05,Sheltered
+AREA000154,UNIT00024,Fabrication Shop Area 06,Indoor
+AREA000155,UNIT00024,Fabrication Shop Area 07,Sheltered
+AREA000156,UNIT00025,Drilling Rig Area Area 01,Indoor
+AREA000157,UNIT00025,Drilling Rig Area Area 02,Sheltered
+AREA000158,UNIT00025,Drilling Rig Area Area 03,Process Area
+AREA000159,UNIT00025,Drilling Rig Area Area 04,Outdoor
+AREA000160,UNIT00025,Drilling Rig Area Area 05,Process Area
+AREA000161,UNIT00025,Drilling Rig Area Area 06,Sheltered
+AREA000162,UNIT00025,Drilling Rig Area Area 07,Indoor
+AREA000163,UNIT00025,Drilling Rig Area Area 08,Outdoor
+AREA000164,UNIT00026,Wellhead & Manifold Area 01,Outdoor
+AREA000165,UNIT00026,Wellhead & Manifold Area 02,Process Area
+AREA000166,UNIT00026,Wellhead & Manifold Area 03,Sheltered
+AREA000167,UNIT00026,Wellhead & Manifold Area 04,Outdoor
+AREA000168,UNIT00027,Mud System Area 01,Sheltered
+AREA000169,UNIT00027,Mud System Area 02,Outdoor
+AREA000170,UNIT00027,Mud System Area 03,Outdoor
+AREA000171,UNIT00027,Mud System Area 04,Sheltered
+AREA000172,UNIT00027,Mud System Area 05,Process Area
+AREA000173,UNIT00027,Mud System Area 06,Sheltered
+AREA000174,UNIT00027,Mud System Area 07,Process Area
+AREA000175,UNIT00028,Fleet Yard Area 01,Outdoor
+AREA000176,UNIT00028,Fleet Yard Area 02,Process Area
+AREA000177,UNIT00028,Fleet Yard Area 03,Sheltered
+AREA000178,UNIT00028,Fleet Yard Area 04,Process Area
+AREA000179,UNIT00028,Fleet Yard Area 05,Process Area
+AREA000180,UNIT00028,Fleet Yard Area 06,Sheltered
+AREA000181,UNIT00028,Fleet Yard Area 07,Indoor
+AREA000182,UNIT00029,Materials Warehouse Area 01,Process Area
+AREA000183,UNIT00029,Materials Warehouse Area 02,Outdoor
+AREA000184,UNIT00029,Materials Warehouse Area 03,Indoor
+AREA000185,UNIT00029,Materials Warehouse Area 04,Outdoor
+AREA000186,UNIT00030,Vehicle Maintenance Area 01,Indoor
+AREA000187,UNIT00030,Vehicle Maintenance Area 02,Outdoor
+AREA000188,UNIT00030,Vehicle Maintenance Area 03,Sheltered
+AREA000189,UNIT00030,Vehicle Maintenance Area 04,Outdoor
+AREA000190,UNIT00030,Vehicle Maintenance Area 05,Sheltered
+AREA000191,UNIT00031,Production Separation Area 01,Outdoor
+AREA000192,UNIT00031,Production Separation Area 02,Indoor
+AREA000193,UNIT00031,Production Separation Area 03,Indoor
+AREA000194,UNIT00031,Production Separation Area 04,Outdoor
+AREA000195,UNIT00032,Crude Handling Area 01,Outdoor
+AREA000196,UNIT00032,Crude Handling Area 02,Process Area
+AREA000197,UNIT00032,Crude Handling Area 03,Sheltered
+AREA000198,UNIT00032,Crude Handling Area 04,Sheltered
+AREA000199,UNIT00032,Crude Handling Area 05,Process Area
+AREA000200,UNIT00032,Crude Handling Area 06,Process Area
+AREA000201,UNIT00033,Produced Water Area 01,Sheltered
+AREA000202,UNIT00033,Produced Water Area 02,Indoor
+AREA000203,UNIT00033,Produced Water Area 03,Process Area
+AREA000204,UNIT00033,Produced Water Area 04,Process Area
+AREA000205,UNIT00033,Produced Water Area 05,Outdoor
+AREA000206,UNIT00033,Produced Water Area 06,Process Area
+AREA000207,UNIT00033,Produced Water Area 07,Process Area
+AREA000208,UNIT00033,Produced Water Area 08,Process Area
+AREA000209,UNIT00034,Gas Compression Area 01,Outdoor
+AREA000210,UNIT00034,Gas Compression Area 02,Process Area
+AREA000211,UNIT00034,Gas Compression Area 03,Process Area
+AREA000212,UNIT00034,Gas Compression Area 04,Sheltered
+AREA000213,UNIT00034,Gas Compression Area 05,Process Area
+AREA000214,UNIT00034,Gas Compression Area 06,Sheltered
+AREA000215,UNIT00034,Gas Compression Area 07,Outdoor
+AREA000216,UNIT00034,Gas Compression Area 08,Indoor
+AREA000217,UNIT00035,Gas Dehydration Area 01,Indoor
+AREA000218,UNIT00035,Gas Dehydration Area 02,Outdoor
+AREA000219,UNIT00035,Gas Dehydration Area 03,Indoor
+AREA000220,UNIT00035,Gas Dehydration Area 04,Process Area
+AREA000221,UNIT00035,Gas Dehydration Area 05,Outdoor
+AREA000222,UNIT00036,Gas Treatment Area 01,Indoor
+AREA000223,UNIT00036,Gas Treatment Area 02,Process Area
+AREA000224,UNIT00036,Gas Treatment Area 03,Outdoor
+AREA000225,UNIT00036,Gas Treatment Area 04,Process Area
+AREA000226,UNIT00036,Gas Treatment Area 05,Process Area
+AREA000227,UNIT00036,Gas Treatment Area 06,Process Area
+AREA000228,UNIT00036,Gas Treatment Area 07,Process Area
