@@ -6,7 +6,7 @@ An AI/NLP-based safety intelligence prototype designed for **Oil India Limited (
 
 The system converts free-text safety observations into structured safety intelligence by identifying **SIF potential, hazards, safety barriers, IOGP Life-Saving Rules, risk levels and recommended corrective actions**.
 
-> **Note:** The current prototype uses synthetic data for demonstration purposes and does not represent actual OIL operational data.
+> **Note:** The current prototype uses synthetic data for demonstration purposes and does not represent actual OIL operational data.(MADE FOR THE INTERNAL ROUND FOR IIT-MADRAS)
 
 ---
 
